@@ -31,6 +31,7 @@
 <link rel="stylesheet" href="misc/icons.css">
 
 <!-- include custom styles -->
+<link rel="stylesheet" href="misc/main.css">
 
 <!-- some inline styles -->
 <style>
