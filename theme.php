@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<?php
+			include("template/head.php");
+		?>
+	</head>
+	<body>
+		<?php
+			include("template/body.php");
+		?>
+	</body>
+</html>
