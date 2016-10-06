@@ -19,163 +19,163 @@ html, body {
   margin: 0;
   padding: 0;
 }
-.mld-parrot .mdl-layout__header-row {
+.mdl-parrot .mdl-layout__header-row {
   padding-left: 40px;
 }
-.mld-parrot .mdl-layout.is-small-screen .mdl-layout__header-row h3 {
+.mdl-parrot .mdl-layout.is-small-screen .mdl-layout__header-row h3 {
   font-size: inherit;
 }
-.mld-parrot .mdl-layout__tab-bar-button {
+.mdl-parrot .mdl-layout__tab-bar-button {
   display: none;
 }
-.mld-parrot .mdl-layout.is-small-screen .mdl-layout__tab-bar .mdl-button {
+.mdl-parrot .mdl-layout.is-small-screen .mdl-layout__tab-bar .mdl-button {
   display: none;
 }
-.mld-parrot .mdl-layout:not(.is-small-screen) .mdl-layout__tab-bar,
-.mld-parrot .mdl-layout:not(.is-small-screen) .mdl-layout__tab-bar-container {
+.mdl-parrot .mdl-layout:not(.is-small-screen) .mdl-layout__tab-bar,
+.mdl-parrot .mdl-layout:not(.is-small-screen) .mdl-layout__tab-bar-container {
   overflow: visible;
 }
-.mld-parrot .mdl-layout__tab-bar-container {
+.mdl-parrot .mdl-layout__tab-bar-container {
   height: 64px;
 }
-.mld-parrot .mdl-layout__tab-bar {
+.mdl-parrot .mdl-layout__tab-bar {
   padding: 0;
   padding-left: 16px;
   box-sizing: border-box;
   height: 100%;
   width: 100%;
 }
-.mld-parrot .mdl-layout__tab-bar .mdl-layout__tab {
+.mdl-parrot .mdl-layout__tab-bar .mdl-layout__tab {
   height: 64px;
   line-height: 64px;
 }
-.mld-parrot .mdl-layout__tab-bar .mdl-layout__tab.is-active::after {
+.mdl-parrot .mdl-layout__tab-bar .mdl-layout__tab.is-active::after {
   background-color: white;
   height: 4px;
 }
-.mld-parrot main > .mdl-layout__tab-panel {
+.mdl-parrot main > .mdl-layout__tab-panel {
   padding: 8px;
   padding-top: 48px;
 }
-.mld-parrot .mdl-card {
+.mdl-parrot .mdl-card {
   height: auto;
   display: flex;
   flex-direction: column;
 }
-.mld-parrot .mdl-card > * {
+.mdl-parrot .mdl-card > * {
   height: auto;
 }
-.mld-parrot .mdl-card .mdl-card__supporting-text {
+.mdl-parrot .mdl-card .mdl-card__supporting-text {
   margin: 40px;
   flex-grow: 1;
   padding: 0;
   color: inherit;
   width: calc(100% - 80px);
 }
-.mld-parrot.mld-parrot .mdl-card__supporting-text h4 {
+.mdl-parrot.mdl-parrot .mdl-card__supporting-text h4 {
   margin-top: 0;
   margin-bottom: 20px;
 }
-.mld-parrot .mdl-card__actions {
+.mdl-parrot .mdl-card__actions {
   margin: 0;
   padding: 4px 40px;
   color: inherit;
 }
-.mld-parrot .mdl-card__actions a {
+.mdl-parrot .mdl-card__actions a {
   color: #00BCD4;
   margin: 0;
 }
-.mld-parrot .mdl-card__actions a:hover,
-.mld-parrot .mdl-card__actions a:active {
+.mdl-parrot .mdl-card__actions a:hover,
+.mdl-parrot .mdl-card__actions a:active {
   color: inherit;
   background-color: transparent;
 }
-.mld-parrot .mdl-card__supporting-text + .mdl-card__actions {
+.mdl-parrot .mdl-card__supporting-text + .mdl-card__actions {
   border-top: 1px solid rgba(0, 0, 0, 0.12);
 }
-.mld-parrot #add {
+.mdl-parrot #add {
   position: absolute;
   right: 40px;
   top: 36px;
   z-index: 999;
 }
 
-.mld-parrot .mdl-layout__content section:not(:last-of-type) {
+.mdl-parrot .mdl-layout__content section:not(:last-of-type) {
   position: relative;
   margin-bottom: 48px;
 }
-.mld-parrot section.section--center {
+.mdl-parrot section.section--center {
   max-width: 860px;
 }
-.mld-parrot #features section.section--center {
+.mdl-parrot #features section.section--center {
   max-width: 620px;
 }
-.mld-parrot section > header{
+.mdl-parrot section > header{
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.mld-parrot section > .section__play-btn {
+.mdl-parrot section > .section__play-btn {
   min-height: 200px;
 }
-.mld-parrot section > header > .material-icons {
+.mdl-parrot section > header > .material-icons {
   font-size: 3rem;
 }
-.mld-parrot section > button {
+.mdl-parrot section > button {
   position: absolute;
   z-index: 99;
   top: 8px;
   right: 8px;
 }
-.mld-parrot section .section__circle {
+.mdl-parrot section .section__circle {
   display: flex;
   align-items: center;
   justify-content: flex-start;
   flex-grow: 0;
   flex-shrink: 1;
 }
-.mld-parrot section .section__text {
+.mdl-parrot section .section__text {
   flex-grow: 1;
   flex-shrink: 0;
   padding-top: 8px;
 }
-.mld-parrot section .section__text h5 {
+.mdl-parrot section .section__text h5 {
   font-size: inherit;
   margin: 0;
   margin-bottom: 0.5em;
 }
-.mld-parrot section .section__text a {
+.mdl-parrot section .section__text a {
   text-decoration: none;
 }
-.mld-parrot section .section__circle-container > .section__circle-container__circle {
+.mdl-parrot section .section__circle-container > .section__circle-container__circle {
   width: 64px;
   height: 64px;
   border-radius: 32px;
   margin: 8px 0;
 }
-.mld-parrot section.section--footer .section__circle--big {
+.mdl-parrot section.section--footer .section__circle--big {
   width: 100px;
   height: 100px;
   border-radius: 50px;
   margin: 8px 32px;
 }
-.mld-parrot .is-small-screen section.section--footer .section__circle--big {
+.mdl-parrot .is-small-screen section.section--footer .section__circle--big {
   width: 50px;
   height: 50px;
   border-radius: 25px;
   margin: 8px 16px;
 }
-.mld-parrot section.section--footer {
+.mdl-parrot section.section--footer {
   padding: 64px 0;
   margin: 0 -8px -8px -8px;
 }
-.mld-parrot section.section--center .section__text:not(:last-child) {
+.mdl-parrot section.section--center .section__text:not(:last-child) {
   border-bottom: 1px solid rgba(0,0,0,.13);
 }
-.mld-parrot .mdl-card .mdl-card__supporting-text > h3:first-child {
+.mdl-parrot .mdl-card .mdl-card__supporting-text > h3:first-child {
   margin-bottom: 24px;
 }
-.mld-parrot .mdl-layout__tab-panel:not(#overview) {
+.mdl-parrot .mdl-layout__tab-panel:not(#overview) {
   background-color: white;
 }
 .mdl-parrot #features section {
