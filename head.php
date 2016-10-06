@@ -1,4 +1,4 @@
-<title></title>
+<title>Parrot Security</title>
 
 <!-- common meta -->
 <meta charset="utf-8">
@@ -35,7 +35,7 @@
 
 <!-- some inline styles -->
 <style>
-    #view-source {
+    #download-parrot {
       position: fixed;
       display: block;
       right: 0;
