@@ -178,13 +178,13 @@ html, body {
 .mdl-demo .mdl-layout__tab-panel:not(#overview) {
   background-color: white;
 }
-.mdl-demo #features section {
+.mdl-parrot #features section {
   margin-bottom: 72px;
 }
-.mdl-demo #features h4, #features h5 {
+.mdl-parrot #features h4, #features h5 {
   margin-bottom: 16px;
 }
-.mdl-demo .toc {
+.mdl-parrot .toc {
   border-left: 4px solid #C1EEF4;
   margin: 24px;
   padding: 0;
@@ -192,17 +192,17 @@ html, body {
   display: flex;
   flex-direction: column;
 }
-.mdl-demo .toc h4 {
+.mdl-parrot .toc h4 {
   font-size: 0.9rem;
   margin-top: 0;
 }
-.mdl-demo .toc a {
+.mdl-parrot .toc a {
   color: #4DD0E1;
   text-decoration: none;
   font-size: 16px;
   line-height: 28px;
   display: block;
 }
-.mdl-demo .mdl-menu__container {
+.mdl-parrot .mdl-menu__container {
   z-index: 99;
 }
