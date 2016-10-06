@@ -1,12 +1,12 @@
 <html>
 	<head>
 		<?php
-			include("template/head.php");
+			include("head.php");
 		?>
 	</head>
-	<body>
+	<body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
 		<?php
-			include("template/body.php");
+			include("body.php");
 		?>
 	</body>
 </html>
