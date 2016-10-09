@@ -18,7 +18,11 @@ html, body {
   font-family: 'Roboto', 'Helvetica', sans-serif;
   margin: 0;
   padding: 0;
-  min-width:512px;
+  min-width:518px;
+}
+
+.mld-parrot {
+    min-width:518px;
 }
 .mdl-parrot .mdl-layout__header-row {
   padding-left: 40px;
