@@ -104,15 +104,20 @@
               <div class="section__circle-container__circle mdl-color--accent section__circle--big"></div>
             </div>
             <div class="section__text mdl-cell mdl-cell--4-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
-              <h5>Lorem ipsum dolor sit amet</h5>
-              Qui sint ut et qui nisi cupidatat. Reprehenderit nostrud proident officia exercitation anim et pariatur ex.
+              <a href="https://dasaweb.net/cart.php?gid=18" target="_blank" style="color:#666">
+              <h4>Dasaweb to sell Parrot Cloud</h4>
+                Dasaweb a great european provider, now sells VPS with parrot cloud pre-installed.<br>
+                The service is maintained in collaboration with the Parrot Core Team and the service seems to have an exponential polularity.
+                </a>
             </div>
             <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
               <div class="section__circle-container__circle mdl-color--accent section__circle--big"></div>
             </div>
             <div class="section__text mdl-cell mdl-cell--4-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
-              <h5>Lorem ipsum dolor sit amet</h5>
-              Qui sint ut et qui nisi cupidatat. Reprehenderit nostrud proident officia exercitation anim et pariatur ex.
+              <a href="https://irisproject.org" target="_blank" style="color:#666">
+              <h4>Iris Project</h4>
+                Some members of the Parrot Core Team are working on a derivative project with the aim to ship a Debian based distribution with only free software, the project is made as an alternative to the old GNewSense distribution which seems to be no longer maintained.
+              </a>
             </div>
           </section>
         </div>
