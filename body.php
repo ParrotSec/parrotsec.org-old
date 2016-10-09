@@ -9,7 +9,7 @@
         </div>
         <div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark">
           <a href="https://www.parrotsec.org" class="mdl-layout__tab is-active">Home</a>
-          <a href="https://www.parrotsec.org/download.fx">Download</a>
+          <a href="https://www.parrotsec.org/download.fx" class="mdl-layout__tab">Download</a>
           <a href="#features" class="mdl-layout__tab">Features</a>
           <a href="https://doc.parrotsec.org/" class="mdl-layout__tab">Documentation</a>
           <a href="https://doc.parrotsec.org/devel" class="mdl-layout__tab">Development</a>
