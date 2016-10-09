@@ -228,11 +228,6 @@
                 and the top class analysis, evidence management and reporting softwares,<br>
                 all of them on top of a reliable OS designed to not alter the proof.
               </div>
-              <div class="mdl-card__actions mdl-card--border">
-                <a href="https://doc.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-                  Check our documentation
-                </a>
-              </div>
             </div>
           </section>
           <section class="section--center mdl-grid mdl-grid--no-spacing">
@@ -241,20 +236,29 @@
                 <h2 class="mdl-card__title-text">Cryptography</h2>
               </div>
               <div class="mdl-card__supporting-text">
-                <ul>
-                  <li>CPU: at least 1Ghz dual core cpu</li>
-                  <li>ARCH: 32bit, 64bit, ARM (coming soon)</li>
-                  <li>RAM: 256Mb - 512Mb suggested</li>
-                  <li>GPU: No graphic acceleration required</li>
-                  <li>HDD Standard: 4Gb used - 8Gb suggested </li>
-                  <li>HDD Full: 8Gb used - 16Gb suggested </li>
-                  <li>BOOT: Legacy bios or UEFI (testing)</li>
-                </ul>
-              </div>
-              <div class="mdl-card__actions mdl-card--border">
-                <a href="https://doc.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-                  Check our documentation
-                </a>
+                Parrot includes many cryptographic softwares<br>
+                which are extremely useful when it comes to<br>
+                protect your confidential data and defend your privacy.<br>
+                <br>
+                Parrot includes several cryptographic front-ends to work
+                both with symmetric and asymmetric encryption, infact it
+                natively supports volumes encryption with LUKS, TrueCrypt, VeraCrypt
+                and the hidden TrueCrypt/VeraCrypt volumes with nested algorythms support.<br>
+                <br>
+                The whole system can be installed inside an encrypted
+                partition to protect your computer in case of theft.<br>
+                <br>
+                Another swiss army knife of your privacy is GPG, the GNU Privacy Guard,
+                an extremely powerful PGP software that lets you create a private/public
+                pair of keys to apply digital signatures to your messages and to
+                allow other people to send you encrypted messages that only your
+                private key can decrypt, in can also hande multiple identities and subkeys,
+                and its power resides in its ring of trust as PGP users can sign each other's keys
+                to make other people know if a digital identity is valid or not.<br>
+                <br>
+                Even our software repository is digitally signed by GPG, and the system automatically
+                verifies if an update was altered or compromised and it refuses to upgrade
+                or to install new software if our digital signature is not found or not valid.
               </div>
             </div>
           </section>
@@ -264,15 +268,18 @@
                 <h2 class="mdl-card__title-text">Privacy</h2>
               </div>
               <div class="mdl-card__supporting-text">
-                <ul>
-                  <li>CPU: at least 1Ghz dual core cpu</li>
-                  <li>ARCH: 32bit, 64bit, ARM (coming soon)</li>
-                  <li>RAM: 256Mb - 512Mb suggested</li>
-                  <li>GPU: No graphic acceleration required</li>
-                  <li>HDD Standard: 4Gb used - 8Gb suggested </li>
-                  <li>HDD Full: 8Gb used - 16Gb suggested </li>
-                  <li>BOOT: Legacy bios or UEFI (testing)</li>
-                </ul>
+                  Your privacy is the most valuable thing you have in your digital life
+                  and the whole Parrot Team is exaggeratedly paranoid when it comes to users privacy,
+                  infact our system doesn't contain tracking systems, and it is hardened in deep to
+                  protect users from prying eyes.<br>
+                  <br>
+                  Parrot has developed and implemented several tricks and softwares to achieve this goal,
+                  and AnonSurf is one of the most important examples, it is a software designed to start TOR and
+                  hijack all the internet traffic made by the system through the TOR network, we have also modified
+                  the system to make it use DNS servers different from those offered by your internet provider.<br>
+                  <br>
+                  Parrot also includes torbrowser, torchat and other anonymous services,
+                  like I2P, a powerful alternative to TOR.
               </div>
               <div class="mdl-card__actions mdl-card--border">
                 <a href="https://doc.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
@@ -287,20 +294,20 @@
                 <h2 class="mdl-card__title-text">Programming</h2>
               </div>
               <div class="mdl-card__supporting-text">
-                <ul>
-                  <li>CPU: at least 1Ghz dual core cpu</li>
-                  <li>ARCH: 32bit, 64bit, ARM (coming soon)</li>
-                  <li>RAM: 256Mb - 512Mb suggested</li>
-                  <li>GPU: No graphic acceleration required</li>
-                  <li>HDD Standard: 4Gb used - 8Gb suggested </li>
-                  <li>HDD Full: 8Gb used - 16Gb suggested </li>
-                  <li>BOOT: Legacy bios or UEFI (testing)</li>
-                </ul>
-              </div>
-              <div class="mdl-card__actions mdl-card--border">
-                <a href="https://doc.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-                  Check our documentation
-                </a>
+                  The main goal of an environment designed by hackers for hackers is the possibility
+                  to change it, adapt it, transform it and use it as a development platform to create
+                  new things, this is why Parrot comes out of the box with several tools for developers
+                  such as compilers, disassemblers, IDEs, comfortable editors and powerful frameworks.<br>
+                  <br>
+                  Parrot includes QTCreator as its main C, C++ and Qt integrated development environment.
+                  Another very useful tool is Geany, a lightweight and simple IDE which supports a huge amount
+                  of programming languages, while we also include Atom, the opensource editor of the future
+                  developed by GitHub, and many compilers and interpreters with their most important libraries
+                  are pre-installed and ready to use.<br>
+                  <br>
+                  And of course many other editors, development softwares and libraries are available
+                  through our software repository where we keep all the development tools always updated
+                  to their most cutting edge but reliable version.
               </div>
             </div>
           </section>
