@@ -97,7 +97,7 @@
             </div>
             <div class="section__text mdl-cell mdl-cell--4-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
               <a href="https://dasaweb.net/cart.php?gid=18" target="_blank" style="color:#666">
-              <h4>Dasaweb to sell Parrot Cloud</h4>
+              <h4>Dasaweb and Parrot Cloud</h4>
                 Dasaweb a great european provider, now sells VPS with parrot cloud pre-installed.<br>
                 The service is maintained in collaboration with the Parrot Core Team and the service seems to have an exponential polularity.
                 </a>
@@ -115,23 +115,7 @@
         </div>
         <div class="mdl-layout__tab-panel" id="features">
           <section class="section--center mdl-grid mdl-grid--no-spacing">
-
-              <!-- Wide card with share menu button -->
-              <style>
-                .demo-card-wide.mdl-card {
-                  width: 768px;
-                }
-                .demo-card-wide > .mdl-card__title {
-                  color: #aaa;
-                  height: 176px;
-                  background: url('img/slides.png') center / cover;
-                }
-                .demo-card-wide > .mdl-card__menu {
-                  color: #aaa;
-                }
-              </style>
-
-              <div class="demo-card-wide mdl-card mdl-shadow--2dp">
+              <div class="features-heading-wide mdl-card mdl-shadow--2dp">
                 <div class="mdl-card__title">
                   <h2 class="mdl-card__title-text">Features</h2>
                 </div>
@@ -153,7 +137,22 @@
                   </a>
                 </div>
               </div>
-
+          </section>
+          <section class="section--center mdl-grid mdl-grid--no-spacing">
+            <div class="features-card-square mdl-card mdl-shadow--2dp">
+              <div class="mdl-card__title mdl-card--expand">
+                <h2 class="mdl-card__title-text">Update</h2>
+              </div>
+              <div class="mdl-card__supporting-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Aenan convallis.
+              </div>
+              <div class="mdl-card__actions mdl-card--border">
+                <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                  View Updates
+                </a>
+              </div>
+            </div>
           </section>
         </div>
         <footer class="mdl-mega-footer">

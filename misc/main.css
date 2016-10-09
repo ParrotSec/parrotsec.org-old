@@ -206,3 +206,28 @@ html, body {
 .mdl-parrot .mdl-menu__container {
   z-index: 99;
 }
+
+
+.features-heading-widget.mdl-card {
+  width: 768px;
+}
+.features-heading-widget > .mdl-card__title {
+  color: #aaa;
+  height: 176px;
+  background: url('../img/slides.png') center / cover;
+}
+.features-heading-widget > .mdl-card__menu {
+  color: #aaa;
+}
+
+
+
+.features-card-square.mdl-card {
+  width: 320px;
+  height: 320px;
+}
+.features-card-square > .mdl-card__title {
+  color: #fff;
+  /*background:
+          url('../img/parrot-computer.png') bottom right 15% no-repeat #46B6AC;*/
+}
