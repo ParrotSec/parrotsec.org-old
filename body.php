@@ -78,14 +78,14 @@
                 </div>
               </div>
             </div>
-            <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn2">
+            <?php /*<button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn2">
               <i class="material-icons">more_vert</i>
             </button>
             <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="btn2">
               <li class="mdl-menu__item">Lorem</li>
               <li class="mdl-menu__item" disabled>Ipsum</li>
               <li class="mdl-menu__item">Dolor</li>
-            </ul>
+            </ul>*/ ?>
           </section>
           <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
             <div class="mdl-card mdl-cell mdl-cell--12-col">
@@ -98,14 +98,6 @@
                 <a href="https://doc.parrotsec.org/community" class="mdl-button">Join us</a>
               </div>
             </div>
-            <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn3">
-              <i class="material-icons">more_vert</i>
-            </button>
-            <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="btn3">
-              <li class="mdl-menu__item">Lorem</li>
-              <li class="mdl-menu__item" disabled>Ipsum</li>
-              <li class="mdl-menu__item">Dolor</li>
-            </ul>
           </section>
           <section class="section--footer mdl-color--white mdl-grid">
             <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
