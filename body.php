@@ -123,7 +123,7 @@
                       Webmaster<br>
                   </div>
                   <div class="mdl-card__actions mdl-card--border">
-                      <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html">Read more</a>
+                      <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/palinuro">See Profile and keys</a>
                   </div>
                 </div>
                 <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
@@ -139,7 +139,7 @@
                         Quality Assurance<br>
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
-                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html">Read more</a>
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/sheireen">See Profile and keys</a>
                     </div>
                 </div>
                 <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
@@ -155,7 +155,7 @@
                         ARM Developer<br>
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
-                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html">Read more</a>
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/mibofra">See Profile and keys</a>
                     </div>
                 </div>
                 <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
@@ -170,7 +170,7 @@
                         IrisProject Team Leader<br>
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
-                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html">Read more</a>
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/quietwalker">See Profile and keys</a>
                     </div>
                 </div>
                 <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
@@ -185,7 +185,26 @@
                         Beta Tester<br>
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
-                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html">Read more</a>
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/tissy">See Profile and keys</a>
+                    </div>
+                </div>
+                <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
+                    <div class="mdl-card__media">
+                        <img class="team-pictures" src="img/boxes.jpg" border="0" alt="">
+                    </div>
+                    <div class="mdl-card__title">
+                        <b>Other Contributors</b>
+                    </div>
+                    <div class="mdl-card__supporting-text">
+                        Agostino DI Lillo<br>
+                        Andrea Amani<br>
+                        Davide Crivello (Dakso)<br>
+                        Nanni Bassetti<br>
+                        Giancarlo Niccolai<br>
+                        Jeff Szydel<br>
+                    </div>
+                    <div class="mdl-card__actions mdl-card--border">
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/tissy">See Profile and keys</a>
                     </div>
                 </div>
             </div>
