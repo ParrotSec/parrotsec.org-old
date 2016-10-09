@@ -12,9 +12,9 @@
           <a href="https://www.parrotsec.org/download.fx" class="mdl-layout__tab">Download</a>
           <a href="#features" class="mdl-layout__tab">Features</a>
           <a href="https://blog.parrotsec.org/" class="mdl-layout__tab">Blog</a>
-          <a href="https://doc.parrotsec.org/" class="mdl-layout__tab">Documentation</a>
-          <a href="https://doc.parrotsec.org/devel" class="mdl-layout__tab">Development</a>
-          <a href="https://doc.parrotsec.org/FAQ" class="mdl-layout__tab">FAQ</a>
+          <a href="https://docs.parrotsec.org/" class="mdl-layout__tab">Documentation</a>
+          <a href="https://docs.parrotsec.org/devel" class="mdl-layout__tab">Development</a>
+          <a href="https://docs.parrotsec.org/FAQ" class="mdl-layout__tab">FAQ</a>
           <button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored mdl-shadow--4dp mdl-color--accent" id="add">
             <i class="material-icons" role="presentation">add</i>
             <span class="visuallyhidden">Add</span>
@@ -35,7 +35,7 @@
                 all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.
               </div>
               <div class="mdl-card__actions">
-                <a href="https://doc.parrotsec.org/FAQ" class="mdl-button">Frequently Asked Questions</a>
+                <a href="https://docs.parrotsec.org/FAQ" class="mdl-button">Frequently Asked Questions</a>
               </div>
             </div>
           </section>
@@ -79,7 +79,7 @@
                   Feel free to join us, and actively follow our development, know awesome people all around the world and get help directly from the developers.
               </div>
               <div class="mdl-card__actions">
-                <a href="https://doc.parrotsec.org/community" class="mdl-button">Join us</a>
+                <a href="https://docs.parrotsec.org/community" class="mdl-button">Join us</a>
               </div>
             </div>
           </section>
@@ -123,7 +123,7 @@
                       Webmaster<br>
                   </div>
                   <div class="mdl-card__actions mdl-card--border">
-                      <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/palinuro">See Profile and keys</a>
+                      <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://docs.parrotsec.org/user/palinuro">See Profile and keys</a>
                   </div>
                 </div>
                 <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
@@ -139,7 +139,7 @@
                         Quality Assurance<br>
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
-                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/sheireen">See Profile and keys</a>
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://docs.parrotsec.org/user/sheireen">See Profile and keys</a>
                     </div>
                 </div>
                 <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
@@ -155,7 +155,7 @@
                         ARM Developer<br>
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
-                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/mibofra">See Profile and keys</a>
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://docs.parrotsec.org/user/mibofra">See Profile and keys</a>
                     </div>
                 </div>
                 <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
@@ -170,7 +170,7 @@
                         IrisProject Team Leader<br>
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
-                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/quietwalker">See Profile and keys</a>
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://docs.parrotsec.org/user/quietwalker">See Profile and keys</a>
                     </div>
                 </div>
                 <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
@@ -185,7 +185,7 @@
                         Beta Tester<br>
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
-                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/tissy">See Profile and keys</a>
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://docs.parrotsec.org/user/tissy">See Profile and keys</a>
                     </div>
                 </div>
                 <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
@@ -204,7 +204,7 @@
                         Jeff Szydel<br>
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
-                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/tissy">See Profile and keys</a>
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://docs.parrotsec.org/user/tissy">See Profile and keys</a>
                     </div>
                 </div>
             </div>
@@ -257,7 +257,7 @@
                 </ul>
               </div>
               <div class="mdl-card__actions mdl-card--border">
-                <a href="https://doc.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                <a href="https://docs.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
                   Check our documentation
                 </a>
               </div>
@@ -379,7 +379,7 @@
                   like I2P, a powerful alternative to TOR.
               </div>
               <div class="mdl-card__actions mdl-card--border">
-                <a href="https://doc.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                <a href="https://docs.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
                   Check our documentation
                 </a>
               </div>
