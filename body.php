@@ -113,14 +113,19 @@
             </div>
           </section>
         </div>
+
+
+
+
+
+
         <div class="mdl-layout__tab-panel" id="features">
           <section class="section--center mdl-grid mdl-grid--no-spacing">
               <div class="features-heading-wide mdl-card mdl-shadow--2dp">
                 <div class="mdl-card__title">
-                  <h2 class="mdl-card__title-text">Features</h2>
+                  <h2 class="mdl-card__title-text">System Specs</h2>
                 </div>
                 <div class="mdl-card__supporting-text">
-                  <h4>System Specs</h4>
                   <ul>
                     <li>Debian GNU/Linux 9 (stretch)</li>
                     <li>Custom hardened Linux 4.7 kernel</li>
@@ -140,16 +145,161 @@
           </section>
           <section class="section--center mdl-grid mdl-grid--no-spacing">
             <div class="features-card-square mdl-card mdl-shadow--2dp">
-              <div class="mdl-card__title mdl-card--expand">
-                <h2 class="mdl-card__title-text">Update</h2>
+              <div class="mdl-card__title mdl-card--expand" style="background-image: url('img/links.jpg')">
+                <h2 class="mdl-card__title-text">System Requirements</h2>
               </div>
               <div class="mdl-card__supporting-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Aenan convallis.
+                <ul>
+                  <li>CPU: at least 1Ghz dual core cpu</li>
+                  <li>ARCH: 32bit, 64bit and ARMhf</li>
+                  <li>RAM: minimum 256Mb - 2048Mb suggested</li>
+                  <li>GPU: No graphic acceleration required</li>
+                  <li>STORAGE lite/core: 4GB / 8GB</li>
+                  <li>STORAGE Full: 16GB</li>
+                  <li>BOOT: Legacy bios or UEFI (testing)</li>
+                </ul>
               </div>
               <div class="mdl-card__actions mdl-card--border">
-                <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-                  View Updates
+                <a href="https://doc.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                  Check our documentation
+                </a>
+              </div>
+            </div>
+          </section>
+          <section class="section--center mdl-grid mdl-grid--no-spacing">
+            <div class="features-card-square mdl-card mdl-shadow--2dp">
+              <div class="mdl-card__title mdl-card--expand" style="background-image: url('img/servers.jpg')">
+                <h2 class="mdl-card__title-text">Cloud</h2>
+              </div>
+              <div class="mdl-card__supporting-text">
+                <h5>Cloud Pentesting</h5>
+                Parrot Cloud is a special edition of our OS specifically
+                designed for servers, it consists on a lightweight parrot
+                system without graphic interfaces, wireless and forensic
+                tools and any other tools that can be considered useless
+                in a remote-controlled virtual environment.
+                <h5>Concept</h5>
+                The idea of Parrot Cloud is to have a VPS or a dedicated
+                server with a special operating system full of useful
+                security tools, neither relying all the dirty work to
+                your local machine nor relying the security of your
+                confidential data to a 3rd party provider.
+                It can also be used to store private files (preferably encrypted),
+                scan targets in the background and other stuff that you
+                don't need to do with your own machines, allowing you to
+                go everywhere you want with just a Parrot live USB and
+                to do great penetration tests without having confidential
+                data physically with you.
+                <h5>How to get it</h5>
+                Download the Cloud ISO image from our download page and install it on your server.
+                Or buy a VPS with Parrot Cloud pre-installed,<br>
+                we offer several plans to suit your needs.<br>
+                <a href="https://dasaweb.net/cart.php?gid=18" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Buy a VPS on our datacenters</a>
+
+                <br>
+                <h5>Parrot Cloud Script</h5>
+                VPS providers usually do not allow the installation of custom uploaded operating systems on their machines so we made a custom script that converts a VPS with a minimal Debian installation into a full Parrot Cloud environment.
+                <br>
+                You can do this by downloading and launching (as root) the following script<br>
+              </div>
+              <div class="mdl-card__actions mdl-card--border">
+                <a href="https://raw.githubusercontent.com/ParrotSec/alternate-install/master/parrot-install.sh" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Get raw code</a>
+                <a href="https://github.com/ParrotSec/alternate-install/blob/master/parrot-install.sh" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">View on GitHub</a><br>
+              </div>
+            </div>
+          </section>
+          <section class="section--center mdl-grid mdl-grid--no-spacing">
+            <div class="features-card-square mdl-card mdl-shadow--2dp">
+              <div class="mdl-card__title mdl-card--expand" style="background-image: url('img/fingerprint.jpg')">
+                <h2 class="mdl-card__title-text">Digital Forensics</h2>
+              </div>
+              <div class="mdl-card__supporting-text">
+                Parrot Security is developed in collaboration with
+                <a href="http://www.caine-live.net/" target="_blank">Caine</a>,
+                one of the most important GNU/Linux distributions in the Digital Forensics field.<br>
+                <br>
+                One of our purposes is to provide the best forensics enviromnent ever seen in a security distro,
+                infact the entire system is hardened to not perform device automounts and to provide all the
+                tools needed to do forensic acquisitions and evidence identifications in a safe comprehensive and portable virtual lab.<br>
+                <br>
+                <br>
+                Parrot includes the most famous frameworks,<br>
+                it has many reliable acquisition and imaging tools<br>
+                and the top class analysis, evidence management and reporting softwares,<br>
+                all of them on top of a reliable OS designed to not alter the proof.
+              </div>
+              <div class="mdl-card__actions mdl-card--border">
+                <a href="https://doc.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                  Check our documentation
+                </a>
+              </div>
+            </div>
+          </section>
+          <section class="section--center mdl-grid mdl-grid--no-spacing">
+            <div class="features-card-square mdl-card mdl-shadow--2dp">
+              <div class="mdl-card__title mdl-card--expand" style="background-image: url('img/crypto.jpg')">
+                <h2 class="mdl-card__title-text">Cryptography</h2>
+              </div>
+              <div class="mdl-card__supporting-text">
+                <ul>
+                  <li>CPU: at least 1Ghz dual core cpu</li>
+                  <li>ARCH: 32bit, 64bit, ARM (coming soon)</li>
+                  <li>RAM: 256Mb - 512Mb suggested</li>
+                  <li>GPU: No graphic acceleration required</li>
+                  <li>HDD Standard: 4Gb used - 8Gb suggested </li>
+                  <li>HDD Full: 8Gb used - 16Gb suggested </li>
+                  <li>BOOT: Legacy bios or UEFI (testing)</li>
+                </ul>
+              </div>
+              <div class="mdl-card__actions mdl-card--border">
+                <a href="https://doc.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                  Check our documentation
+                </a>
+              </div>
+            </div>
+          </section>
+          <section class="section--center mdl-grid mdl-grid--no-spacing">
+            <div class="features-card-square mdl-card mdl-shadow--2dp">
+              <div class="mdl-card__title mdl-card--expand" style="background-image: url('img/who.jpg')">
+                <h2 class="mdl-card__title-text">Privacy</h2>
+              </div>
+              <div class="mdl-card__supporting-text">
+                <ul>
+                  <li>CPU: at least 1Ghz dual core cpu</li>
+                  <li>ARCH: 32bit, 64bit, ARM (coming soon)</li>
+                  <li>RAM: 256Mb - 512Mb suggested</li>
+                  <li>GPU: No graphic acceleration required</li>
+                  <li>HDD Standard: 4Gb used - 8Gb suggested </li>
+                  <li>HDD Full: 8Gb used - 16Gb suggested </li>
+                  <li>BOOT: Legacy bios or UEFI (testing)</li>
+                </ul>
+              </div>
+              <div class="mdl-card__actions mdl-card--border">
+                <a href="https://doc.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                  Check our documentation
+                </a>
+              </div>
+            </div>
+          </section>
+          <section class="section--center mdl-grid mdl-grid--no-spacing">
+            <div class="features-card-square mdl-card mdl-shadow--2dp">
+              <div class="mdl-card__title mdl-card--expand" style="background-image: url('img/devel.jpg')">
+                <h2 class="mdl-card__title-text">Programming</h2>
+              </div>
+              <div class="mdl-card__supporting-text">
+                <ul>
+                  <li>CPU: at least 1Ghz dual core cpu</li>
+                  <li>ARCH: 32bit, 64bit, ARM (coming soon)</li>
+                  <li>RAM: 256Mb - 512Mb suggested</li>
+                  <li>GPU: No graphic acceleration required</li>
+                  <li>HDD Standard: 4Gb used - 8Gb suggested </li>
+                  <li>HDD Full: 8Gb used - 16Gb suggested </li>
+                  <li>BOOT: Legacy bios or UEFI (testing)</li>
+                </ul>
+              </div>
+              <div class="mdl-card__actions mdl-card--border">
+                <a href="https://doc.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                  Check our documentation
                 </a>
               </div>
             </div>

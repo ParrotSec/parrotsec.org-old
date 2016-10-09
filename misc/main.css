@@ -208,26 +208,28 @@ html, body {
 }
 
 
-.features-heading-widget.mdl-card {
-  width: 768px;
+.features-heading-wide.mdl-card {
+    width: 768px;
 }
-.features-heading-widget > .mdl-card__title {
-  color: #aaa;
-  height: 176px;
-  background: url('../img/slides.png') center / cover;
+.features-heading-wide > .mdl-card__title {
+    color: #fff;
+    height: 176px;
+    background: url('../img/slides.png') center / cover;
 }
-.features-heading-widget > .mdl-card__menu {
+.features-heading-wide > .mdl-card__menu {
   color: #aaa;
 }
 
 
 
 .features-card-square.mdl-card {
-  width: 320px;
-  height: 320px;
+    width: 768px;
+    font-size: xx-small;
+  /*height: 320px;*/
 }
 .features-card-square > .mdl-card__title {
-  color: #fff;
-  /*background:
-          url('../img/parrot-computer.png') bottom right 15% no-repeat #46B6AC;*/
+    color: #fff;
+    height:176px;
+    background:
+          url('../img/boxes.jpg') center / cover;
 }
