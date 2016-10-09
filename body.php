@@ -24,12 +24,12 @@
       <main class="mdl-layout__content">
         <div class="mdl-layout__tab-panel is-active" id="home">
           <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
-            <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-100 mdl-color-text--white">
-              <i class="material-icons">play_circle_filled</i>
+            <header class="section__play-btn mdl-cell mdl-cell--5-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-100 mdl-color-text--white">
+              <iframe width="560" height="340" src="https://www.youtube-nocookie.com/embed/KZmXTnOlmME?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
             </header>
-            <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
+            <div class="mdl-card mdl-cell mdl-cell--7-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
               <div class="mdl-card__supporting-text">
-                <h4>Parrot Security</h4>
+                <h3>Parrot Security</h3>
                 Security GNU/Linux distribution designed with cloud pentesting and IoT security in mind.<br><br>
                 It includes a full portable laboratory for security and digital forensics experts, but it also includes
                 all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.
@@ -38,14 +38,14 @@
                 <a href="https://doc.parrotsec.org/FAQ" class="mdl-button">Frequently Asked Questions</a>
               </div>
             </div>
-            <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn1">
+            <?php /*<button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn1">
               <i class="material-icons">more_vert</i>
             </button>
             <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="btn1">
               <li class="mdl-menu__item">Lorem</li>
               <li class="mdl-menu__item" disabled>Ipsum</li>
               <li class="mdl-menu__item">Dolor</li>
-            </ul>
+            </ul>*/ ?>
           </section>
           <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
             <div class="mdl-card mdl-cell mdl-cell--12-col">
@@ -55,26 +55,27 @@
                   <div class="section__circle-container__circle mdl-color--primary"></div>
                 </div>
                 <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
-                  <h5>Lorem ipsum dolor sit amet</h5>
-                  Dolore ex deserunt aute fugiat aute nulla ea sunt aliqua nisi cupidatat eu. Duis nulla tempor do aute et eiusmod velit exercitation nostrud quis <a href="#">proident minim</a>.
+                  <h4>Security</h4>
+                    Parrot Security includes a full arsenal of security oriented tools to perform penetration tests, security audits and more.
+                    With a Parrot usb drive in your pocket you will always be sure to have all you need with you.<br><br>
                 </div>
                 <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
                   <div class="section__circle-container__circle mdl-color--primary"></div>
                 </div>
                 <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
-                  <h5>Lorem ipsum dolor sit amet</h5>
-                  Dolore ex deserunt aute fugiat aute nulla ea sunt aliqua nisi cupidatat eu. Duis nulla tempor do aute et eiusmod velit exercitation nostrud quis <a href="#">proident minim</a>.
+                  <h4>Privacy</h4>
+                    Parrot includes by default TOR, I2P, anonsurf, gpg, tccf, zulucrypt, veracrypt, truecrypt, luks
+                    and many other tecnologies designed to defend your privacy and your identity.<br><br>
                 </div>
                 <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
                   <div class="section__circle-container__circle mdl-color--primary"></div>
                 </div>
                 <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
-                  <h5>Lorem ipsum dolor sit amet</h5>
-                  Dolore ex deserunt aute fugiat aute nulla ea sunt aliqua nisi cupidatat eu. Duis nulla tempor do aute et eiusmod velit exercitation nostrud quis <a href="#">proident minim</a>.
+                  <h4>Development</h4>
+                    If you need a comfortable environment with updated frameworks and useful libraries already installed, Parrot will amaze you
+                    as it includes a full development-oriented environment with some powerful editors and IDEs pre-installed and many other tools
+                    installable from our repository.<br><br>
                 </div>
-              </div>
-              <div class="mdl-card__actions">
-                <a href="#" class="mdl-button">Read our features</a>
               </div>
             </div>
             <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn2">
@@ -89,11 +90,12 @@
           <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
             <div class="mdl-card mdl-cell mdl-cell--12-col">
               <div class="mdl-card__supporting-text">
-                <h4>Technology</h4>
-                Dolore ex deserunt aute fugiat aute nulla ea sunt aliqua nisi cupidatat eu. Nostrud in laboris labore nisi amet do dolor eu fugiat consectetur elit cillum esse. Pariatur occaecat nisi laboris tempor laboris eiusmod qui id Lorem esse commodo in. Exercitation aute dolore deserunt culpa consequat elit labore incididunt elit anim.
+                <h4>Community</h4>
+                  <b>we exist because of our awesome community</b><br>
+                  Feel free to join us, and actively follow our development, know awesome people all around the world and get help directly from the developers.
               </div>
               <div class="mdl-card__actions">
-                <a href="#" class="mdl-button">Read our features</a>
+                <a href="https://doc.parrotsec.org/community" class="mdl-button">Join us</a>
               </div>
             </div>
             <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn3">
