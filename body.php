@@ -8,9 +8,10 @@
         <div class="mdl-layout--large-screen-only mdl-layout__header-row">
         </div>
         <div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark">
-          <a href="https://www.parrotsec.org" class="mdl-layout__tab is-active">Home</a>
+          <a href="#home" class="mdl-layout__tab is-active">Home</a>
           <a href="https://www.parrotsec.org/download.fx" class="mdl-layout__tab">Download</a>
           <a href="#features" class="mdl-layout__tab">Features</a>
+          <a href="https://blog.parrotsec.org/" class="mdl-layout__tab">Blog</a>
           <a href="https://doc.parrotsec.org/" class="mdl-layout__tab">Documentation</a>
           <a href="https://doc.parrotsec.org/devel" class="mdl-layout__tab">Development</a>
           <a href="https://doc.parrotsec.org/FAQ" class="mdl-layout__tab">FAQ</a>
@@ -21,18 +22,20 @@
         </div>
       </header>
       <main class="mdl-layout__content">
-        <div class="mdl-layout__tab-panel is-active" id="download">
+        <div class="mdl-layout__tab-panel is-active" id="home">
           <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
             <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-100 mdl-color-text--white">
               <i class="material-icons">play_circle_filled</i>
             </header>
             <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
               <div class="mdl-card__supporting-text">
-                <h4>Features</h4>
-                Dolore ex deserunt aute fugiat aute nulla ea sunt aliqua nisi cupidatat eu. Nostrud in laboris labore nisi amet do dolor eu fugiat consectetur elit cillum esse.
+                <h4>Parrot Security</h4>
+                Security GNU/Linux distribution designed with cloud pentesting and IoT security in mind.<br><br>
+                It includes a full portable laboratory for security and digital forensics experts, but it also includes
+                all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.
               </div>
               <div class="mdl-card__actions">
-                <a href="#" class="mdl-button">Read our features</a>
+                <a href="https://doc.parrotsec.org/FAQ" class="mdl-button">Frequently Asked Questions</a>
               </div>
             </div>
             <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn1">
