@@ -38,14 +38,6 @@
                 <a href="https://doc.parrotsec.org/FAQ" class="mdl-button">Frequently Asked Questions</a>
               </div>
             </div>
-            <?php /*<button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn1">
-              <i class="material-icons">more_vert</i>
-            </button>
-            <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="btn1">
-              <li class="mdl-menu__item">Lorem</li>
-              <li class="mdl-menu__item" disabled>Ipsum</li>
-              <li class="mdl-menu__item">Dolor</li>
-            </ul>*/ ?>
           </section>
           <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
             <div class="mdl-card mdl-cell mdl-cell--12-col">
@@ -112,6 +104,92 @@
               </a>
             </div>
           </section>
+
+          <div class="mdl-layout__content">
+            <div class="mdl-grid portfolio-max-width">
+                <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
+                  <div class="mdl-card__media">
+                      <img class="team-pictures" src="img/palinuro.jpg" border="0" alt="">
+                  </div>
+                  <div class="mdl-card__title">
+                      <b>Lorenzo "Palinuro" Faletra</b>
+                  </div>
+                  <div class="mdl-card__supporting-text">
+                      Project Team Leader<br>
+                      Core Developer<br>
+                      Builds Coordinator<br>
+                      Repository Maintainer<br>
+                      Graphic Designer<br>
+                      Webmaster<br>
+                  </div>
+                  <div class="mdl-card__actions mdl-card--border">
+                      <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html">Read more</a>
+                  </div>
+                </div>
+                <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
+                    <div class="mdl-card__media">
+                        <img class="team-pictures" src="img/sheireen.jpg" border="0" alt="">
+                    </div>
+                    <div class="mdl-card__title">
+                        <b>Lisetta "Sheireen" Ferrero</b>
+                    </div>
+                    <div class="mdl-card__supporting-text">
+                        Core Developer<br>
+                        Metapackages Designer<br>
+                        Quality Assurance<br>
+                    </div>
+                    <div class="mdl-card__actions mdl-card--border">
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html">Read more</a>
+                    </div>
+                </div>
+                <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
+                    <div class="mdl-card__media">
+                        <img class="team-pictures" src="img/mibofra.jpg" border="0" alt="">
+                    </div>
+                    <div class="mdl-card__title">
+                        <b>Francesco "Mibofra" Bonanno</b>
+                    </div>
+                    <div class="mdl-card__supporting-text">
+                        IoT Development Coordinator<br>
+                        Core Developer<br>
+                        ARM Developer<br>
+                    </div>
+                    <div class="mdl-card__actions mdl-card--border">
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html">Read more</a>
+                    </div>
+                </div>
+                <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
+                    <div class="mdl-card__media">
+                        <img class="team-pictures" src="img/quietwalker.jpg" border="0" alt="">
+                    </div>
+                    <div class="mdl-card__title">
+                        <b>Emanuel "Quietwalker" Di Vita</b>
+                    </div>
+                    <div class="mdl-card__supporting-text">
+                        Free(libre) Software Consultant<br>
+                        IrisProject Team Leader<br>
+                    </div>
+                    <div class="mdl-card__actions mdl-card--border">
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html">Read more</a>
+                    </div>
+                </div>
+                <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
+                    <div class="mdl-card__media">
+                        <img class="team-pictures" src="img/tissy.jpg" border="0" alt="">
+                    </div>
+                    <div class="mdl-card__title">
+                        <b>Irene "Tissy" Pirrotta</b>
+                    </div>
+                    <div class="mdl-card__supporting-text">
+                        Parrot Maintainer<br>
+                        Beta Tester<br>
+                    </div>
+                    <div class="mdl-card__actions mdl-card--border">
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html">Read more</a>
+                    </div>
+                </div>
+            </div>
+          </div>
         </div>
 
 

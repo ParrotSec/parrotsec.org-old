@@ -188,9 +188,8 @@ html, body {
 .mdl-parrot .toc {
   border-left: 4px solid #C1EEF4;
   margin: 24px;
-  padding: 0;
-  padding-left: 8px;
-  display: flex;
+    padding: 0 0 0 8px;
+    display: flex;
   flex-direction: column;
 }
 .mdl-parrot .toc h4 {
@@ -233,4 +232,10 @@ html, body {
     height:176px;
     background:
           url('../img/boxes.jpg') center / cover;
+}
+
+.team-pictures {
+    background: url('../img/palinuro.jpg') center / cover;
+    width: 100%;
+    height: auto;
 }
