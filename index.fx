@@ -1,3 +1,4 @@
+<?php $page="home"; ?>
 <html>
 	<head>
 		<?php

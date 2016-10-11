@@ -1,3 +1,4 @@
+<?php $page="features"; ?>
 <html>
 	<head>
 		<?php
