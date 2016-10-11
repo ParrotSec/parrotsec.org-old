@@ -298,3 +298,11 @@
                 </div>
             </div>
         </div>
+<?php
+    include("footer.php");
+?>
+    </main>
+</div>
+<!--<a href="https://www.parrotsec.org/download.fx" target="_blank" id="download-parrot" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-co$
+<script src="/misc/material.min.js"></script>
+

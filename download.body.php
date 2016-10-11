@@ -83,7 +83,7 @@ function mirrorSelector($file,$id)
     <main class="mdl-layout__content">
         <div class="mdl-layout__tab-panel is-active" id="download">
 
-            <a href="http://www.parrotsec.org/get/auto/testing" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Parrot 3.1 beta</a>
+            <a href="http://www.parrotsec.org/get/auto/testing" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Parrot 3.2 beta</a>
             <a href="features.fx" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast"> Features</a>
             <a href="https://github.com/ParrotSec/changelog/tree/master" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast"> Release Changelog</a>
 <br><br>
@@ -230,7 +230,7 @@ function mirrorSelector($file,$id)
                                     <h4>Raspberry Pi</h4>
                                     <form target="_blank" onSubmit="this.action = document.getElementById('rpi').value">
                                         <?php
-                                        mirrorSelector("arm/parrotsec-3.1-rpi-armhf.img.xz","rpi");
+                                        mirrorSelector("arm/parrotsec-3.0-rpi-armhf.img.xz","rpi");
                                         ?>
                                         <br>
                                         <br>
