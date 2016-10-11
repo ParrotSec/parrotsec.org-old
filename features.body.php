@@ -49,7 +49,7 @@
                     </div>
                 </div>
             </section>
-            <section class="section--center mdl-grid mdl-grid--no-spacing">
+            <section class="section--center mdl-grid mdl-grid--no-spacing" >
                 <div class="features-card-square mdl-card mdl-shadow--2dp">
                     <div class="mdl-card__title mdl-card--expand" style="background-image: url('img/servers.jpg')">
                         <h2 class="mdl-card__title-text">Cloud</h2>

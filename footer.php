@@ -47,3 +47,16 @@
                 Parrot Security OS 2011-2016 &copy; <a href="https://docs.parrotsec.org/user/palinuro">Lorenzo Faletra</a> - <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GNU/GPL v3</a>
             </div>
 </footer>
+<script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="//watch.frozenbox.org/";
+        _paq.push(['setTrackerUrl', u+'watch.php']);
+        _paq.push(['setSiteId', 2]);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'watch.js'; s.parentNode.insertBefore(g,s);
+    })();
+</script>
+<noscript><p><img src="https://watch.frozenbox.org/watch.php?idsite=2" style="border:0;" alt="" /></p></noscript>
