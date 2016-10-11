@@ -44,7 +44,7 @@
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
                         <h4 class="mdl-cell mdl-cell--12-col">Details</h4>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
-                            <div class="section__circle-container__circle mdl-color--primary"></div>
+                            <div class="section__circle-container__circle mdl-color--primary" style="background:url('img/shield.png') center / cover no-repeat"></div>
                         </div>
                         <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
                             <h4>Security</h4>
@@ -52,7 +52,7 @@
                             With a Parrot usb drive in your pocket you will always be sure to have all you need with you.<br><br>
                         </div>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
-                            <div class="section__circle-container__circle mdl-color--primary"></div>
+                            <div class="section__circle-container__circle mdl-color--blue-grey-100" style="background:url('img/gpg.png') center / 50% no-repeat"></div>
                         </div>
                         <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
                             <h4>Privacy</h4>
@@ -60,7 +60,7 @@
                             and many other tecnologies designed to defend your privacy and your identity.<br><br>
                         </div>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
-                            <div class="section__circle-container__circle mdl-color--primary"></div>
+                            <div class="section__circle-container__circle mdl-color--primary"><h2 align="center"><font color="#fff">{}</font></h2></div>
                         </div>
                         <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
                             <h4>Development</h4>
@@ -95,7 +95,7 @@
                     </a>
                 </div>
                 <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
-                    <div class="section__circle-container__circle mdl-color--white section__circle--big" style="background:url('img/iris.png') center / cover no-repeat"></div>
+                    <div class="section__circle-container__circle mdl-color--teal-100 section__circle--big" style="background:url('img/iris.png') center / cover no-repeat"></div>
                 </div>
                 <div class="section__text mdl-cell mdl-cell--4-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
                     <a href="https://irisproject.org" target="_blank" style="color:#666">
