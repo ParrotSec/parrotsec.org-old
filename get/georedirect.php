@@ -10,7 +10,8 @@ if($mirror=="auto");
                         $mirror="umu";
                         break;
                 case "AL":
-                        $mirror="garr";
+                        $amirror=array("uoc","netix");
+                        $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "DZ":
                         $mirror="garr";
@@ -91,7 +92,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "BA":
-                	$amirror=array("garr","onet");
+                	$amirror=array("garr","onet","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "BW":
@@ -115,7 +116,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "BG":
-                	$amirror=array("cloudflare","netix");
+                	$amirror=array("netix","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "BF":
@@ -199,7 +200,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "HR":
-                	$amirror=array("garr");
+                	$amirror=array("garr","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CU":
@@ -211,7 +212,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CY":
-                	$amirror=array("garr");
+                	$amirror=array("garr","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CZ":
@@ -239,7 +240,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "EG":
-                	$amirror=array("cloudflare");
+                	$amirror=array("uoc","netix");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "SV":
@@ -279,7 +280,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "FR":
-                        $amirror=array("heanet","dasa1-euro","frozenbox","freefr","freefr","rwth-aachen","esslingen");
+                        $amirror=array("heanet","dasa1-euro","dasa2-euro","frozenbox","freefr","rwth-aachen","esslingen");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "GF":
@@ -319,7 +320,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "GR":
-                        $amirror=array("garr","onet","rwth-aachen");
+                        $amirror=array("garr","onet","uoc","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "GL":
@@ -411,7 +412,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "IL":
-                        $amirror=array("asis");
+                        $amirror=array("asis","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
 		case "IT":
@@ -462,6 +463,10 @@ if($mirror=="auto");
                         $amirror=array("nchc","ustc","amberit","tuna");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
+                case "LB":
+                        $amirror=array("garr","asis","uoc");
+                        $mirror=$amirror[array_rand($amirror)];
+                        break;
                 case "LV":
                         $amirror=array("garr","rwth-aachen","asis");
                         $mirror=$amirror[array_rand($amirror)];
@@ -475,7 +480,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "LY":
-                        $amirror=array("garr");
+                        $amirror=array("garr","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "LI":
@@ -495,7 +500,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "MK":
-                        $amirror=array("garr");
+                        $amirror=array("garr","uoc","netix");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "MG":
@@ -519,7 +524,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "MT":
-                        $amirror=array("garr");
+                        $amirror=array("garr","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "MH":
@@ -563,7 +568,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "ME":
-                        $amirror=array("garr","cloudflare");
+                        $amirror=array("garr","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "MS":
@@ -755,7 +760,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "RS":
-                        $amirror=array("garr","onet");
+                        $amirror=array("garr","onet","uoc","netix");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "SC":
@@ -820,7 +825,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "SY":
-                        $amirror=array("asis");
+                        $amirror=array("asis","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "TW":
@@ -864,7 +869,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "TR":
-                        $amirror=array("garr","asis");
+                        $amirror=array("garr","asis","uoc","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "TM":

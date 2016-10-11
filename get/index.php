@@ -70,6 +70,17 @@ $files["dasa1-euro"][1]="dasa";
 $files["euro10"][0]="http://dasa1-euro.archive.parrotsec.org/parrot/iso";
 $files["euro10"][1]="dasa";
 
+$files["dasa2-euro"][0]="http://dasa2-euro.archive.parrotsec.org/parrot/iso";
+$files["dasa2-euro"][1]="dasa";
+$files["euro11"][0]="http://dasa2-euro.archive.parrotsec.org/parrot/iso";
+$files["euro11"][1]="dasa";
+
+
+$files["uoc"][0]="http://ftp.cc.uoc.gr/mirrors/linux/parrot/iso";
+$files["uoc"][1]="uoc";
+$files["euro12"][0]="http://ftp.cc.uoc.gr/mirrors/linux/parrot/iso";
+$files["euro12"][1]="uoc";
+
 
 
 $files["mit"][0]="http://mit-usa.archive.parrotsec.org/parrot/iso";

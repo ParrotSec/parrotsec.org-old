@@ -34,7 +34,7 @@ function mirrorSelector($file,$id)
         <option value=\"/get/kent/$file\">Europe - United Kingdom - Kent-sf (10 Gbps)</option>
         <option value=\"/get/warwick/$file\"><b>>Europe - United Kingdom - Warwick (1 Gbps)</b></option>
         <option value=\"/get/vorboss/$file\">Europe - United Kingdom - Vorboss-sf (10 Gbps)</option>
-        <option value=\"/get/uoc/$file\"></option><b>>Europe - Greece - UoC (1 Gbps)</b></option>
+        <option value=\"/get/uoc/$file\"><b>>Europe - Greece - UoC (1 Gbps)</b></option>
         <option value=\"/get/frozenbox/$file\"><b>>Europe - France - FrozenBox (250 Mbps)</b></option>
         <option value=\"/get/dasa1-euro/$file\"><b>>Europe - France - Dasaweb1 (250 Mbps)</b></option>
         <option value=\"/get/freefr/$file\">Europe - France - Freefr-sf (2 Gbps)</option>
