@@ -1,5 +1,5 @@
 <?php
-$mirror=htmlentities($_GET["mirror"]);
+$mirror=end(explode("/", htmlentities($_GET["mirror"])));
 $file=htmlentities($_GET["file"]);
 if(in_array("download",$_GET))
 {
