@@ -11,7 +11,6 @@ function mirrorSelector($file,$id)
        </optgroup>
        <optgroup label=\"USA\">
         <option value=\"/get/mit/$file\"><b>>USA - Massachussets - SIPB MIT (1 Gbps)</b></option>
-        <option value=\"/get/mtu/$file\"><b>>USA - Michigan - MTU LUG (1 Gbps)</b></option>
         <option value=\"/get/jmu/$file\"><b>>USA - Virginia - JMU (1 Gbps)</b></option>
         <option value=\"/get/superb-dca2/$file\">USA - Virginia - Superb-dca2-sf (?)</option>
         <option value=\"/get/superb-dca3/$file\">USA - Virginia - Superb-dca3-sf (?)</option>
