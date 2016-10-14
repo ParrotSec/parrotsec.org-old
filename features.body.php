@@ -43,7 +43,7 @@
                         </ul>
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
-                        <a href="https://docs.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                        <a href="https://docs.parrotsec.org/" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
                             Check our documentation
                         </a>
                     </div>
@@ -163,11 +163,6 @@
                         <br>
                         Parrot also includes torbrowser, torchat and other anonymous services,
                         like I2P, a powerful alternative to TOR.
-                    </div>
-                    <div class="mdl-card__actions mdl-card--border">
-                        <a href="https://docs.parrotsec.org/system-requirements" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-                            Check our documentation
-                        </a>
                     </div>
                 </div>
             </section>
