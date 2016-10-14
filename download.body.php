@@ -90,7 +90,7 @@ function mirrorSelector($file,$id)
             <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
-                        <h4 class="mdl-cell mdl-cell--12-col">Download Parrot Full Edition</h4>
+                        <h4 class="mdl-cell mdl-cell--12-col">Download Parrot 3.2 Full Edition</h4>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
                             <div class="section__circle-container__circle mdl-color--white" style="background:url('img/frozenbox.png') center / cover no-repeat"></div>
                         </div>
@@ -133,7 +133,7 @@ function mirrorSelector($file,$id)
             <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
-                        <h4 class="mdl-cell mdl-cell--12-col">Download Parrot Lite Edition</h4>
+                        <h4 class="mdl-cell mdl-cell--12-col">Download Parrot 3.2 Lite Edition</h4>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
                             <div class="section__circle-container__circle mdl-color--white" style="background:url('img/devel.jpg') center / cover no-repeat"></div>
                         </div>
@@ -176,7 +176,7 @@ function mirrorSelector($file,$id)
             <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp" id="cloud">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
-                        <h4 class="mdl-cell mdl-cell--12-col">Download Parrot Cloud Edition</h4>
+                        <h4 class="mdl-cell mdl-cell--12-col">Download Parrot 3.2 Cloud Edition</h4>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
                             <div class="section__circle-container__circle mdl-color--white" style="background:url('img/servers.jpg') center / cover no-repeat"></div>
                         </div>
@@ -284,7 +284,7 @@ function mirrorSelector($file,$id)
                         <a href="https://www.irisproject.org" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Iris Project Website</a>
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
-                        <h4>Parrot LXDE Edition (32bit)</h4>
+                        <h4>Parrot 3.2 LXDE Edition (32bit)</h4>
                         <form target="_blank" onsubmit="this.action = document.getElementById('lxde').value">
                             <?php
                             mirrorSelector("3.2/Parrot-lxde-3.2_i386.iso","lxde");
@@ -296,7 +296,7 @@ function mirrorSelector($file,$id)
                         </form>
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
-                        <h4>Parrot Studio (64bit)</h4>
+                        <h4>Parrot 3.2 Studio (64bit)</h4>
                         <form target="_blank" onsubmit="this.action = document.getElementById('studio').value">
                             <?php
                             mirrorSelector("3.2/Parrot-studio-3.2_amd64.iso","studio");
