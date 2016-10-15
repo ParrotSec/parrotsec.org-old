@@ -4,8 +4,9 @@ function mirrorSelector($file,$id)
     print("
       <p style=\"color:#0a0a0a\">Select a mirror server</p>
       <select style='width:300px' id=\"$id\">
-       <option value=\"/get/auto/$file\">Auto Selector (Nearest available server)</option>
+       <option value=\"javascript:window.alert('select a server from the list')\">Select a mirror</option>
        <optgroup label=\"Others\">
+        <option value=\"/get/auto/$file\">Auto Selector (Nearest available server)</option>
         <option value=\"/get/sourceforge/$file\">Worldwide - Mirrors - SourceForge</option>
         <option value=\"/get/cloudflare/$file\">Worldwide - CDN - Cloudflare</option>
        </optgroup>
