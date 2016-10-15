@@ -81,9 +81,6 @@ function mirrorSelector($file,$id)
     ?>
     <main class="mdl-layout__content">
         <div class="mdl-layout__tab-panel is-active" id="download">
-
-            <a href="http://www.parrotsec.org/get/auto/testing" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Parrot 3.2 beta</a>
-            <a href="features.fx" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast"> Features</a>
             <a href="https://github.com/ParrotSec/changelog/tree/master" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast"> Release Changelog</a>
 <br><br>
             <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
