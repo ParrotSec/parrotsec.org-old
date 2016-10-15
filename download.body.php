@@ -69,7 +69,6 @@ function mirrorSelector($file,$id)
        <optgroup label=\"Africa\">
         <option value=\"/get/tenet/$file\">Africa - South Africa - Tenet-sf (20 Gbps)</option>
         <option value=\"/get/liquidtelecom/$file\">Africa - Kenya - LiquidTelecom-sf (1 Gbps)</option>
-        <option value=\"/get/aptus/$file\"><b>>Africa - Tanzania - Aptus (100 Mbps)</b></option>
        </optgroup>
       </select>
       ");
