@@ -17,11 +17,9 @@
             <a href="https://docs.parrotsec.org/partners" class="mdl-layout__tab">Partners</a>
             <a href="https://docs.parrotsec.org/donate#gadgets" class="mdl-layout__tab">Gadgets</a>
             <a href="https://docs.parrotsec.org/FAQ" class="mdl-layout__tab">FAQ</a>
-            <a href="https://github.com/parrotsec/parrotsec.org" target="_blank">
-                <button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored mdl-shadow--4dp mdl-color--accent" id="add">
-                    <i class="material-icons" role="presentation">edit</i>
-                    <span class="visuallyhidden">Edit</span>
-                </button>
+            <a href="https://github.com/parrotsec/parrotsec.org" target="_blank" class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored mdl-shadow--4dp mdl-color--accent" id="add">
+                <i class="material-icons" role="presentation">edit</i>
+                <span class="visuallyhidden">Edit</span>
             </a>
         </div>
     </header>
