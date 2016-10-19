@@ -135,7 +135,7 @@
                         an extremely powerful PGP software that lets you create a private/public
                         pair of keys to apply digital signatures to your messages and to
                         allow other people to send you encrypted messages that only your
-                        private key can decrypt, in can also hande multiple identities and subkeys,
+                        private key can decrypt, in can also handle multiple identities and subkeys,
                         and its power resides in its ring of trust as PGP users can sign each other's keys
                         to make other people know if a digital identity is valid or not.<br>
                         <br>
