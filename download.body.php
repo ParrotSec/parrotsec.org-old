@@ -259,7 +259,13 @@ function mirrorSelector($file,$id)
                 <div class="mdl-card mdl-cell mdl-cell--12-col section--center">
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>ISO USB Image Writer</h4>
-                        <a href="http://cloudflare.archive.parrotsec.org/parrot/misc/image-writer/README.html" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Download Rosa Image Writer</a>
+                        <a href="http://cloudflare.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-linux64" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Linux 64bit</a>
+                        <a href="http://cloudflare.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-linux32" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Linux 32bit</a>
+                        <a href="http://cloudflare.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-win.exe" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Windows</a>
+                        <a href="http://cloudflare.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-osx.dmg" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">OSX</a>
+                        <a href="http://cloudflare.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-all.zip" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">All</a>
+                        <a href="http://cloudflare.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-source.zip" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Source Code</a>
+                        <a href="http://cloudflare.archive.parrotsec.org/parrot/misc/image-writer/" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">More info</a>
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>Archives</h4>
