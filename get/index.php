@@ -138,6 +138,11 @@ $files["nchc"][1]="nchc";
 $files["asia3"][0]="http://free.nchc.org.tw/parrot/iso";
 $files["asia3"][1]="nchc";
 
+$files["0x"][0]="http://mirror.0x.sg/parrot-cd";
+$files["0x"][1]="0x";
+$files["asia4"][0]="http://mirror.0x.sg/parrot-cd";
+$files["asia4"][1]="0x";
+
 $files["ustc"][0]="http://mirrors.ustc.edu.cn/parrot/iso";
 $files["ustc"][1]="yfgao";
 $files["asia5"][0]="http://mirrors.ustc.edu.cn/parrot/iso";
