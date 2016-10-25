@@ -54,6 +54,7 @@ function mirrorSelector($file,$id)
 	<option value=\"/get/jaist/$file\">Asia - Japan - Jaist-sf (4 Gbps)</option>
 	<option value=\"/get/tuna/$file\">>Asia - China - TUNA Tsinghua (2 Gbps)</option>
         <option value=\"/get/ustc/$file\"><b>>Asia - China - USTC (1 Gbps)</b></option>
+	<option value=\"/get/0x/$file\"><b>>Asia - Singapore - 0x (10 Gbps)</b></option>
         <option value=\"/get/yandex/$file\"><b>>Asia - Russia - Yandex (1 Gbps)</b></option>
         <option value=\"/get/citylan/$file\">Asia - Russia - CityLan-sf (?)</option>
         <option value=\"/get/amberit/$file\"><b>>Asia - Bangladesh - Amberit (1 Gbps)</b></option>
