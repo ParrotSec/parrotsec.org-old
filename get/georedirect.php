@@ -43,9 +43,10 @@ if($mirror=="auto");
                 case "AW":
                         $mirror="cloudflare";
                         break;
-                case "AU":
-                        $mirror="internode";
-                        break;
+								case "AU":
+												$amirror=array("internode","lagoon","0x");
+				                $mirror=$amirror[array_rand($amirror)];
+				                break;
                 case "AT":
                 	$amirror=array("garr","garr","rwth-aachen","esslingen");
                         $mirror=$amirror[array_rand($amirror)];
@@ -128,7 +129,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "KH":
-                	$amirror=array("tuna","nchc","ustc","lagoon","internode");
+                	$amirror=array("tuna","nchc","ustc","0x");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CM":
@@ -392,7 +393,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "ID":
-                        $amirror=array("nchc","tuna","ustc","lagoon");
+                        $amirror=array("0xc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "IR":
@@ -460,7 +461,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "LA":
-                        $amirror=array("nchc","ustc","amberit","tuna");
+                        $amirror=array("nchc","ustc","amberit","tuna","0x");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "LB":
@@ -512,7 +513,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "MY":
-                        $amirror=array("lagoon","nchc","tuna");
+                        $amirror=array("0x");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "MV":
@@ -608,7 +609,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "NZ":
-                        $amirror=array("lagoon","cloudflare");
+                        $amirror=array("lagoon","cloudflare","internode","0x");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "NI":
@@ -672,7 +673,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "PH":
-                        $amirror=array("nchc");
+                        $amirror=array("nchc","0x","0x");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "PN":
@@ -772,7 +773,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "SG":
-                        $amirror=array("nchc");
+                        $amirror=array("0x");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "SX":
@@ -809,7 +810,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "LK":
-                        $amirror=array("amberit","nchc");
+                        $amirror=array("amberit","0x");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "SR":
@@ -841,7 +842,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "TH":
-                        $amirror=array("nchc");
+                        $amirror=array("nchc","0x","0x","amberit");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "TL":
@@ -922,7 +923,7 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "VN":
-                        $amirror=array("amberit","nchc","ustc","tuna");
+                        $amirror=array("0x","0x","amberit","nchc","ustc","tuna");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "VG":
