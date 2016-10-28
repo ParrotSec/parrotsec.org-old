@@ -278,9 +278,9 @@ function mirrorSelector($file,$id)
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>Netinstall Images</h4>
                         <a href="http://cloudflare.archive.parrotsec.org/parrot/pool/iso/netinstall/parrot-netinst-3.2-i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Netinstall 32bit</a>
-                        <a href="http://cloudflare.archive.parrotsec.org/parrot/pool/iso/netinstall/parrot-netinst-3.2-i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Netinstall 64bit</a><br><br>
+                        <a href="http://cloudflare.archive.parrotsec.org/parrot/pool/iso/netinstall/parrot-netinst-3.2-amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Netinstall 64bit</a><br><br>
                         <a href="http://cloudflare.archive.parrotsec.org/parrot/pool/iso/netinstall/parrot-netinst-gtk-3.2-i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Netinstall GTK 32bit</a>
-                        <a href="http://cloudflare.archive.parrotsec.org/parrot/pool/iso/netinstall/parrot-netinst-gtk-3.2-i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Netinstall GTK 64bit</a><br><br>
+                        <a href="http://cloudflare.archive.parrotsec.org/parrot/pool/iso/netinstall/parrot-netinst-gtk-3.2-amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Netinstall GTK 64bit</a><br><br>
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>Parrot Libre Edition</h4>
