@@ -76,11 +76,11 @@ function mirrorSelector($file,$id)
     return 0;
 }
 ?>
+
 <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
     <?php
         include("nav.php");
     ?>
-    <main class="mdl-layout__content">
         <div class="mdl-layout__tab-panel is-active" id="download">
             <a href="https://github.com/ParrotSec/changelog/tree/master" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast"> Release Changelog</a>
 <br><br>
@@ -315,7 +315,6 @@ function mirrorSelector($file,$id)
 <?php
     include("footer.php");
 ?>
-    </main>
 </div>
 <!--<a href="https://www.parrotsec.org/download.fx" target="_blank" id="download-parrot" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Download</a> -->
 <script src="/misc/material.min.js"></script>

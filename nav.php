@@ -1,4 +1,4 @@
-<header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
+	<header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
         <div class="mdl-layout--large-screen-only mdl-layout__header-row">
         </div>
         <div class="mdl-layout--large-screen-only mdl-layout__header-row">
