@@ -81,6 +81,10 @@ $files["uoc"][1]="uoc";
 $files["euro12"][0]="http://ftp.cc.uoc.gr/mirrors/linux/parrot/iso";
 $files["euro12"][1]="uoc";
 
+$files["babylon-fr"][0]="http://fr.mirror.babylon.network/parrot/iso";
+$files["babylon-fr"][1]="babylon-fr";
+$files["euro13"][0]="http://fr.mirror.babylon.network/parrot/iso";
+$files["euro13"][1]="babylon-fr";
 
 
 $files["mit"][0]="http://mit-usa.archive.parrotsec.org/parrot/iso";
