@@ -86,6 +86,11 @@ $files["babylon-fr"][1]="babylon-fr";
 $files["euro13"][0]="http://fr.mirror.babylon.network/parrot/iso";
 $files["euro13"][1]="babylon-fr";
 
+$files["babylon-nl"][0]="http://nl.mirror.babylon.network/parrot/iso";
+$files["babylon-nl"][1]="babylon-nl";
+$files["euro14"][0]="http://nl.mirror.babylon.network/parrot/iso";
+$files["euro14"][1]="babylon-nl";
+
 
 $files["mit"][0]="http://mit-usa.archive.parrotsec.org/parrot/iso";
 $files["mit"][1]="mit";
@@ -290,4 +295,3 @@ if($files["$mirror"][0] != "" && $file != "")
 
 
 ?>
-

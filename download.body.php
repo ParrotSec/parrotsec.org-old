@@ -13,58 +13,67 @@ function mirrorSelector($file,$id)
        <optgroup label=\"USA\">
         <option value=\"/get/mit/$file\"><b>>USA - Massachussets - SIPB MIT (1 Gbps)</b></option>
         <option value=\"/get/jmu/$file\"><b>>USA - Virginia - JMU (1 Gbps)</b></option>
+        <option value=\"/get/clarkson/$file\"><b>>USA - New York - Clarkson (1 Gbps)</b></option>
+        <option value=\"/get/berkeley/$file\"><b>>USA - California - Berkeley (1 Gbps)</b></option>
+        <option disabled></option>
         <option value=\"/get/superb-dca2/$file\">USA - Virginia - Superb-dca2-sf (?)</option>
         <option value=\"/get/superb-dca3/$file\">USA - Virginia - Superb-dca3-sf (?)</option>
-        <option value=\"/get/clarkson/$file\"><b>>USA - New York - Clarkson (1 Gbps)</b></option>
         <option value=\"/get/colocrossing/$file\">USA - New York - Colocrossing-sf (?)</option>
         <option value=\"/get/pilotfiber/$file\">USA - New York - PilotFiber-sf (?)</option>
-        <option value=\"/get/berkeley/$file\"><b>>USA - California - Berkeley (1 Gbps)</b></option>
         <option value=\"/get/superb-sea2/$file\">USA - Washington - Superb-sea2-sf (?)</option>
        </optgroup>
        <optgroup label=\"Europe\">
+       <option value=\"/get/rwth-aachen/$file\"><b>>Europe - Germany - RWTH-Aachen (20 Gbps)</b></option>
         <option value=\"/get/garr/$file\"><b>>Europe - Italy - GARR (10 Gbps)</b></option>
-        <option value=\"/get/rwth-aachen/$file\"><b>>Europe - Germany - RWTH-Aachen (20 Gbps)</b></option>
         <option value=\"/get/esslingen/$file\"><b>>Europe - Germany - Esslingen (10 Gbps)</b></option>
-        <option value=\"/get/netcologne/$file\">Europe - Germany - Netcologne-sf (2 Gbps)</option>
-        <option value=\"/get/dfn/$file\">Europe - Germany - DFN-sf (10 Gbps)</option>
-        <option value=\"/get/nluug/$file\"><b>>Europe - Netherland - Nluug (10 Gbps)</b></option>
+        <option value=\"/get/nluug/$file\"><b>>Europe - Netherlands - Nluug (10 Gbps)</b></option>
+        <option value=\"/get/babylon-nl/$file\"><b>>Europe - Netherlands - Babylon.network (10 Gbps)</b></option>
         <option value=\"/get/umu/$file\"><b>>Europe - Sweden - UMU (10 Gbps)</b></option>
         <option value=\"/get/heanet/$file\"><b>>Europe - Ireland - Heanet (10 Gbps)</b></option>
         <option value=\"/get/onet/$file\"><b>>Europe - Poland - Onet (10 Gbps)</b></option>
-        <option value=\"/get/kent/$file\">Europe - United Kingdom - Kent-sf (10 Gbps)</option>
+        <option value=\"/get/babylon-fr/$file\"><b>>Europe - France - Babylon.network (10 Gbps)</b></option>
         <option value=\"/get/warwick/$file\"><b>>Europe - United Kingdom - Warwick (1 Gbps)</b></option>
-        <option value=\"/get/vorboss/$file\">Europe - United Kingdom - Vorboss-sf (10 Gbps)</option>
         <option value=\"/get/uoc/$file\"><b>>Europe - Greece - UoC (1 Gbps)</b></option>
+        <option value=\"/get/dasa1-euro/$file\"><b>>Europe - France - Dasaweb-eu2 (1 Gbps)</b></option>
         <option value=\"/get/frozenbox/$file\"><b>>Europe - France - FrozenBox (250 Mbps)</b></option>
-        <option value=\"/get/dasa1-euro/$file\"><b>>Europe - France - Dasaweb1 (250 Mbps)</b></option>
+        <option value=\"/get/dasa1-euro/$file\"><b>>Europe - France - Dasaweb-eu1 (250 Mbps)</b></option>
+        <option disabled></option>
+        <option value=\"/get/dfn/$file\">Europe - Germany - DFN-sf (10 Gbps)</option>
+        <option value=\"/get/kent/$file\">Europe - United Kingdom - Kent-sf (10 Gbps)</option>
+        <option value=\"/get/vorboss/$file\">Europe - United Kingdom - Vorboss-sf (10 Gbps)</option>
+        <option value=\"/get/netcologne/$file\">Europe - Germany - Netcologne-sf (2 Gbps)</option>
         <option value=\"/get/freefr/$file\">Europe - France - Freefr-sf (2 Gbps)</option>
         <option value=\"/get/netix/$file\">Europe - Bulgaria - NetIX-sf (?)</option>
         <option value=\"/get/ignum/$file\">Europe - Czec Republic - Ignum-sf (1 Gbps)</option>
         <option value=\"/get/netassist/$file\">Europe - Ukraine - Netassist-sf (?)</option>
        </optgroup>
        <optgroup label=\"South America\">
-        <option value=\"/get/ufpr/$file\">South America - Brazil - UFPR/c3sl-sf (10 Gbps)</option>
-        <option value=\"/get/nbtelecom/$file\">South America - Brazil - NBTelecom-sf (?)</option>
-        <option value=\"/get/cedia/$file\"><b>>South America - Ecuador - CEDIA (100 Mbps)</b></option>
-        <option value=\"/get/uta/$file\"><b>>South America - Ecuador - UTA (100 Mbps)</b></option>
-        <option value=\"/get/ueb/$file\"><b>>South America - Ecuador - UEB (100 Mbps)</b></option>
+       <option value=\"/get/cedia/$file\"><b>>South America - Ecuador - CEDIA (100 Mbps)</b></option>
+       <option value=\"/get/uta/$file\"><b>>South America - Ecuador - UTA (100 Mbps)</b></option>
+       <option value=\"/get/ueb/$file\"><b>>South America - Ecuador - UEB (100 Mbps)</b></option>
+       <option disabled></option>
+       <option value=\"/get/ufpr/$file\">South America - Brazil - UFPR/c3sl-sf (10 Gbps)</option>
+       <option value=\"/get/nbtelecom/$file\">South America - Brazil - NBTelecom-sf (?)</option>
        </optgroup>
        <optgroup label=\"Asia\">
         <option value=\"/get/nchc/$file\"><b>>Asia - Taiwan - NCHC (10 Gbps)</b></option>
-	<option value=\"/get/jaist/$file\">Asia - Japan - Jaist-sf (4 Gbps)</option>
-	<option value=\"/get/tuna/$file\">>Asia - China - TUNA Tsinghua (2 Gbps)</option>
+        <option value=\"/get/0x/$file\"><b>>Asia - Singapore - 0x (10 Gbps)</b></option>
+        <option value=\"/get/tuna/$file\">>Asia - China - TUNA Tsinghua (2 Gbps)</option>
         <option value=\"/get/ustc/$file\"><b>>Asia - China - USTC (1 Gbps)</b></option>
-	<option value=\"/get/0x/$file\"><b>>Asia - Singapore - 0x (10 Gbps)</b></option>
         <option value=\"/get/yandex/$file\"><b>>Asia - Russia - Yandex (1 Gbps)</b></option>
-        <option value=\"/get/citylan/$file\">Asia - Russia - CityLan-sf (?)</option>
         <option value=\"/get/amberit/$file\"><b>>Asia - Bangladesh - Amberit (1 Gbps)</b></option>
+        <option disabled></option>
+        <option value=\"/get/jaist/$file\">Asia - Japan - Jaist-sf (4 Gbps)</option>
+        <option value=\"/get/citylan/$file\">Asia - Russia - CityLan-sf (?)</option>
        </optgroup>
        <optgroup label=\"Oceania\">
         <option value=\"/get/lagoon/$file\"><b>>Oceania - New Caledonia - Lagoon (1 Gbps)</b></option>
-		<option value=\"/get/internode/$file\">Oceania - Australia - Internode-sf (1 Gbps)</option>
+        <option disabled></option>
+		    <option value=\"/get/internode/$file\">Oceania - Australia - Internode-sf (1 Gbps)</option>
        </optgroup>
        <optgroup label=\"Middle East\">
         <option value=\"/get/asis/$file\"><b>>Middle East - Iran - ASIS (1 Gbps)</b></option>
+        <option disabled></option>
         <option value=\"/get/kaz/$file\">Middle East - Kazakistan - Kaz-sf (?)</option>
        </optgroup>
        <optgroup label=\"Africa\">
