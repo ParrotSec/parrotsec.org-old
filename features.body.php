@@ -99,7 +99,7 @@
                     <div class="mdl-card__supporting-text">
                         Parrot Security is developed in collaboration with
                         <a href="http://www.caine-live.net/" target="_blank">Caine</a>,
-                        one of the most important GNU/Linux distributions in the Digital Forensics field.<br>
+                        one of the most important GNU/Linux distributions in the Digital Forensics world.<br>
                         <br>
                         One of our purposes is to provide the best forensics enviromnent ever seen in a security distro,
                         infact the entire system is hardened to not perform device automounts and to provide all the
@@ -177,7 +177,7 @@
                         new things, this is why Parrot comes out of the box with several tools for developers
                         such as compilers, disassemblers, IDEs, comfortable editors and powerful frameworks.<br>
                         <br>
-                        Parrot includes QTCreator as its main C, C++ and Qt integrated development environment.
+                        Parrot includes QTCreator as its main C, C++ and Qt framework.
                         Another very useful tool is Geany, a lightweight and simple IDE which supports a huge amount
                         of programming languages, while we also include Atom, the opensource editor of the future
                         developed by GitHub, and many compilers and interpreters with their most important libraries
