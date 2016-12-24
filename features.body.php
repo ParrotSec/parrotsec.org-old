@@ -11,7 +11,7 @@
                     <div class="mdl-card__supporting-text">
                         <ul>
                             <li>Debian GNU/Linux 9 (stretch)</li>
-                            <li>Custom hardened Linux 4.7 kernel</li>
+                            <li>Custom hardened Linux 4.8 kernel</li>
                             <li>Rolling release updates</li>
                             <li>Powerful worldwide mirror servers</li>
                             <li>High hardware compatibility</li>
@@ -39,7 +39,7 @@
                             <li>GPU: No graphic acceleration required</li>
                             <li>STORAGE lite/core: 4GB / 8GB</li>
                             <li>STORAGE Full: 16GB</li>
-                            <li>BOOT: Legacy bios or UEFI (testing)</li>
+                            <li>BOOT: Legacy bios or UEFI</li>
                         </ul>
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
