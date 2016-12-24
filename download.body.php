@@ -101,7 +101,7 @@ function mirrorSelector($file,$id)
                             <div class="section__circle-container__circle mdl-color--white" style="background:url('img/frozenbox.png') center / cover no-repeat"></div>
                         </div>
                         <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
-                            <p>A Full and complete environment providing all the tools provided by our repository and a full development environment out of the box.</p>
+                            <p>A Full and complete environment providing all the tools in our repository and a full development environment out of the box.</p>
                             <div class="mdl-grid mdl-grid--no-spacing">
                                 <div class="mdl-cell--6-col">
                                     <h4>32bit</h4>
@@ -144,7 +144,7 @@ function mirrorSelector($file,$id)
                             <div class="section__circle-container__circle mdl-color--white" style="background:url('img/devel.jpg') center / cover no-repeat"></div>
                         </div>
                         <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
-                            <p>Lightweight and highly portable OS, less than 2Gb of ISO that contains only the core system. Perfect to create your own pentesting environment<br>(tools are NOT pre-installed)</p>
+                            <p>Lightweight and highly portable OS, it can be considered as a standard and general purpose distribution which is not security-oriented. It is a perfect base to create your own pentesting environment or to use Parrot as a standard OS<br>(tools are NOT pre-installed)</p>
                             <div class="mdl-grid mdl-grid--no-spacing">
                                 <div class="mdl-cell--6-col">
                                     <h4>32bit</h4>
@@ -269,6 +269,7 @@ function mirrorSelector($file,$id)
                 <div class="mdl-card mdl-cell mdl-cell--12-col section--center">
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>ISO USB Image Writer</h4>
+                        <p>the Parrot ISO files are distributed as ISOHYBRID (iso9660) images, so you need a special software (like DD) to put them in a USB pendrive. Rosa Image Writer is a powerful and multiplatform tool that works perfectly with parrot</p>
                         <a href="http://cloudflare.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-linux64.bin" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast" download>Linux 64bit</a>
                         <a href="http://cloudflare.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-linux32.bin" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast" download>Linux 32bit</a>
                         <a href="http://cloudflare.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-win.exe" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast" download>Windows</a>
@@ -286,6 +287,7 @@ function mirrorSelector($file,$id)
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>Netboot Images</h4>
+                        <p>netboot images are very small files that contain only the parrot installer, it requires an internet connection to install</p>
                         <a href="http://cloudflare.archive.parrotsec.org/parrot/pool/iso/netboot/Parrot-netboot-3.3_i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Netinstall 32bit</a>
                         <a href="http://cloudflare.archive.parrotsec.org/parrot/pool/iso/netboot/Parrot-netboot-3.3_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Netinstall 64bit</a><br><br>
                     </div>
@@ -295,6 +297,7 @@ function mirrorSelector($file,$id)
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>Parrot 3.3 Studio (64bit)</h4>
+                        <p>Parrot Studio is a derivative project for multimedia content creation applications for audio, graphics, video, photography and programming workflows.</p>
                         <form target="_blank" onsubmit="this.action = document.getElementById('studio').value">
                             <?php
                             mirrorSelector("3.3/Parrot-studio-3.3_amd64.iso","studio");
