@@ -117,9 +117,9 @@ $files["berkeley"][1]="berkeley";
 $files["usa5"][0]="http://mirrors.ocf.berkeley.edu/parrot/iso";
 $files["usa5"][1]="berkeley";
 
-$files["cedia"][0]="http://cedia.archive.parrotsec.org/parrot/iso";
+$files["cedia"][0]="http://mirror.cedia.org.ec/parrot/iso";
 $files["cedia"][1]="cedia";
-$files["sam"][0]="http://cedia.archive.parrotsec.org/parrot/iso";
+$files["sam"][0]="http://mirror.cedia.org.ec/parrot/iso";
 $files["sam"][1]="cedia";
 
 $files["uta"][0]="http://uta.archive.parrotsec.org/parrot/iso";
