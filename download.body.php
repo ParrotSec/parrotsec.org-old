@@ -285,27 +285,13 @@ function mirrorSelector($file,$id)
 
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
-                        <h4>Netinstall Images</h4>
-                        <a href="http://cloudflare.archive.parrotsec.org/parrot/pool/iso/netinstall/parrot-netinst-3.3-i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Netinstall 32bit</a>
-                        <a href="http://cloudflare.archive.parrotsec.org/parrot/pool/iso/netinstall/parrot-netinst-3.3-amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Netinstall 64bit</a><br><br>
-                        <a href="http://cloudflare.archive.parrotsec.org/parrot/pool/iso/netinstall/parrot-netinst-gtk-3.3-i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Netinstall GTK 32bit</a>
-                        <a href="http://cloudflare.archive.parrotsec.org/parrot/pool/iso/netinstall/parrot-netinst-gtk-3.3-amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Netinstall GTK 64bit</a><br><br>
+                        <h4>Netboot Images</h4>
+                        <a href="http://cloudflare.archive.parrotsec.org/parrot/pool/iso/netboot/Parrot-netboot-3.3_i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Netinstall 32bit</a>
+                        <a href="http://cloudflare.archive.parrotsec.org/parrot/pool/iso/netboot/Parrot-netboot-3.3_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Netinstall 64bit</a><br><br>
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>Parrot Libre Edition</h4>
                         <a href="https://www.irisproject.org" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Iris Project Website</a>
-                    </div>
-                    <div class="mdl-card__supporting-text" align="center">
-                        <h4>Parrot 3.3 LXDE Edition (32bit)</h4>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('lxde').value">
-                            <?php
-                            mirrorSelector("3.3/Parrot-lxde-3.3_i386.iso","lxde");
-                            ?>
-                            <br>
-                            <br>
-                            <input type="text" style="display:none" name="get" value="1" readonly>
-                            <input  onclick="_paq.push(['trackGoal', 11]);" type="submit" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast" style="color:#060606;background:#00a000;" value="download" /><br><br>
-                        </form>
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>Parrot 3.3 Studio (64bit)</h4>
