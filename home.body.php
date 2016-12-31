@@ -6,8 +6,7 @@
         <div class="mdl-layout__tab-panel is-active" id="home">
             <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <header class="section__play-btn mdl-cell mdl-cell--5-col-desktop mdl-cell--3-col-tablet mdl-cell--3-col-phone mdl-color--teal-100 mdl-color-text--white">
-                	<a href="https://www.youtube-nocookie.com/embed/KZmXTnOlmME?rel=0&amp;controls=0&amp;showinfo=0" target="_blank"><img src="img/play.jpg" width="100%" height="100%" /></a>
-                    <!--<iframe width="560" height="340" src="https://www.youtube-nocookie.com/embed/KZmXTnOlmME?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>-->
+                    <iframe width="560" height="340" src="https://www.parrotsec.org/misc/play.html" frameborder="0" allowfullscreen></iframe>
                 </header>
                 <div class="mdl-card mdl-cell mdl-cell--7-col-desktop mdl-cell--4-col-tablet mdl-cell--4-col-phone">
                     <div class="mdl-card__supporting-text">
