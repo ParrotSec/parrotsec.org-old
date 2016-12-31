@@ -25,7 +25,7 @@
 <meta property="og:title" content="Parrot Sec" />
 <meta property="og:type" content="" />
 <meta property="og:url" content="https://parrotsec.org" />
-<meta property="og:image" content="" /> <!-- Per l'immagine, devo ancora decidere -->
+<meta property="og:image" content="img/slides.png" />
 
 <!--favicon -->
 <link rel="shortcut icon" href="img/logo.png">
