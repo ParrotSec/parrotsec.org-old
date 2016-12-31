@@ -21,6 +21,12 @@
 <meta name="msapplication-TileImage" content="img/logo.png">
 <meta name="msapplication-TileColor" content="#3372DF">
 
+<!-- Tag for Social Network (facebook, twitter & co) -->
+<meta property="og:title" content="Parrot Sec" />
+<meta property="og:type" content="" />
+<meta property="og:url" content="https://parrotsec.org" />
+<meta property="og:image" content="" /> <!-- Per l'immagine, devo ancora decidere -->
+
 <!--favicon -->
 <link rel="shortcut icon" href="img/logo.png">
 
