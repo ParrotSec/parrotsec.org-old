@@ -56,7 +56,7 @@
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text">
                         <h4>Community</h4>
-                        <b>we exist because of our awesome community</b><br>
+                        <b>We exist because of our awesome community</b><br>
                         Feel free to join us, and actively follow our development, know awesome people all around the world and get help directly from the developers.
                     </div>
                     <div class="mdl-card__actions">
