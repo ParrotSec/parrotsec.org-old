@@ -44,7 +44,7 @@
                 <div class="mdl-logo">
                     Legal Notes
                 </div>
-                Parrot Security OS 2011-2016 &copy; <a href="https://docs.parrotsec.org/user/palinuro">Lorenzo Faletra</a> - <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GNU/GPL v3</a>
+                Parrot Security OS 2011-2017 &copy; <a href="https://docs.parrotsec.org/user/palinuro">Lorenzo Faletra</a> - <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GNU/GPL v3</a>
             </div>
 </footer>
 <script type="text/javascript">
