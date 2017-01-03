@@ -163,7 +163,7 @@ function mirrorSelector($file,$id)
                                     <h4>64bit</h4>
                                     <form target="_blank" onsubmit="this.action = document.getElementById('lite64').value">
                                         <?php
-                                        mirrorSelector("3.3/Parrot-lite-3.4.1_amd64.iso","lite64");
+                                        mirrorSelector("3.4.1/Parrot-lite-3.4.1_amd64.iso","lite64");
                                         ?>
                                         <br>
                                         <br>
@@ -268,7 +268,7 @@ function mirrorSelector($file,$id)
                         <a href="https://www.irisproject.org" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Iris Project Website</a>
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
-                        <h4>Parrot 3.3 Studio (64bit)</h4>
+                        <h4>Parrot 3.4.1 Studio (64bit)</h4>
                         <p>Parrot Studio is a derivative project for multimedia content creation applications for audio, graphics, video, photography and programming workflows.</p>
                         <form target="_blank" onsubmit="this.action = document.getElementById('studio').value">
                             <?php
