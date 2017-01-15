@@ -208,7 +208,7 @@ function mirrorSelector($file,$id)
                                     <h4>Raspberry Pi</h4>
                                     <form target="_blank" onSubmit="this.action = document.getElementById('rpi').value">
                                         <?php
-                                        mirrorSelector("arm/parrotsec-3.0-rpi-armhf.img.xz","rpi");
+                                        mirrorSelector("arm/parrotsec-3.4-armhf-rpi-1/","rpi");
                                         ?>
                                         <br>
                                         <br>
@@ -217,10 +217,10 @@ function mirrorSelector($file,$id)
                                     </form>
                                 </div>
                                 <div class="mdl-cell--6-col">
-                                    <h4>Cubieboard 4 (CC-80)</h4>
-                                    <form target="_blank" onsubmit="this.action = document.getElementById('cubie4').value">
+                                    <h4>Generic Rootfs</h4>
+                                    <form target="_blank" onsubmit="this.action = document.getElementById('arm').value">
                                         <?php
-                                        mirrorSelector("arm/parrotsec-3.0-cubie4-armhf.img.xz","cubie4");
+                                        mirrorSelector("arm/parrotsec-3.4-armhf-1/","arm");
                                         ?>
                                         <br>
                                         <br>
