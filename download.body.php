@@ -208,7 +208,7 @@ function mirrorSelector($file,$id)
                                     <h4>Raspberry Pi</h4>
                                     <form target="_blank" onSubmit="this.action = document.getElementById('rpi').value">
                                         <?php
-                                        mirrorSelector("arm/parrotsec-3.4-armhf-rpi-1/","rpi");
+                                        mirrorSelector("arm/parrotsec-3.4-armhf-rpi-1/index.html","rpi");
                                         ?>
                                         <br>
                                         <br>
