@@ -38,7 +38,7 @@
                         <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
                             <h4>Privacy</h4>
                             Parrot includes by default TOR, I2P, anonsurf, gpg, tccf, zulucrypt, veracrypt, truecrypt, luks
-                            and many other tecnologies designed to defend your privacy and your identity.<br><br>
+                            and many other technologies designed to defend your privacy and your identity.<br><br>
                         </div>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
                             <div class="section__circle-container__circle mdl-color--primary"><h2 align="center"><font color="#fff">{}</font></h2></div>
