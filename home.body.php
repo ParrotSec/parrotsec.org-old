@@ -72,7 +72,7 @@
                     <a href="https://dasaweb.net/cart.php?gid=18" target="_blank" style="color:#666">
                         <h4>Dasaweb and Parrot Cloud</h4>
                         Dasaweb a great european provider, now sells VPS with parrot cloud pre-installed.<br>
-                        The service is maintained in collaboration with the Parrot Core Team and the service seems to have an exponential polularity.
+                        The service is maintained in collaboration with the Parrot Core Team and the service seems to have an exponential popularity.
                     </a>
                 </div>
                 <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
