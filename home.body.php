@@ -16,7 +16,7 @@
                         all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.
                     </div>
                     <div class="mdl-card__actions">
-                        <a href="https://docs.parrotsec.org/FAQ" class="mdl-button">Frequently Asked Questions</a>
+                        <a href="https://community.parrotsec.org/post.php?fid=4" class="mdl-button">Contact our Support staff</a>
                     </div>
                 </div>
             </section>
@@ -60,7 +60,7 @@
                         Feel free to join us, and actively follow our development, know awesome people all around the world and get help directly from the developers.
                     </div>
                     <div class="mdl-card__actions">
-                        <a href="https://docs.parrotsec.org/community" class="mdl-button">Join us</a>
+                        <a href="https://community.parrotsec.org/register.php" class="mdl-button">Join us</a>
                     </div>
                 </div>
             </section>
