@@ -11,8 +11,9 @@
                     <div class="mdl-card__supporting-text">
                         <ul>
                             <li>Debian GNU/Linux 9 (stretch)</li>
-                            <li>Custom hardened Linux 4.8 kernel</li>
+                            <li>Custom Linux 4.9 kernel</li>
                             <li>Rolling release updates</li>
+                            <li>Hardened and isolated build environment</li>
                             <li>Powerful worldwide mirror servers</li>
                             <li>High hardware compatibility</li>
                             <li>Community-driven development</li>
@@ -110,6 +111,11 @@
                         it has many reliable acquisition and imaging tools<br>
                         and the top class analysis, evidence management and reporting softwares,<br>
                         all of them on top of a reliable OS designed to not alter the proof.
+                    </div>
+                    <div class="mdl-card__actions mdl-card--border">
+                        <a href="http://www.caine-live.net/" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                            Caine Forensics Website
+                        </a>
                     </div>
                 </div>
             </section>
