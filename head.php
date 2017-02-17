@@ -43,7 +43,7 @@
 <style>
     #download-parrot {
       position: fixed;
-      display: block;
+      display: none;
       right: 0;
       bottom: 0;
       margin-right: 40px;
