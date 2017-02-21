@@ -241,12 +241,3 @@ html, body {
     width: 100%;
     height: auto;
 }
-
-/*added by gabrycaos*/
-.button-fixed-width {
-  width: 120px !important;
-  padding: 0;
-}
-.button-margin {
-  margin-bottom: 10px;
-}
