@@ -78,7 +78,7 @@
                         Download the Cloud ISO image from our download page and install it on your server.
                         Or buy a VPS with Parrot Cloud pre-installed,<br>
                         we offer several plans to suit your needs.<br>
-                        <a href="https://dasaweb.net/cart.php?gid=18" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Buy a VPS on our datacenters</a>
+                        <a href="https://core.dasaweb.net/cart.php?gid=18" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Buy a VPS on our datacenters</a>
 
                         <br>
                         <h5>Parrot Cloud Script</h5>
