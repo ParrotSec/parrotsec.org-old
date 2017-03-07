@@ -93,7 +93,7 @@ function mirrorSelector($file, $id)
             <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
-                        <h4 class="mdl-cell mdl-cell--9-col mdl-cell--12-col-phone">Download Parrot 3.4.1 Full Edition</h4>
+                        <h4 class="mdl-cell mdl-cell--9-col mdl-cell--12-col-phone">Download Parrot 3.5 Full Edition</h4>
                         <a href="https://github.com/ParrotSec/changelog/tree/master" target="_blank" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Release Changelog</a>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--12-col-phone">
                             <div class="section__circle-container__circle mdl-color--white" style="background:url('img/frozenbox.png') center / cover no-repeat"></div>
@@ -105,28 +105,28 @@ function mirrorSelector($file, $id)
                                     <h4>32bit</h4>
                                     <form target="_blank" onSubmit="this.action = document.getElementById('full32').value">
                                         <?php
-                                        mirrorSelector("3.4.1/Parrot-full-3.4.1_i386.iso", "full32");
+                                        mirrorSelector("3.5/Parrot-full-3.5_i386.iso", "full32");
                                         ?>
                                         <br>
                                         <br>
                                         <input type="text" style="display:none" name="get" value="1" readonly>
                                         <input type="submit" onclick="_paq.push(['trackGoal', 3]);" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;" value="download" /><br><br>
-                                        <a style="color:#060606;background:#00a0a0;" href="/torrent/3.4.1/Parrot-full-3.4.1_i386.iso.torrent" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">torrent</a><br><br>
-                                        <a href="http://archive.parrotsec.org/parrot/iso/3.4.1/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">hashes</a><br><br>
+                                        <a style="color:#060606;background:#00a0a0;" href="/torrent/3.5/Parrot-full-3.5_i386.iso.torrent" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">torrent</a><br><br>
+                                        <a href="https://www.parrotsec.org/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">hashes</a><br><br>
                                     </form>
                                 </div>
                                 <div class="mdl-cell--6-col">
                                     <h4>64bit</h4>
                                     <form target="_blank" onsubmit="this.action = document.getElementById('full64').value">
                                         <?php
-                                        mirrorSelector("3.4.1/Parrot-full-3.4.1_amd64.iso", "full64");
+                                        mirrorSelector("3.5/Parrot-full-3.5_amd64.iso", "full64");
                                         ?>
                                         <br>
                                         <br>
                                         <input type="text" style="display:none" name="get" value="1" readonly>
                                         <input  onclick="_paq.push(['trackGoal', 3]);" type="submit" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color:#060606;background:#00a000;" value="download" /><br><br>
-                                        <a  style="color: #060606;background:#00a0a0;" href="/torrent/3.4.1/Parrot-full-3.4.1_amd64.iso.torrent" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">torrent</a><br><br>
-                                        <a href="http://archive.parrotsec.org/parrot/iso/3.4.1/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">hashes</a><br><br>
+                                        <a  style="color: #060606;background:#00a0a0;" href="/torrent/3.5/Parrot-full-3.5_amd64.iso.torrent" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">torrent</a><br><br>
+                                        <a href="https://www.parrotsec.org/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">hashes</a><br><br>
                                     </form>
                                 </div>
                             </div>
@@ -137,7 +137,7 @@ function mirrorSelector($file, $id)
             <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
-                        <h4 class="mdl-cell mdl-cell--12-col">Download Parrot 3.4.1 Lite Edition</h4>
+                        <h4 class="mdl-cell mdl-cell--12-col">Download Parrot 3.5 Lite Edition</h4>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--12-col-phone">
                             <div class="section__circle-container__circle mdl-color--white" style="background:url('img/devel.jpg') center / cover no-repeat"></div>
                         </div>
@@ -148,28 +148,28 @@ function mirrorSelector($file, $id)
                                     <h4>32bit</h4>
                                     <form target="_blank" onSubmit="this.action = document.getElementById('lite32').value">
                                         <?php
-                                        mirrorSelector("3.4.1/Parrot-lite-3.4.1_i386.iso", "lite32");
+                                        mirrorSelector("3.5/Parrot-lite-3.5_i386.iso", "lite32");
                                         ?>
                                         <br>
                                         <br>
                                         <input type="text" style="display:none" name="get" value="1" readonly>
                                         <input type="submit" onclick="_paq.push(['trackGoal', 7]);" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;" value="download" /><br><br>
-                                        <a style="color:#060606;background:#00a0a0;" href="/torrent/3.4.1/Parrot-lite-3.4.1_i386.iso.torrent" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">torrent</a><br><br>
-                                        <a href="http://archive.parrotsec.org/parrot/iso/3.4.1/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">hashes</a><br><br>
+                                        <a style="color:#060606;background:#00a0a0;" href="/torrent/3.5/Parrot-lite-3.5_i386.iso.torrent" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">torrent</a><br><br>
+                                        <a href="https://www.parrotsec.org/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">hashes</a><br><br>
                                     </form>
                                 </div>
                                 <div class="mdl-cell--6-col">
                                     <h4>64bit</h4>
                                     <form target="_blank" onsubmit="this.action = document.getElementById('lite64').value">
                                         <?php
-                                        mirrorSelector("3.4.1/Parrot-lite-3.4.1_amd64.iso", "lite64");
+                                        mirrorSelector("3.5/Parrot-lite-3.5_amd64.iso", "lite64");
                                         ?>
                                         <br>
                                         <br>
                                         <input type="text" style="display:none" name="get" value="1" readonly>
                                         <input  onclick="_paq.push(['trackGoal', 7]);" type="submit" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color:#060606;background:#00a000;" value="download" /><br><br>
-                                        <a  style="color: #060606;background:#00a0a0;" href="/torrent/3.4.1/Parrot-lite-3.4.1_amd64.iso.torrent" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">torrent</a><br><br>
-                                        <a href="http://archive.parrotsec.org/parrot/iso/3.4.1/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">hashes</a><br><br>
+                                        <a  style="color: #060606;background:#00a0a0;" href="/torrent/3.5/Parrot-lite-3.5_amd64.iso.torrent" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">torrent</a><br><br>
+                                        <a href="https://www.parrotsec.org/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">hashes</a><br><br>
                                     </form>
                                 </div>
                             </div>
@@ -259,19 +259,19 @@ function mirrorSelector($file, $id)
                     <div id="netboot" class="mdl-card__supporting-text" align="center">
                         <h4>Netboot Images</h4>
                         <p>netboot images are very small files that contain only the parrot installer, it requires an internet connection to install</p>
-                        <a href="http://mirrordirector.archive.parrotsec.org/parrot/pool/iso/3.4.1/Parrot-netboot-3.4.1_i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 32bit</a>
-                        <a href="http://mirrordirector.archive.parrotsec.org/parrot/pool/iso/3.4.1/Parrot-netboot-3.4.1_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 64bit</a><br><br>
+                        <a href="http://mirrordirector.archive.parrotsec.org/parrot/pool/iso/3.5/Parrot-netboot-3.5_i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 32bit</a>
+                        <a href="http://mirrordirector.archive.parrotsec.org/parrot/pool/iso/3.5/Parrot-netboot-3.5_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 64bit</a><br><br>
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>Parrot Libre Edition</h4>
                         <a href="https://www.irisproject.org" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Iris Project Website</a>
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
-                        <h4>Parrot 3.4.1 Studio (64bit)</h4>
+                        <h4>Parrot 3.5 Studio (64bit)</h4>
                         <p>Parrot Studio is a derivative project for multimedia content creation applications for audio, graphics, video, photography and programming workflows.</p>
                         <form target="_blank" onsubmit="this.action = document.getElementById('studio').value">
                             <?php
-                            mirrorSelector("3.4.1/Parrot-studio-3.4.1_amd64.iso", "studio");
+                            mirrorSelector("3.5/Parrot-studio-3.5_amd64.iso", "studio");
                             ?>
                             <br>
                             <br>

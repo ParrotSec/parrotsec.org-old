@@ -36,9 +36,9 @@
                         <ul>
                             <li>CPU: at least 1Ghz dual core cpu</li>
                             <li>ARCH: 32bit, 64bit and ARMhf</li>
-                            <li>RAM: minimum 256Mb - 2048Mb suggested</li>
+                            <li>RAM: minimum 384Mb - 2048Mb suggested</li>
                             <li>GPU: No graphic acceleration required</li>
-                            <li>STORAGE lite/core: 4GB / 8GB</li>
+                            <li>STORAGE lite: 8GB</li>
                             <li>STORAGE Full: 16GB</li>
                             <li>BOOT: Legacy bios or UEFI</li>
                         </ul>
