@@ -103,7 +103,7 @@
                         one of the most important GNU/Linux distributions in the Digital Forensics world.<br>
                         <br>
                         One of our purposes is to provide the best forensics enviromnent ever seen in a security distro,
-                        infact the entire system is hardened to not perform device automounts and to provide all the
+                        in fact the entire system is hardened to not perform device automounts and to provide all the
                         tools needed to do forensic acquisitions and evidence identifications in a safe comprehensive and portable virtual lab.<br>
                         <br>
                         <br>
@@ -130,7 +130,7 @@
                         protect your confidential data and defend your privacy.<br>
                         <br>
                         Parrot includes several cryptographic front-ends to work
-                        both with symmetric and asymmetric encryption, infact it
+                        both with symmetric and asymmetric encryption, in fact it
                         natively supports volumes encryption with LUKS, TrueCrypt, VeraCrypt
                         and the hidden TrueCrypt/VeraCrypt volumes with nested algorythms support.<br>
                         <br>
@@ -159,7 +159,7 @@
                     <div class="mdl-card__supporting-text">
                         Your privacy is the most valuable thing you have in your digital life
                         and the whole Parrot Team is exaggeratedly paranoid when it comes to users privacy,
-                        infact our system doesn't contain tracking systems, and it is hardened in deep to
+                        in fact our system doesn't contain tracking systems, and it is hardened in deep to
                         protect users from prying eyes.<br>
                         <br>
                         Parrot has developed and implemented several tricks and softwares to achieve this goal,
