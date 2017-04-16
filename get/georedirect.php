@@ -43,12 +43,12 @@ if($mirror=="auto");
                 case "AW":
                         $mirror="cloudflare";
                         break;
-								case "AU":
-												$amirror=array("internode","lagoon","0x");
-				                $mirror=$amirror[array_rand($amirror)];
-				                break;
+				case "AU":
+						$amirror=array("internode","lagoon","0x");
+				        $mirror=$amirror[array_rand($amirror)];
+				        break;
                 case "AT":
-                	$amirror=array("garr","garr","rwth-aachen","esslingen");
+                      	$amirror=array("garr","garr","rwth-aachen","esslingen");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "AZ":
@@ -70,7 +70,7 @@ if($mirror=="auto");
                         $mirror="onet";
                         break;
                 case "BE":
-			$amirror=array("babylon-fr","rwth-aachen","esslingen","warwick");
+			            $amirror=array("babylon-fr","rwth-aachen","esslingen","warwick");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "BZ":
@@ -86,174 +86,174 @@ if($mirror=="auto");
                         $mirror="amberit";
                         break;
                 case "BO":
-                	$amirror=array("cedia","uta","ueb");
+                    	$amirror=array("cedia","uta","ueb");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "BQ":
-                	$amirror=array("cedia","espoch","uta","jmu");
+                	    $amirror=array("cedia","espoch","uta","jmu");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "BA":
-                	$amirror=array("garr","onet","uoc");
+                    	$amirror=array("garr","onet","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "BW":
-                	$amirror=array("tenet");
+                    	$amirror=array("tenet");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "BV":
-                	$amirror=array("cloudflare","tenet");
+                    	$amirror=array("cloudflare","tenet");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "BR":
-                	$amirror=array("ufpr","nbtelecom");
+                    	$amirror=array("ufpr","nbtelecom");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "IO":
-                	$amirror=array("cloudflare","tenet","liquidtelecom","amberit");
+                    	$amirror=array("cloudflare","tenet","liquidtelecom","amberit");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "BN":
-                	$amirror=array("cloudflare","lagoon","internode");
+                    	$amirror=array("cloudflare","lagoon","internode");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "BG":
-                	$amirror=array("netix","uoc");
+                    	$amirror=array("netix","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "BF":
-                	$amirror=array("cloudflare","tenet","garr");
+                	    $amirror=array("cloudflare","tenet","garr");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "BI":
-                	$amirror=array("cloudflare","aptus","aptus");
+                    	$amirror=array("cloudflare","aptus","aptus");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "KH":
-                	$amirror=array("tuna","nchc","ustc","0x");
+                    	$amirror=array("tuna","nchc","ustc","0x");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CM":
-                	$amirror=array("cloudflare","tenet","garr");
+                    	$amirror=array("cloudflare","tenet","garr");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CA":
-                	$amirror=array("cloudflare","mit","mtu","clarkson");
+                    	$amirror=array("cloudflare","mit","mtu","clarkson");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CV":
-                	$amirror=array("cloudflare","tenet","garr");
+                    	$amirror=array("cloudflare","tenet","garr");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "KY":
-                	$amirror=array("cloudflare");
+                    	$amirror=array("cloudflare");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CF":
-                	$amirror=array("cloudflare","aptus","tenet");
+                    	$amirror=array("cloudflare","aptus","tenet");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "TD":
-                	$amirror=array("cloudflare","aptus","tenet");
+                    	$amirror=array("cloudflare","aptus","tenet");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CL":
-                	$amirror=array("cloudflare","cloudflare","cedia","uta","ueb");
+                    	$amirror=array("cloudflare","cloudflare","cedia","uta","ueb");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CN":
-                	$amirror=array("ustc","tuna");
+                       	$amirror=array("ustc","tuna");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CX":
-                	$amirror=array("cloudflare");
+                      	$amirror=array("cloudflare");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CC":
-                	$amirror=array("cloudflare");
+                    	$amirror=array("cloudflare");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CO":
-                	$amirror=array("cloudflare","cedia","uta","ueb");
+                       	$amirror=array("cloudflare","cedia","uta","ueb");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "KM":
-                	$amirror=array("cloudflare","aptus","tenet");
+                    	$amirror=array("cloudflare","aptus","tenet");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CG":
-                	$amirror=array("cloudflare","tenet","garr");
+                    	$amirror=array("cloudflare","tenet","garr");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CD":
-                	$amirror=array("cloudflare","tenet","garr","aptus");
+                    	$amirror=array("cloudflare","tenet","garr","aptus");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CK":
-                	$amirror=array("cloudflare","lagoon","lagoon");
+                       	$amirror=array("cloudflare","lagoon","lagoon");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CR":
-                	$amirror=array("cedia","uta","ueb","jmu");
+                       	$amirror=array("cedia","uta","ueb","jmu");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CI":
-                	$amirror=array("tenet","garr");
+                       	$amirror=array("tenet","garr");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "HR":
-                	$amirror=array("garr","uoc");
+                   	    $amirror=array("garr","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CU":
-                	$amirror=array("cloudflare","clarkson");
+                       	$amirror=array("cloudflare","clarkson");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CW":
-                	$amirror=array("cloudflare","clarkson");
+                    	$amirror=array("cloudflare","clarkson");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CY":
-                	$amirror=array("garr","uoc");
+                    	$amirror=array("garr","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "CZ":
-                	$amirror=array("ignum");
+                    	$amirror=array("ignum");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "DK":
-                	$amirror=array("nluug","babylon-nl","onet","umu","rwth-aachen","esslingen");
+                    	$amirror=array("nluug","babylon-nl","onet","umu","rwth-aachen","esslingen");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "DJ":
-                	$amirror=array("cloudflare","aptus","tenet");
+                	    $amirror=array("cloudflare","aptus","tenet");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "DM":
-                	$amirror=array("cloudflare","clarkson","ufpr","ufpr");
+                    	$amirror=array("cloudflare","clarkson","ufpr","ufpr");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "DO":
-                	$amirror=array("cloudflare","clarkson","ufpr");
+                    	$amirror=array("cloudflare","clarkson","ufpr");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "EC":
-                	$amirror=array("cedia","uta","ueb");
+                     	$amirror=array("cedia","uta","ueb");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "EG":
-                	$amirror=array("uoc","netix");
+                      	$amirror=array("uoc","netix");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "SV":
-                	$amirror=array("berkeley","clarkson");
+                      	$amirror=array("berkeley","clarkson");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "GQ":
-                	$amirror=array("clarkson","clarkson","berkeley","cloudflare");
+                    	$amirror=array("clarkson","clarkson","berkeley","cloudflare");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
-		case "ER":
+		        case "ER":
                         $amirror=array("cloudflare","garr");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
@@ -417,7 +417,7 @@ if($mirror=="auto");
                         $amirror=array("asis","uoc");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
-		case "IT":
+	        	case "IT":
                         $amirror=array("garr","garr","garr","rwth-aachen","babylon-fr","esslingen");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
@@ -802,7 +802,8 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "SS":
-		case "SD":
+                        break; 
+		        case "SD":
                         $amirror=array("aptus","cloudflare","garr","asis");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
@@ -902,7 +903,8 @@ if($mirror=="auto");
                         $amirror=array("warwick");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
-		case "UM":
+		        case "UM":
+		                break;
                 case "US":
                         $amirror=array("mit","mtu","jmu","clarkson","berkeley");
                         $mirror=$amirror[array_rand($amirror)];
@@ -928,7 +930,8 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "VG":
-		case "VI":
+                        break;
+		        case "VI":
                         $amirror=array("jmu","clarkson");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
