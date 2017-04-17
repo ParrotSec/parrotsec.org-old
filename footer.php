@@ -26,7 +26,7 @@
                         <li><a target="_blank" href="http://chat.frozenbox.org:3989/?nick=parrot_....&channels=parrot&prompt=1">IRC</a></li>
                         <li><a target="_blank" href="https://telegram.me/joinchat/AerigkC4pztMc7Hus7vRZg">Telegram</a></li>
                         <li><a target="_blank" href="http://lists.parrotsec.org/listinfo">Mailing Lists</a></li>
-                        <li><a target="_blank" href="https://www.facebook.com/groups/parrotsec/">Facebook group</a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/groups/parrotsec/">Facebook Group</a></li>
                     </ul>
                 </div>
                 <div class="mdl-mega-footer--drop-down-section">
@@ -44,7 +44,7 @@
                 <div class="mdl-logo">
                     Legal Notes
                 </div>
-                Parrot Security OS 2011-2017 &copy; <a href="https://docs.parrotsec.org/user/palinuro">Lorenzo Faletra</a> - <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GNU/GPL v3</a>
+                Parrot Security OS 2011-<?php echo "date(Y,time())" ?> &copy; <a href="https://docs.parrotsec.org/user/palinuro">Lorenzo Faletra</a> - <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GNU/GPL v3</a>
             </div>
 </footer>
 <script type="text/javascript">
