@@ -801,8 +801,7 @@ if($mirror=="auto");
                         $amirror=array("cloudflare");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
-                case "SS":
-                        break; 
+                case "SS": 
                 case "SD":
                         $amirror=array("aptus","cloudflare","garr","asis");
                         $mirror=$amirror[array_rand($amirror)];
@@ -904,7 +903,6 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "UM":
-                        break;
                 case "US":
                         $amirror=array("mit","mtu","jmu","clarkson","berkeley");
                         $mirror=$amirror[array_rand($amirror)];
@@ -930,7 +928,6 @@ if($mirror=="auto");
                         $mirror=$amirror[array_rand($amirror)];
                         break;
                 case "VG":
-                        break;
                 case "VI":
                         $amirror=array("jmu","clarkson");
                         $mirror=$amirror[array_rand($amirror)];
