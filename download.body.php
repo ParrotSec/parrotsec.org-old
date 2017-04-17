@@ -259,8 +259,8 @@ function mirrorSelector($file, $id)
                     <div id="netboot" class="mdl-card__supporting-text" align="center">
                         <h4>Netboot Images</h4>
                         <p>netboot images are very small files that contain only the parrot installer, it requires an internet connection to install</p>
-                        <a href="http://mirrordirector.archive.parrotsec.org/parrot/pool/iso/3.5/Parrot-netinst-3.5_i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 32bit</a>
-                        <a href="http://mirrordirector.archive.parrotsec.org/parrot/pool/iso/3.5/Parrot-netinst3.5_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 64bit</a><br><br>
+                        <a href="http://mirrordirector.archive.parrotsec.org/parrot/iso/3.5/Parrot-netinst-3.5_i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 32bit</a>
+                        <a href="http://mirrordirector.archive.parrotsec.org/parrot/iso/3.5/Parrot-netinst3.5_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 64bit</a><br><br>
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>Parrot Libre Edition</h4>
