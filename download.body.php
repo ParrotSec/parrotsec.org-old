@@ -98,7 +98,7 @@ $version = "3.5";
                                 </div>
                                 <div class="mdl-cell--6-col">
                                     <h4>Generic Rootfs</h4>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/arm/parrotsec-3.4-armhf-1/index.html" target="_blank" onclick="_paq.push(['trackGoal', 10]);" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Download</a>
+                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/arm/parrotsec-3.4-armhf-1/" target="_blank" onclick="_paq.push(['trackGoal', 10]);" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Download</a>
 
                                 </div>
                                 <div class="mdl-cell--6-col">
@@ -134,7 +134,7 @@ $version = "3.5";
                         <h4>Netboot Images</h4>
                         <p>netboot images are very small files that contain only the parrot installer, it requires an internet connection to install</p>
                         <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/3.5/Parrot-netinst-3.5_i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 32bit</a>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/3.5/Parrot-netinst3.5_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 64bit</a><br><br>
+                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/3.5/Parrot-netinst-3.5_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 64bit</a><br><br>
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>Parrot Libre Edition</h4>
