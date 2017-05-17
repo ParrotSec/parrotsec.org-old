@@ -3,6 +3,66 @@
     include("nav.php");
     ?>
         <div class="mdl-layout__tab-panel" id="features">
+        	<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+                <header class="section__play-btn mdl-cell mdl-cell--5-col-desktop mdl-cell--3-col-tablet mdl-cell--3-col-phone mdl-color--teal-100 mdl-color-text--white">
+                    <iframe width="560" height="340" src="https://www.parrotsec.org/misc/play.html" frameborder="0" allowfullscreen></iframe>
+                </header>
+                <div name="security" class="mdl-card mdl-cell mdl-cell--7-col-desktop mdl-cell--4-col-tablet mdl-cell--4-col-phone">
+                    <div class="mdl-card__supporting-text">
+                        <h3>Parrot Security</h3>
+                        Security GNU/Linux distribution designed with cloud pentesting and IoT security in mind.<br><br>
+                        It includes a full portable laboratory for security and digital forensics experts, but it also includes
+                        all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.
+                    </div>
+                    <div class="mdl-card__actions">
+                        <a href="https://community.parrotsec.org/post.php?fid=4" class="mdl-button">Contact our Support staff</a>
+                    </div>
+                </div>
+            </section>
+            <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+                <div class="mdl-card mdl-cell mdl-cell--12-col">
+                    <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+                        <h4 class="mdl-cell mdl-cell--12-col">Details</h4>
+                        <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                            <div class="section__circle-container__circle mdl-color--primary" style="background:url('img/shield.png') center / cover no-repeat"></div>
+                        </div>
+                        <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                            <h4>Security</h4>
+                            Parrot Security includes a full arsenal of security oriented tools to perform penetration tests, security audits and more.
+                            With a Parrot usb drive in your pocket you will always be sure to have all you need with you.<br><br>
+                        </div>
+                        <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                            <div class="section__circle-container__circle mdl-color--blue-grey-100" style="background:url('img/gpg.png') center / 50% no-repeat"></div>
+                        </div>
+                        <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                            <h4>Privacy</h4>
+                            Parrot includes by default TOR, I2P, anonsurf, gpg, tccf, zulucrypt, veracrypt, truecrypt, luks
+                            and many other technologies designed to defend your privacy and your identity.<br><br>
+                        </div>
+                        <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                            <div class="section__circle-container__circle mdl-color--primary"><h2 align="center"><font color="#fff">{}</font></h2></div>
+                        </div>
+                        <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                            <h4>Development</h4>
+                            If you need a comfortable environment with updated frameworks and useful libraries already installed, Parrot will amaze you
+                            as it includes a full development-oriented environment with some powerful editors and IDEs pre-installed and many other tools
+                            installable from our repository.<br><br>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+                <div class="mdl-card mdl-cell mdl-cell--12-col">
+                    <div class="mdl-card__supporting-text">
+                        <h4>Community</h4>
+                        <b>We exist because of our awesome community</b><br>
+                        Feel free to join us, and actively follow our development, know awesome people all around the world and get help directly from the developers.
+                    </div>
+                    <div class="mdl-card__actions">
+                        <a href="https://community.parrotsec.org/register.php" class="mdl-button">Join us</a>
+                    </div>
+                </div>
+            </section>
             <section class="section--center mdl-grid mdl-grid--no-spacing">
                 <div class="features-heading-wide mdl-card mdl-shadow--2dp">
                     <div class="mdl-card__title">
@@ -50,7 +110,7 @@
                     </div>
                 </div>
             </section>
-            <section class="section--center mdl-grid mdl-grid--no-spacing" >
+            <section name="cloud" class="section--center mdl-grid mdl-grid--no-spacing" >
                 <div class="features-card-square mdl-card mdl-shadow--2dp">
                     <div class="mdl-card__title mdl-card--expand" style="background-image: url('img/servers.jpg')">
                         <h2 class="mdl-card__title-text">Cloud</h2>
@@ -92,7 +152,7 @@
                     </div>
                 </div>
             </section>
-            <section class="section--center mdl-grid mdl-grid--no-spacing">
+            <section name="forensics" class="section--center mdl-grid mdl-grid--no-spacing">
                 <div class="features-card-square mdl-card mdl-shadow--2dp">
                     <div class="mdl-card__title mdl-card--expand" style="background-image: url('img/fingerprint.jpg')">
                         <h2 class="mdl-card__title-text">Digital Forensics</h2>
@@ -119,7 +179,7 @@
                     </div>
                 </div>
             </section>
-            <section class="section--center mdl-grid mdl-grid--no-spacing">
+            <section name="cryptography" class="section--center mdl-grid mdl-grid--no-spacing">
                 <div class="features-card-square mdl-card mdl-shadow--2dp">
                     <div class="mdl-card__title mdl-card--expand" style="background-image: url('img/crypto.jpg')">
                         <h2 class="mdl-card__title-text">Cryptography</h2>
@@ -151,7 +211,7 @@
                     </div>
                 </div>
             </section>
-            <section class="section--center mdl-grid mdl-grid--no-spacing">
+            <section name="privacy" class="section--center mdl-grid mdl-grid--no-spacing">
                 <div class="features-card-square mdl-card mdl-shadow--2dp">
                     <div class="mdl-card__title mdl-card--expand" style="background-image: url('img/who.jpg')">
                         <h2 class="mdl-card__title-text">Privacy</h2>
@@ -172,7 +232,7 @@
                     </div>
                 </div>
             </section>
-            <section class="section--center mdl-grid mdl-grid--no-spacing">
+            <section name="programming" class="section--center mdl-grid mdl-grid--no-spacing">
                 <div class="features-card-square mdl-card mdl-shadow--2dp">
                     <div class="mdl-card__title mdl-card--expand" style="background-image: url('img/devel.jpg')">
                         <h2 class="mdl-card__title-text">Programming</h2>
@@ -195,7 +255,7 @@
                     </div>
                 </div>
             </section>
-            <div class="mdl-layout__content">
+            <div name="team" class="mdl-layout__content">
                 <div class="mdl-grid portfolio-max-width">
                     <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
                         <div class="mdl-card__media">
@@ -286,14 +346,15 @@
                             <b>Other Contributors</b>
                         </div>
                         <div class="mdl-card__supporting-text">
-                            Agostino DI Lillo<br>
-                            Andrea Amani<br>
+                            Agostino Di Lillo<br>
                             Davide "Dakso" Crivello<br>
                             Darix Deros<br>
                             Nanni Bassetti<br>
                             Nathaniel Jones<br>
                             Giancarlo Niccolai<br>
                             Jeff Szydel<br>
+                            <br>
+                            and all our awesome <a href="https://docs.parrotsec.org/doku.php/community/ambassadors-list">Ambassadors</a>
                         </div>
                     </div>
                 </div>

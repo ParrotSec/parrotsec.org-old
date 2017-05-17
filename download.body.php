@@ -7,10 +7,10 @@ $version = "3.6";
         include("nav.php");
     ?>
         <div class="mdl-layout__tab-panel is-active" id="download">
-            <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <section name="security" class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
-                        <h4 class="mdl-cell mdl-cell--9-col mdl-cell--12-col-phone">Download Parrot <?php echo $version; ?> Full Edition</h4>
+                        <h4 class="mdl-cell mdl-cell--9-col mdl-cell--12-col-phone">Download Parrot Security <?php echo $version; ?> Full Edition</h4>
                         <a href="https://github.com/ParrotSec/changelog/tree/master" target="_blank" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Release Changelog</a>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--12-col-phone">
                             <div class="section__circle-container__circle mdl-color--white" style="background:url('img/frozenbox.png') center / cover no-repeat"></div>
@@ -37,10 +37,10 @@ $version = "3.6";
                     </div>
                 </div>
             </section>
-            <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <section name="lite" class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
-                        <h4 class="mdl-cell mdl-cell--12-col">Download Parrot <?php echo $version; ?> Lite Edition</h4>
+                        <h4 class="mdl-cell mdl-cell--12-col">Download Parrot Home <?php echo $version; ?> Lite Edition</h4>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--12-col-phone">
                             <div class="section__circle-container__circle mdl-color--white" style="background:url('img/devel.jpg') center / cover no-repeat"></div>
                         </div>
@@ -66,10 +66,10 @@ $version = "3.6";
                     </div>
                 </div>
             </section>
-                        <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <section name="air" class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
-                        <h4 class="mdl-cell mdl-cell--12-col">Download Parrot <?php echo $version; ?> AIR</h4>
+                        <h4 class="mdl-cell mdl-cell--12-col">Download Parrot AIR <?php echo $version; ?></h4>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--12-col-phone">
                             <div class="section__circle-container__circle mdl-color--white" style="background:url('img/devel.jpg') center / cover no-repeat"></div>
                         </div>
@@ -86,7 +86,7 @@ $version = "3.6";
                     </div>
                 </div>
             </section>
-            <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp" id="cloud">
+            <section name="cloud" class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp" id="cloud">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
                         <h4 class="mdl-cell mdl-cell--12-col">Parrot Cloud Edition</h4>
@@ -103,7 +103,7 @@ $version = "3.6";
                     </div>
                 </div>
             </section>
-            <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <section name="iot" class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
                         <h4 class="mdl-cell mdl-cell--12-col">Embedded Devices and IoT</h4>
@@ -130,7 +130,7 @@ $version = "3.6";
                 </div>
             </section>
 
-            <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <section name="usb-writer" class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <div class="mdl-card mdl-cell mdl-cell--12-col section--center">
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>ISO USB Image Writer</h4>
@@ -150,13 +150,13 @@ $version = "3.6";
                         <a href="https://www.sourceforge.net/projects/parrotsecurity/files" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Previous releases</a><br><br>
 
                     </div>
-                    <div id="netboot" class="mdl-card__supporting-text" align="center">
+                    <div name="netboot" name="netinstall" id="netboot" class="mdl-card__supporting-text" align="center">
                         <h4>Netboot Images</h4>
                         <p>netboot images are very small files that contain only the parrot installer, it requires an internet connection to install</p>
                         <a href="https://mirrordirector.archive.parrotsec.org/parrot/dists/stable/main/installer-i386/current/images/netboot/mini.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 32bit</a>
                         <a href="https://mirrordirector.archive.parrotsec.org/parrot/dists/stable/main/installer-amd64/current/images/netboot/mini.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 64bit</a><br><br>
                     </div>
-                    <div class="mdl-card__supporting-text" align="center">
+                    <div name="studio" class="mdl-card__supporting-text" align="center">
                         <h4>Parrot <?php echo $version; ?> Studio (64bit)</h4>
                         <p>Parrot Studio is a derivative project for multimedia content creation applications for audio, graphics, video, photography and programming workflows.</p>
                         <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-studio-<?php echo $version; ?>_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Download</a>
