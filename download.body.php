@@ -10,6 +10,12 @@ $version = "3.6";
             <section name="security" class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+                    	<a href="#security" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Security</a>
+                    	<a href="#lite" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Lite</a>
+                    	<a href="#air" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Air</a>
+                    	<a href="#studio" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Studio</a>
+                    	<a href="#cloud" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Cloud</a>
+                    	<a href="#iot" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Iot</a>
                         <h4 class="mdl-cell mdl-cell--9-col mdl-cell--12-col-phone">Download Parrot Security <?php echo $version; ?> Full Edition</h4>
                         <a href="https://github.com/ParrotSec/changelog/tree/master" target="_blank" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Release Changelog</a>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--12-col-phone">
@@ -40,7 +46,7 @@ $version = "3.6";
             <section name="lite" id="lite" class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
-                        <h4 class="mdl-cell mdl-cell--12-col">Download Parrot Home <?php echo $version; ?> Lite Edition</h4>
+                        <h4 class="mdl-cell mdl-cell--12-col">Download Parrot Lite <?php echo $version; ?> Home Edition</h4>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--12-col-phone">
                             <div class="section__circle-container__circle mdl-color--white" style="background:url('img/devel.jpg') center / cover no-repeat"></div>
                         </div>
@@ -135,8 +141,8 @@ $version = "3.6";
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>ISO USB Image Writer</h4>
                         <p>the Parrot ISO files are distributed as ISOHYBRID (iso9660) images, so you need a special software (like DD) to put them in a USB pendrive. Rosa Image Writer is a powerful and multiplatform tool that works perfectly with parrot</p>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-linux64.bin" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>Linux 64bit</a>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-linux32.bin" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>Linux 32bit</a>
+                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-linux64.exec" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>Linux 64bit</a>
+                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-linux32.exec" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>Linux 32bit</a>
                         <a href="https://mirrordirector.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-win.exe" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>Windows</a>
                         <a href="https://mirrordirector.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-osx.dmg" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>OSX</a>
                         <a href="https://mirrordirector.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-all.zip" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>All</a>
