@@ -10,12 +10,12 @@ $version = "3.6";
             <section name="security" class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
-                    	<a href="#security" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Security</a>
-                    	<a href="#lite" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Lite</a>
-                    	<a href="#air" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Air</a>
-                    	<a href="#studio" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Studio</a>
-                    	<a href="#cloud" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Cloud</a>
-                    	<a href="#iot" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Iot</a>
+                    	<a href="#security" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell ">Security</a>
+                    	<a href="#lite" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell">Lite</a>
+                    	<a href="#air" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell">Air</a>
+                    	<a href="#studio" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell">Studio</a>
+                    	<a href="#cloud" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell">Cloud</a>
+                    	<a href="#iot" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell">Iot</a>
                         <h4 class="mdl-cell mdl-cell--9-col mdl-cell--12-col-phone">Download Parrot Security <?php echo $version; ?> Full Edition</h4>
                         <a href="https://github.com/ParrotSec/changelog/tree/master" target="_blank" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Release Changelog</a>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--12-col-phone">
