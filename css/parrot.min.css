@@ -7646,14 +7646,14 @@ header {
 
 #contribute-to-parrot .btn-default:hover,
 #more-information-os .btn-default:hover {
-    background: #173f4f;
-    border-color: #173f4f
+    background: #004360;
+    border-color: #004360
 }
 
 .btn-primary {
     border: 1px solid #35b9ab;
     background: #35b9ab;
-    color: #173f4f
+    color: #004360
 }
 
 .btn-primary:hover {
@@ -7669,8 +7669,8 @@ header {
 }
 
 #more-information-os .btn-primary:hover {
-    background: #173f4f;
-    border-color: #173f4f;
+    background: #004360;
+    border-color: #004360;
     color: #fff
 }
 
@@ -7694,7 +7694,7 @@ header {
 
 #more-information-os .btn-link:hover,
 #more-information-os .btn-link:hover i {
-    color: #173f4f
+    color: #004360
 }
 
 .btn.btn-default.dropdown-toggle {
@@ -7746,7 +7746,7 @@ img[src*="new-tools-to-try-out.png"] {
 }
 
 header {
-    background: #173f4f;
+    background: #004360;
     display: block;
     padding: 20px 0;
     transition: all .5s ease;
@@ -7882,7 +7882,7 @@ ul li {
 }
 
 #parrot-os {
-    background: #173f4f;
+    background: #004360;
     height: 720px;
     padding-bottom: 0;
     transition: all .5s ease;
@@ -8073,7 +8073,7 @@ ul li {
 }
 
 .footer-links-area {
-    background: #173f4f
+    background: #004360
 }
 
 .footer-sponsors-area {
@@ -8102,9 +8102,9 @@ ul li {
 
 .parrot-news .owl-buttons .owl-next,
 .parrot-news .owl-buttons .owl-prev {
-    border: 1px solid #173f4f;
+    border: 1px solid #004360;
     border-radius: 100%;
-    color: #173f4f;
+    color: #004360;
     font-family: FontAwesome;
     font-size: 1.2em;
     height: 40px;
@@ -8129,7 +8129,7 @@ h6 {
 }
 
 .parrot-news .owl-pagination .owl-page {
-    background: #173f4f;
+    background: #004360;
     border-radius: 100%;
     display: inline-block;
     margin: .3em;
