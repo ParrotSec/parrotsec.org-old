@@ -19,7 +19,7 @@ $version = "3.6";
                     </div>
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
                         <h4 class="mdl-cell mdl-cell--9-col mdl-cell--12-col-phone">Download Parrot Security <?php echo $version; ?> Full Edition</h4>
-                        <a href="https://github.com/ParrotSec/changelog/tree/master" target="_blank" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Release Changelog</a>
+                        <a href="https://dev.parrotsec.org/parrot/changelog/tree/master" target="_blank" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey-700 mdl-cell mdl-cell--3-col mdl-cell--12-col-phone">Release Changelog</a>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--12-col-phone">
                             <div class="section__circle-container__circle mdl-color--white" style="background:url('img/frozenbox.png') center / cover no-repeat"></div>
                         </div>
