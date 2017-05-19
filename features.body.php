@@ -147,8 +147,8 @@
                         You can do this by downloading and launching (as root) the following script<br>
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
-                        <a href="https://raw.githubusercontent.com/ParrotSec/alternate-install/master/parrot-install.sh" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Get raw code</a>
-                        <a href="https://github.com/ParrotSec/alternate-install/blob/master/parrot-install.sh" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">View on GitHub</a><br>
+                        <a href="https://dev.parrotsec.org/parrot/alternate-install/raw/master/parrot-install.sh" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Get raw code</a>
+                        <a href="https://dev.parrotsec.org/parrot/alternate-install/blob/master/parrot-install.sh" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">View on our repository</a><br>
                     </div>
                 </div>
             </section>
