@@ -48,7 +48,7 @@
               <a class='smoothScroll' data-linkto='parrot-features' href="https://www.parrotsec.org/features.fx">Features</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-download' href="https://www.parrotsec.org/download.fx">DownloadFeatures</a>
+              <a class='smoothScroll' data-linkto='parrot-download' href="https://www.parrotsec.org/download.fx">Download</a>
             </li>
             <li>
               <a class='smoothScroll' data-linkto='parrot-news' href="https://blog.parrotsec.org">News</a>
