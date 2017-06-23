@@ -167,7 +167,7 @@
             <h1 class="wow fadeIn" data-wow-delay=".5s">Cloud</h1>
             <h4 class="wow fadeIn" data-wow-delay=".6s">Mix the tools of Parrot with the power of the cloud and make your pentests easier with one of our cloud pentest boxes.</h4>
             <a href="https://www.parrotsec.org/features.fx#cloud" class="moreinfo btn btn-default">More information</button>
-            <a href="https://www.parrotsec.org/download.fx#cloud" class="moreinfo btn btn-primary">
+            <a href="https://core.dasaweb.net/cart.php?gid=18" class="moreinfo btn btn-primary">
               <span>Get Parrot Cloud</span>
             </a>
           </div>
