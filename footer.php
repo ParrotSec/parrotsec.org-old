@@ -25,6 +25,7 @@
                     <ul class="mdl-mega-footer--link-list">
                         <li><a target="_blank" href="http://chat.frozenbox.org:3989/?nick=parrot_....&channels=parrot&prompt=1">IRC</a></li>
                         <li><a target="_blank" href="https://telegram.me/joinchat/AerigkC4pztMc7Hus7vRZg">Telegram</a></li>
+                        <li><a target="_blank" href="https://t.me/joinchat/AAAAAECEF7201Jk3bOB5pA">Telegram (Latin Community)</a></li>
                         <li><a target="_blank" href="http://lists.parrotsec.org/listinfo">Mailing Lists</a></li>
                         <li><a target="_blank" href="https://www.facebook.com/groups/parrotsec/">Facebook group</a></li>
                     </ul>
