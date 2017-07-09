@@ -70,8 +70,8 @@
                     </div>
                     <div class="mdl-card__supporting-text">
                         <ul>
-                            <li>Debian GNU/Linux 9 (stretch)</li>
-                            <li>Custom Linux 4.9 kernel</li>
+                            <li>Debian GNU/Linux 10 (buster)</li>
+                            <li>Custom Linux 4.11 kernel</li>
                             <li>Rolling release updates</li>
                             <li>Hardened and isolated build environment</li>
                             <li>Powerful worldwide mirror servers</li>
@@ -346,15 +346,17 @@
                             <b>Other Contributors</b>
                         </div>
                         <div class="mdl-card__supporting-text">
-                            Agostino Di Lillo<br>
-                            Davide "Dakso" Crivello<br>
                             Darix Deros<br>
-                            Nanni Bassetti<br>
-                            Nathaniel Jones<br>
                             Giancarlo Niccolai<br>
                             Jeff Szydel<br>
+                            José Gatica<br>
+                            Nanni Bassetti<br>
+                            Nathaniel Jones<br>
+                            Vangelis Mouhtsis<br>                            
                             <br>
-                            and all our awesome <a href="https://docs.parrotsec.org/doku.php/community/ambassadors-list">Ambassadors</a>
+                            and all our awesome <a href="https://docs.parrotsec.org/doku.php/community/ambassadors-list">Ambassadors</a>,
+                            					<a href="https://docs.parrotsec.org/partners">Partners</a> and
+                            					<a href="https://www.patreon.com/parrot">Supporters</a>
                         </div>
                     </div>
                 </div>

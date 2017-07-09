@@ -1,5 +1,5 @@
 <?php
-$version = "3.6";
+$version = "3.7";
 ?>
 
 <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
