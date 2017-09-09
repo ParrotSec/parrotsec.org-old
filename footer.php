@@ -4,10 +4,10 @@
                     <input class="mdl-mega-footer--heading-checkbox" type="checkbox" checked>
                     <h1 class="mdl-mega-footer--heading">Info</h1>
                     <ul class="mdl-mega-footer--link-list">
-                        <li><a href="https://docs.parrotsec.org/what-is-parrot">About</a></li>
-                        <li><a href="https://docs.parrotsec.org/terms-and-conditions">Terms</a></li>
+                        <li><a href="https://docs.parrotsec.org/developers">Develpers</a></li>
                         <li><a href="https://docs.parrotsec.org/partners">Partners</a></li>
-                        <li><a href="https://blog.parrotsec.org">News</a></li>
+                        <li><a href="https://docs.parrotsec.org/what-is-parrot">About</a></li>
+                        <li><a href="https://docs.parrotsec.org/terms-and-conditions">Terms and Conditions</a></li>
                     </ul>
                 </div>
                 <div class="mdl-mega-footer--drop-down-section">

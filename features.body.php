@@ -71,7 +71,7 @@
                     <div class="mdl-card__supporting-text">
                         <ul>
                             <li>Debian GNU/Linux 10 (buster)</li>
-                            <li>Custom Linux 4.11 kernel</li>
+                            <li>Custom Linux 4.12 kernel</li>
                             <li>Rolling release updates</li>
                             <li>Hardened and isolated build environment</li>
                             <li>Powerful worldwide mirror servers</li>
@@ -255,112 +255,6 @@
                     </div>
                 </div>
             </section>
-            <div name="team" class="mdl-layout__content">
-                <div class="mdl-grid portfolio-max-width">
-                    <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
-                        <div class="mdl-card__media">
-                            <img class="team-pictures" src="img/palinuro.jpg" border="0" alt="">
-                        </div>
-                        <div class="mdl-card__title">
-                            <b>Lorenzo "Palinuro" Faletra</b>
-                        </div>
-                        <div class="mdl-card__supporting-text">
-                            Project Team Leader<br>
-                            Core Developer<br>
-                            Builds Coordinator<br>
-                            Repository Maintainer<br>
-                            Graphic Designer<br>
-                            Webmaster<br>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/palinuro">See Profile and keys</a>
-                        </div>
-                    </div>
-                    <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
-                        <div class="mdl-card__media">
-                            <img class="team-pictures" src="img/sheireen.jpg" border="0" alt="">
-                        </div>
-                        <div class="mdl-card__title">
-                            <b>Lisetta "Sheireen" Ferrero</b>
-                        </div>
-                        <div class="mdl-card__supporting-text">
-                            Core Developer<br>
-                            Metapackages Designer<br>
-                            Quality Assurance<br>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/sheireen">See Profile and keys</a>
-                        </div>
-                    </div>
-                    <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
-                        <div class="mdl-card__media">
-                            <img class="team-pictures" src="img/mibofra.jpg" border="0" alt="">
-                        </div>
-                        <div class="mdl-card__title">
-                            <b>Francesco "Mibofra" Bonanno</b>
-                        </div>
-                        <div class="mdl-card__supporting-text">
-                            IoT Development Coordinator<br>
-                            Core Developer<br>
-                            ARM Developer<br>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/mibofra">See Profile and keys</a>
-                        </div>
-                    </div>
-                    <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
-                        <div class="mdl-card__media">
-                            <img class="team-pictures" src="img/quietwalker.jpg" border="0" alt="">
-                        </div>
-                        <div class="mdl-card__title">
-                            <b>Emanuel "Quietwalker" Di Vita</b>
-                        </div>
-                        <div class="mdl-card__supporting-text">
-                            Free(libre) Software Consultant<br>
-                            IrisProject Team Leader<br>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/quietwalker">See Profile and keys</a>
-                        </div>
-                    </div>
-                    <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
-                        <div class="mdl-card__media">
-                            <img class="team-pictures" src="img/tissy.jpg" border="0" alt="">
-                        </div>
-                        <div class="mdl-card__title">
-                            <b>Irene "Tissy" Pirrotta</b>
-                        </div>
-                        <div class="mdl-card__supporting-text">
-                            Parrot Maintainer<br>
-                            Beta Tester<br>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" target="_blank" href="https://doc.parrotsec.org/user/tissy">See Profile and keys</a>
-                        </div>
-                    </div>
-                    <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
-                        <div class="mdl-card__media">
-                            <img class="team-pictures" src="img/boxes.jpg" border="0" alt="">
-                        </div>
-                        <div class="mdl-card__title">
-                            <b>Other Contributors</b>
-                        </div>
-                        <div class="mdl-card__supporting-text">
-                            Darix Deros<br>
-                            Giancarlo Niccolai<br>
-                            Jeff Szydel<br>
-                            José Gatica<br>
-                            Nanni Bassetti<br>
-                            Nathaniel Jones<br>
-                            Vangelis Mouhtsis<br>                            
-                            <br>
-                            and all our awesome <a href="https://docs.parrotsec.org/doku.php/community/ambassadors-list">Ambassadors</a>,
-                            					<a href="https://docs.parrotsec.org/partners">Partners</a> and
-                            					<a href="https://www.patreon.com/parrot">Supporters</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
 <?php
     include("footer.php");
@@ -369,4 +263,3 @@
 </div>
 <!--<a href="https://www.parrotsec.org/download.fx" target="_blank" id="download-parrot" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-co$
 <script src="/misc/material.min.js"></script>
-
