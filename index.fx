@@ -66,7 +66,7 @@
               <a class='smoothScroll' data-linkto='parrot-partners' href="https://docs.parrotsec.org/partners">Partners</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-partners' href="https://docs.parrotsec.ordevelopers">Team</a>
+              <a class='smoothScroll' data-linkto='parrot-partners' href="https://docs.parrotsec.org/developers">Team</a>
             </li>
             <li>
               <a class='smoothScroll' data-linkto='parrot-donations' href="https://docs.parrotsec.org/donate">Donate</a>
