@@ -54,22 +54,22 @@
               <a class='smoothScroll' data-linkto='parrot-news' href="https://blog.parrotsec.org">News</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-documentation' href="https://docs.parrotsec.org">Documentation</a>
+              <a class='smoothScroll' data-linkto='parrot-documentation' href="https://docs.parrotsec.org">Wiki</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-community' href="https://community.parrotsec.org">Community</a>
+              <a class='smoothScroll' data-linkto='parrot-dev' href="https://dev.parrotsec.org">Dev</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-dev' href="https://dev.parrotsec.org">Dev Portal</a>
+              <a class='smoothScroll' data-linkto='parrot-community' href="https://docs.parrotsec.org/community">Community</a>
             </li>
             <li>
               <a class='smoothScroll' data-linkto='parrot-partners' href="https://docs.parrotsec.org/partners">Partners</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-donations' href="https://docs.parrotsec.org/donate">Donations</a>
+              <a class='smoothScroll' data-linkto='parrot-partners' href="https://docs.parrotsec.ordevelopers">Team</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-join' href="https://docs.parrotsec.org/community">Join</a>
+              <a class='smoothScroll' data-linkto='parrot-donations' href="https://docs.parrotsec.org/donate">Donate</a>
             </li>
             <li>
               <a class='smoothScroll' data-linkto='parrot-faq' href="https://docs.parrotsec.org/FAQ">F.A.Q.</a>
