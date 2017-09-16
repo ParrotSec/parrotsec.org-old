@@ -122,15 +122,16 @@ $version = "3.8";
                             <div class="mdl-grid mdl-grid--no-spacing">
                                 <div class="mdl-cell--6-col">
                                     <h4>Raspberry Pi</h4>
-                                    <a href="https://cdimage.parrotsec.org/parrot/iso/arm/parrotsec-3.4-armhf-rpi-1/index.html" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Download</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/arm/rpi/" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Download</a>
                                 </div>
                                 <div class="mdl-cell--6-col">
-                                    <h4>Generic Rootfs</h4>
-                                    <a href="https://cdimage.parrotsec.org/parrot/iso/arm/parrotsec-3.4-armhf-1/" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Download</a>
+                                    <h4>Orange Pi</h4>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/arm/opi/" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Experimental Images</a>
 
                                 </div>
                                 <div class="mdl-cell--6-col">
-                                    <a href="https://archive.parrotsec.org/parrot/iso/arm/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">hashes</a>
+                                    <h4>Pine64</h4>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/arm/pine64/" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Experimental Images</a>
                                 </div>
                             </div>
                         </div>
