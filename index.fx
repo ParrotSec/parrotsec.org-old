@@ -242,8 +242,8 @@
             <div class="col-xs-4">
               <ul>
                 <li>
-                  <a href="http://chat.frozenbox.org:3989/?nick=parrot_....&channels=parrot&prompt=1">
-                    <span>IRC</span>
+                  <a href="https://chat.parrotsec.org/inverse/">
+                    <span>IRC/XMPP</span>
                   </a>
                 </li>
                 <li>
