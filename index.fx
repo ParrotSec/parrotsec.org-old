@@ -29,7 +29,7 @@
   <link rel="shortcut icon" href="img/logo.png">
 </head>
 <body>
-  <div class="finger-detection-open-menu visible-xs"></div>
+  <div class="finger-detection-open-menu visible-xs">
   <header>
     <div class="container-fluid">
       <div class="row">
@@ -82,6 +82,7 @@
       </div>
     </div>
   </header>
+  </div>
   <aside>
     <!--grabs content from #main-menu on mobile devices or small screens only -->
   </aside>
