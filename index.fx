@@ -30,6 +30,7 @@
 </head>
 <body>
   <div class="finger-detection-open-menu visible-xs">
+    </div>
   <header>
     <div class="container-fluid">
       <div class="row">
@@ -82,7 +83,6 @@
       </div>
     </div>
   </header>
-  </div>
   <aside>
     <!--grabs content from #main-menu on mobile devices or small screens only -->
   </aside>
