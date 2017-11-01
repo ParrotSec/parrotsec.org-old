@@ -1,53 +1,28 @@
-<title>Parrot Security</title>
+<head>
+  <meta charset="utf-8">
+  <title>Parrot Project<?
 
-<!-- common meta -->
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="Cloud oriented Pentesting GNU/Linux distribution">
-<meta name="keywords" content="parrot,parrotsec,security, parrot security,pentesting,pentest,pentester,hacker,hacking,hack,hacker distribution,hacker os,hacking distribution,hacking os,frozenbox,eclipse,eclipsespark,eclipse spark,sheireen,mibofra,cloud pentesting,mobile pentesting">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  if($title) {
+    print(" - ");
+    print($title);
+  }
 
-<!-- Add to homescreen for Chrome on Android -->
-<meta name="mobile-web-app-capable" content="yes">
-<link rel="icon" sizes="192x192" href="img/logo.png">
-
-<!-- Add to homescreen for Safari on iOS -->
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
-<meta name="apple-mobile-web-app-title" content="Parrot Security">
-<link rel="apple-touch-icon-precomposed" href="img/logo.png">
-
-<!-- Tile icon for Win8 (144x144 + tile color) -->
-<meta name="msapplication-TileImage" content="img/logo.png">
-<meta name="msapplication-TileColor" content="#3372DF">
-
-<!-- Tag for Social Network (facebook, twitter & co) -->
-<meta property="og:title" content="Parrot Sec" />
-<meta property="og:type" content="" />
-<meta property="og:url" content="https://parrotsec.org" />
-<meta property="og:image" content="img/slides.png" />
-
-<!--favicon -->
-<link rel="shortcut icon" href="img/logo.png">
-
-
-<!-- include MDL -->
-<link rel="stylesheet" href="misc/material.min.css">
-<script src="misc/material.min.js"></script>
-<link rel="stylesheet" href="misc/icons.css">
-
-<!-- include custom styles -->
-<link rel="stylesheet" href="misc/main.css">
-
-<!-- some inline styles -->
-<style>
-    #download-parrot {
-      position: fixed;
-      display: none;
-      right: 0;
-      bottom: 0;
-      margin-right: 40px;
-      margin-bottom: 40px;
-      z-index: 900;
-    }
-    </style>
+  ?></title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author"   content="Lorenzo Faletra">
+  <!-- Meta data to help Facebook generate the right advertisement -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="The best choice for security experts, developers and crypto-addicted people." />
+  <meta property="og:site_name"   content="Parrot Security"/>
+  <meta property="og:url"         content="https://www.parrotsec.org" />
+  <meta property="og:image"       content="https://www.parrotsec.org/img/facebook-preview.png" />
+  <meta property="og:description" content="Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools." />
+  <meta property="fb:app_id"      content="">
+  <link rel="stylesheet" href="./css/bootstrap.min.css" />
+  <link rel="stylesheet" href="./css/animate.min.css" />
+  <link rel="stylesheet" href="./css/ionicons.min.css" />
+  <link rel="stylesheet" href="./css/styles.css" />
+  <link rel="shortcut icon" href="img/logo.png">
+</head>
