@@ -24,6 +24,7 @@
   <link rel="stylesheet" href="./css/animate.min.css" />
   <link rel="stylesheet" href="./css/ionicons.min.css" />
   <link rel="stylesheet" href="./css/features-table.css" />
+  <link rel="stylesheet" href="./css/panel-download.css" />
   <link rel="stylesheet" href="./css/font-awesome.min.css">
   <link rel="stylesheet" href="./css/styles.css" />
   <link rel="shortcut icon" href="img/logo.png">

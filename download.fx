@@ -35,7 +35,7 @@
                         <h3><b>IoT Devices</h3>
                         <p class="text-muted">Parrot IoT is a set of special systems designed for embedded devices and SoC boards such as Raspberry Pi and so on.</p>
                     </div>
-                    <a href="download-iot.fx" class="btn btn-primary btn-xl page-scroll">Download</a>
+                    <a href="#" class="btn btn-primary btn-xl page-scroll">Work In Progress</a>
                 </div>
             </div>
         </div>
