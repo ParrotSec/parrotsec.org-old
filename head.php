@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8">
-  <title>Parrot Project<?
+  <title>Parrot Project<?php
 
   if($title) {
     print(" - ");
