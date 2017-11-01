@@ -8,7 +8,7 @@
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand page-scroll" href="#first">
+              <a class="navbar-brand page-scroll" href="index.php">
                 <b><img src="img/logo.png" width="20" height="20" /> Parrot</b>
               </a>
           </div>
