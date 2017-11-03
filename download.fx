@@ -48,8 +48,22 @@
             <div class="row text-center" style="outline-offset:300px">
               <div class="col-lg-12 text-center">
                   <h2 class="margin-top-0">Need help? Contact our community!</h2>
+                  <p>
+                    We have a big international community and many local groups with people who want to help you!
+                  </p>
               </div>
               <a target="_blank" href="https://docs.parrotsec.org/community#groups" class="btn btn-primary">Community</a></a>
+            </div>
+<br /><br /><hr /><br /><br />
+            <div class="row text-center" style="outline-offset:300px">
+              <div class="col-lg-12 text-center">
+                  <h2 class="margin-top-0">Need the precedent version?</h2>
+                  <p>
+                    Remember that older versions do NOT include <b>important security updates</b><br />
+                    and it is <b>EXTREMELY DANGEROUS</b> to use them!
+                  </p>
+              </div>
+              <a target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.8/" class="btn btn-primary">Parrot 3.8 Archive</a></a>
             </div>
 
         </div>
