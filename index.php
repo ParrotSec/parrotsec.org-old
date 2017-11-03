@@ -23,7 +23,7 @@
                     </p>
                     <p class="text-faded  wow fadeInUp">
                       It includes a full portable laboratory for security and digital forensics experts, but it also includes
-                      all you need to develop your own softwares or protect your privacy while surfing the net.
+                      all you need to develop your own software or protect your privacy while surfing the net.
                     </p>
                     <a href="#two" class="btn btn-primary btn-xl page-scroll">Continue</a>
                 </div>
