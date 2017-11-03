@@ -6,7 +6,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="margin-top-0 text-primary">Download Parrot GNU/Linux</h2>
+                    <h1 class="margin-top-0 text-primary">Download Parrot GNU/Linux</h1>
                     <hr class="primary">
                 </div>
             </div>
@@ -19,7 +19,7 @@
                         <h3><b>Full</b> (<i>Security</i>)</h3>
                         <p class="text-muted">Parrot Full is our complete all-in-one environment for pentesting, privacy, digital forensics, reverse engineering and software development.</p>
                     </div>
-                    <a href="download-full.fx" class="btn btn-primary btn-xl page-scroll">Download</a>
+                    <a href="download-full.fx" class="btn btn-primary page-scroll">Download</a>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center wow fadeInUp">
                     <div class="feature">
@@ -27,17 +27,31 @@
                         <h3><b>Lite</b> (<i>Home/Workstation</i>)</h3>
                         <p class="text-muted">Parrot Lite is a very lightweight system for <b>daily use</b> and <b>privacy protection</b>. It is designed for casual users who love the parrot look and feel.</p>
                     </div>
-                    <a href="download-lite.fx" class="btn btn-primary btn-xl page-scroll">Download</a>
+                    <a href="download-lite.fx" class="btn btn-primary page-scroll">Download</a>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center wow fadeInRight">
                     <div class="feature">
                         <img src="img/iot.png" width="55" height="55" />
-                        <h3><b>IoT Devices</h3>
-                        <p class="text-muted">Parrot IoT is a set of special systems designed for embedded devices and SoC boards such as Raspberry Pi and so on.</p>
+                        <h3><b>Other Builds</h3>
+                        <p class="text-muted">The Parrot Project releases other images of the Parrot System specifically designed for special use cases or uncommon devices. Here you can find the ARM images and other custom editions.</p>
                     </div>
-                    <a href="#" class="btn btn-primary btn-xl page-scroll">Work In Progress</a>
+                    <a href="download-other.fx" class="btn btn-primary page-scroll">Download</a>
                 </div>
             </div>
+<br /><br /><hr /><br /><br />
+            <div class="row">
+              <div class="col-lg-12 text-center">
+                <a target="_blank" href="https://etcher.io" class="btn btn-primary">Etcher Image Writer</a> &nbsp; <a target="_blank" href="https://archive.parrotsec.org" class="btn btn-primary page-scroll">Parrot Archive</a>
+              </div>
+            </div>
+<br /><br /><hr /><br /><br />
+            <div class="row text-center" style="outline-offset:300px">
+              <div class="col-lg-12 text-center">
+                  <h2 class="margin-top-0">Need help? Contact our community!</h2>
+              </div>
+              <a target="_blank" href="https://docs.parrotsec.org/community#groups" class="btn btn-primary">Community</a></a>
+            </div>
+
         </div>
     </section>
     <div id="features-table">

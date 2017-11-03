@@ -34,21 +34,21 @@ $version = "3.9";
                   <p class="lead" style="font-size:40px"><strong>64BIT</strong></p>
                 </div>
                 <ul class="list-group list-group-flush text-center">
-  							<li class="list-group-item"><i class="icon-ok text-info"></i> For modern computers</li>
-  						</ul>
-  						<div class="panel-footer">
-  							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-full-3.9.1_amd64.iso">Download</a>
-  						</div>
-              <div class="panel-footer">
-  							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-full-3.9.1_amd64.iso.mirrorlist">Mirrors</a>
-  						</div>
-              <div class="panel-footer">
-  							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-full-3.9.1_amd64.iso.torrent">Torrent</a>
-  						</div>
-              <div class="panel-footer">
-                <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.9/signed-hashes.txt">Signed Hashes</a>
-  						</div>
-  					</div>
+  							 <li class="list-group-item"><i class="icon-ok text-info"></i> For modern computers</li>
+    						</ul>
+    						<div class="panel-footer">
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-full-3.9.1_amd64.iso">Download</a>
+    						</div>
+                <div class="panel-footer">
+    							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-full-3.9.1_amd64.iso.mirrorlist">Mirrors</a>
+    						</div>
+                <div class="panel-footer">
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-full-3.9.1_amd64.iso.torrent">Torrent</a>
+    						</div>
+                <div class="panel-footer">
+                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.9/signed-hashes.txt">Signed Hashes</a>
+    						</div>
+    					</div>
             </div>
 
             <div class="col-lg-3 col-md-3 col-md-offset-2 col-lg-offset-2 text-center">
@@ -60,21 +60,21 @@ $version = "3.9";
                   <p class="lead" style="font-size:40px"><strong>32BIT</strong></p>
                 </div>
                 <ul class="list-group list-group-flush text-center">
-  							<li class="list-group-item"><i class="icon-ok text-info"></i> For older computers</li>
-  						</ul>
-  						<div class="panel-footer">
-  							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-full-3.9.1_i386.iso">Download</a>
-  						</div>
-              <div class="panel-footer">
-  							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-full-3.9.1_i386.iso.mirrorlist">Mirrors</a>
-  						</div>
-              <div class="panel-footer">
-  							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-full-3.9.1_i386.iso.torrent">Torrent</a>
-  						</div>
-              <div class="panel-footer">
-                <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.9/signed-hashes.txt">Signed Hashes</a>
-  						</div>
-  					</div>
+    							<li class="list-group-item"><i class="icon-ok text-info"></i> For older computers</li>
+    						</ul>
+    						<div class="panel-footer">
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-full-3.9.1_i386.iso">Download</a>
+    						</div>
+                <div class="panel-footer">
+    							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-full-3.9.1_i386.iso.mirrorlist">Mirrors</a>
+    						</div>
+                <div class="panel-footer">
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-full-3.9.1_i386.iso.torrent">Torrent</a>
+    						</div>
+                <div class="panel-footer">
+                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.9/signed-hashes.txt">Signed Hashes</a>
+    						</div>
+    					</div>
             </div>
 
           </div>
