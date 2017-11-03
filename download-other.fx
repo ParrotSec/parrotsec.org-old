@@ -38,7 +38,7 @@ $version = "3.9";
                   </div>
                   <ul class="list-group list-group-flush text-center">
       							<li class="list-group-item"><i class="icon-ok text-info"></i>Architecture: x86_32</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 700MB</li>
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 680MB</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: Enlightenment 21</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Style: Minimal</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid</li>
