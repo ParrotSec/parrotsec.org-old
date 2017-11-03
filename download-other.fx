@@ -21,14 +21,14 @@ $version = "3.9";
                       Here you can also find custom Parrot derivatives and experimental builds with custom configurations for special devices, or just experimental Parrot derivatives proposed by our community and built on our official build platform.
                     </p>
                     <p>
-                      <img width="600" src="img/arm-soc.jpg" />
+                      <img class="rounded mx-auto d-block float-left" style="width:500px" src="img/arm-soc.jpg" />
                     </p>
                 </div>
             </div>
 
             <div class="row">
 
-              <div class="col-lg-3 col-md-3 text-center">
+              <div class="col-lg-4 col-md-4 text-center">
                 <div class="panel download panel-blue">
                   <div class="panel-heading arrow_box text-center">
                     <h3>Parrot Pico</h3>
@@ -38,10 +38,10 @@ $version = "3.9";
                   </div>
                   <ul class="list-group list-group-flush text-center">
       							<li class="list-group-item"><i class="icon-ok text-info"></i>Architecture: x86_32</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: Enlightenment</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 700MB</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: Enlightenment 21</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Style: Minimal</li>
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid</li>
       						</ul>
       						<div class="panel-footer">
       							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-pico-3.9_i386.iso">Download</a>
@@ -58,7 +58,7 @@ $version = "3.9";
       					</div>
               </div>
 
-              <div class="col-lg-3 col-md-3 text-center">
+              <div class="col-lg-4 col-md-4 text-center">
                 <div class="panel download panel-blue">
                   <div class="panel-heading arrow_box text-center">
                     <h3>Parrot Source Code</h3>
@@ -80,7 +80,7 @@ $version = "3.9";
       					</div>
               </div>
 
-              <div class="col-lg-3 col-md-3 text-center">
+              <div class="col-lg-4 col-md-4 text-center">
                 <div class="panel download panel-blue">
                   <div class="panel-heading arrow_box text-center">
                     <h3>Rpi</h3>
@@ -99,7 +99,7 @@ $version = "3.9";
               </div>
             </div>
             <div class="row">
-              <div class="col-lg-3 col-md-3 text-center">
+              <div class="col-lg-4 col-md-4 text-center">
                 <div class="panel download panel-blue">
                   <div class="panel-heading arrow_box text-center">
                     <h3>Orange Pi</h3>
@@ -118,7 +118,7 @@ $version = "3.9";
       					</div>
               </div>
 
-              <div class="col-lg-3 col-md-32 text-center">
+              <div class="col-lg-4 col-md-4 text-center">
                 <div class="panel download panel-blue">
                   <div class="panel-heading arrow_box text-center">
                     <h3>Pine64</h3>

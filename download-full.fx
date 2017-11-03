@@ -18,7 +18,7 @@ $version = "3.9";
                       The system includes a full arsenal of security oriented tools to cover many categories of the work of a pentester.
                     </p>
                     <p>
-                      <img width="400" src="img/menu-full.jpg" />
+                      <img width="400px" src="img/menu-full.jpg" />
                     </p>
                 </div>
             </div>
@@ -35,6 +35,9 @@ $version = "3.9";
                 </div>
                 <ul class="list-group list-group-flush text-center">
   							 <li class="list-group-item"><i class="icon-ok text-info"></i> For modern computers</li>
+                 <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: MATE</li>
+                 <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid</li>
+                 <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 3.6GB</li>
     						</ul>
     						<div class="panel-footer">
     							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-full-3.9.1_amd64.iso">Download</a>
@@ -61,6 +64,9 @@ $version = "3.9";
                 </div>
                 <ul class="list-group list-group-flush text-center">
     							<li class="list-group-item"><i class="icon-ok text-info"></i> For older computers</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: MATE</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 3.7GB</li>
     						</ul>
     						<div class="panel-footer">
     							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-full-3.9.1_i386.iso">Download</a>

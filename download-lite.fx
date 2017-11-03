@@ -23,7 +23,7 @@ $version = "3.9";
                       to build your professional workstation by taking advantage of all the latest and most powerful tecnologies of Debian without hassle.
                     </p>
                     <p>
-                      <img width="600" src="img/desktop.jpg" />
+                      <img width="400" src="img/desktop.jpg" />
                     </p>
                 </div>
             </div>
@@ -40,6 +40,9 @@ $version = "3.9";
                 </div>
                 <ul class="list-group list-group-flush text-center">
     							<li class="list-group-item"><i class="icon-ok text-info"></i> For modern computers</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: MATE</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 1.56GB</li>
     						</ul>
     						<div class="panel-footer">
     							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-lite-3.9.1_amd64.iso">Download</a>
@@ -66,6 +69,9 @@ $version = "3.9";
                 </div>
                 <ul class="list-group list-group-flush text-center">
     							<li class="list-group-item"><i class="icon-ok text-info"></i> For older computers</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: MATE</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 1.58GB</li>
     						</ul>
     						<div class="panel-footer">
     							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-lite-3.9.1_i386.iso">Download</a>
