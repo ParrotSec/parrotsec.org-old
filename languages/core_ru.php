@@ -45,17 +45,17 @@ $lang['index-29']			= 'Anonsurf and firejail';
 $lang['index-30']			= 'Ricochet, torbrowser, zulucrypt and sirikali';
 $lang['index-31']			= 'QtCreator';
 
-$lang['foot-1']				= 'About';
+$lang['foot-1']				= 'О нас';
 $lang['foot-2']				= 'Terms and Conditions';
-$lang['foot-3']				= 'Partners';
-$lang['foot-4']				= 'Developers';
-$lang['foot-5']				= 'Wikipedia';
+$lang['foot-3']				= 'Партнеры';
+$lang['foot-4']				= 'Разработчики';
+$lang['foot-5']				= 'Википедия';
 $lang['foot-6']				= 'Distrowatch';
 $lang['foot-7']				= 'Softpedia';
 $lang['foot-8']				= 'Debian Derivatives Census';
-$lang['foot-9']				= 'Information';
+$lang['foot-9']				= 'Информация';
 $lang['foot-10']			= 'Talking About Us';
-$lang['foot-11']			= 'Follow';
+$lang['foot-11']			= 'Подписаться';
 
 $lang['download-1']			= 'Download Parrot GNU/Linux';
 $lang['download-2']			= '<b>Full</b> (<i>Security</i>)';
