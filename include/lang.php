@@ -1,35 +1,6 @@
 <?php
-	if(!isset($_GET["lang"])) {
-		if(isset($_SESSION['language'])) {
-			$language = $_SESSION['language'];
-		} else {
-			$language = $config[0]['language'];
-		}
-	} elseif($_GET["lang"] == "ar") {
-		$language = "ar";
-		$_SESSION['language'] = "ar";
-	} elseif($_GET["lang"] == "de") {
-		$language = "de";
-		$_SESSION['language'] = "de";
-	} elseif($_GET["lang"] == "fr") {
-		$language = "fr";
-		$_SESSION['language'] = "fr";
-	} elseif($_GET["lang"] == "it") {
-		$language = "it";
-		$_SESSION['language'] = "it";
-	} elseif($_GET["lang"] == "nl") {
-		$language = "nl";
-		$_SESSION['language'] = "nl";
-	} elseif($_GET["lang"] == "ro") {
-		$language = "ro";
-		$_SESSION['language'] = "ro";
-	} elseif($_GET["lang"] == "ru") {
-			$language = "ru";
-		$_SESSION['language'] = "ru";
-	} else {
-		$language = "en";
-		$_SESSION['language'] = "en";
-	}
+
+$language = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2);
 
 	if(!isset($language) || $language == "en") {
 		require_once('languages/core_en.php');
