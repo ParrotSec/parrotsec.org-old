@@ -1,5 +1,5 @@
 <?php
-
+$lang = array();
 $lang['nav-1']			= 'Yo\'nalishga o\'tish';
 $lang['nav-2']			= 'Parrot';
 $lang['nav-3']			= 'Yuklab olish';
