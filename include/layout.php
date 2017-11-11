@@ -5,7 +5,7 @@ echo
 <html>
   <head>
   <meta charset="utf-8">
-  <title>',($title ? htmlspecialchars($title) . ' : ' : '') , CONFIG_SITE_NAME, ' - ', CONFIG_SITE_SLOGAN,'</title>
+  <title>',CONFIG_SITE_NAME, ' - ', CONFIG_SITE_SLOGAN,'</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
