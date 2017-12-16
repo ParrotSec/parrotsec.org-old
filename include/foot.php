@@ -1,6 +1,6 @@
 <?php
 
-echo 
+echo
   '<footer id="footer">
     <div class="container-fluid">
         <div class="row">

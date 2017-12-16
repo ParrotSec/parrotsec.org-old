@@ -1,5 +1,4 @@
 <?php
-$lang = array();
 $lang['nav-1']			= 'Yo\'nalishga o\'tish';
 $lang['nav-2']			= 'Parrot';
 $lang['nav-3']			= 'Yuklab olish';
@@ -62,10 +61,10 @@ $lang['foot-10']			= 'Biz haqimizdagi gaplar';
 $lang['foot-11']			= 'Kuzatish';
 
 $lang['download-1']			= 'Parrot GNU/Linux yuklab olish';
-$lang['download-2']			= '<b>To\'liq</b> (<i>Xavfsizlik</i>)';
-$lang['download-3']			= 'Parrot Full to\'liq pentesting, maxfiylik, raqamli nazorat,teskari muhandislik va dasturiy ta\'minot ishlab chiqarish barchasi birda.';
-$lang['download-4']			= '<b>Lite</b> (<i>Home/Workstation</i>)';
-$lang['download-5']			= 'Parrot Lite <b>kundalik ishlatish</b> va <b>maxfiylikni himoya qilish</b>da ishlatish uchun yengil tizimdir. Bu parrot ko\'rinishini yaxshi ko\'ruvchilar uchun loyihalashtirilgan tizim.';
+$lang['download-2']			= '<b>Xavfsizlik</b>)';
+$lang['download-3']			= 'Parrot Security to\'liq pentesting, maxfiylik, raqamli nazorat,teskari muhandislik va dasturiy ta\'minot ishlab chiqarish barchasi birda.';
+$lang['download-4']			= '<b>Home/Workstation</b>)';
+$lang['download-5']			= 'Parrot Home <b>kundalik ishlatish</b> va <b>maxfiylikni himoya qilish</b>da ishlatish uchun yengil tizimdir. Bu parrot ko\'rinishini yaxshi ko\'ruvchilar uchun loyihalashtirilgan tizim.';
 $lang['download-6']			= '<b>Boshqalar</b>';
 $lang['download-7']			= 'Parrot loyihasi boshqa Parrot tizimi maxsus  holatlarida foydalaniladigan yoki noyob qurilmalar uchun maxsus ishlab chiqilgan tasvirlarni taqdim etadi.
 
@@ -76,19 +75,17 @@ $lang['download-10']		= 'Yordam kerakmi? Forumimizga marhamat!';
 $lang['download-11']		= 'Bizning xalqaro uyushmamiz mavjud, unda siz mahalliy guruh vakillaridan yordam olishingiz mumkin!';
 $lang['download-12']		= 'Uyushma';
 $lang['download-13']		= 'Eski versiyalari kerakmi?';
-$lang['download-14']		= 'Yodingizda saqlang eski versiyalari<b>muhim xavfsizlik yangilanishlari </b>bo\'lmaydi<br /> va ular ishlatish uchun <b>JUDA XAVFLI</b>!';
-$lang['download-15']		= 'Arxiv Parrot 3.8';
 $lang['download-16']		= 'Xususiyatlar jadvali';
 $lang['download-17']		= 'Xususiyatlar';
-$lang['download-18']		= 'Full';
-$lang['download-19']		= 'Lite';
+$lang['download-18']		= 'Security';
+$lang['download-19']		= 'Home';
 $lang['download-20']		= 'IoT';
 $lang['download-21']		= 'Arxitektura';
 $lang['download-22']		= 'x86 32bit &amp; 64bit';
 $lang['download-23']		= 'x86 32bit &amp; 64bit';
 $lang['download-24']		= 'ARMv7 &amp; ARMv8 64bit';
 $lang['download-25']		= 'Linux versiyasi';
-$lang['download-26']		= '4.13';
+$lang['download-26']		= '4.14';
 $lang['download-27']		= '(depends on board)';
 $lang['download-28']		= 'Debian versiya';
 $lang['download-29']		= 'Debian 10 Buster';
@@ -98,13 +95,13 @@ $lang['download-32']		= 'Standart ish stoli muhiti';
 $lang['download-33']		= 'MATE 1.18';
 $lang['download-34']		= 'Sandbox';
 $lang['download-35']		= 'Office Suite';
-$lang['download-36']		= 'LibreOffice 5.4 - Abiword/Gnumeric';
+$lang['download-36']		= 'LibreOffice 5.4';
 $lang['download-37']		= 'Abiword/Gnumeric';
 $lang['download-38']		= 'Web Suite';
-$lang['download-39']		= 'Firefox 56 - Epiphany';
+$lang['download-39']		= 'Firefox 57 Quantum';
 $lang['download-40']		= 'Epiphany (firefox tashkil topishi mumkin)';
 $lang['download-41']		= 'Adblockers va web himoya';
-$lang['download-42']		= 'Ublock Origin + NoScript';
+$lang['download-42']		= 'Ublock Origin + NoScript + Ublock Origin';
 $lang['download-43']		= 'AnonSurf + TOR Browser';
 $lang['download-44']		= 'Kriptografiya asboblari';
 $lang['download-45']		= 'Xavfsizlik &amp; Pentest Asboblari';
@@ -120,8 +117,8 @@ $lang['download-54']		= ' (klonlash vositalari)';
 $lang['download-55']		= ' (to\'liq muhit)';
 
 
-$lang['download-full-1']	= 'Parrot Full ';
-$lang['download-full-2']	= 'Parrot Full to\'liq pentesting, maxfiylik, raqamli nazorat,teskari muhandislik va dasturiy ta\'minot ishlab chiqarish barchasi birda.';
+$lang['download-full-1']	= 'Parrot Security ';
+$lang['download-full-2']	= 'Parrot Security to\'liq pentesting, maxfiylik, raqamli nazorat,teskari muhandislik va dasturiy ta\'minot ishlab chiqarish barchasi birda.';
 $lang['download-full-3']	= 'Tizim pentestingda ko\'p bo\'limlaridagi qo\'llanuvchi to\'liq xavfsizlik vostilariga asoslangan asboblarni o\'z ichiga oladi..';
 $lang['download-full-4']	= 'To\'liq versiya';
 $lang['download-full-5']	= ' Zamonaviy kompyuterlar uchun';
@@ -134,8 +131,8 @@ $lang['download-full-11']	= 'Ro\'yxatga olingan xeshlar';
 $lang['download-full-12']	= ' Eski kompyuterlar uchun';
 
 
-$lang['download-lite-1']	= 'Parrot Lite ';
-$lang['download-lite-2']	= 'Parrot Lite kundalik foydalanish uchun mo\'ljallangan, maxsus parrot bo\'lib, noutbuk yoki ish stantsiyalarda vakillari uchun yengil, har doim yangilangan va chiroyli tizimga muhtoj  foydalanuvchilarga mo\'ljallangan.';
+$lang['download-lite-1']	= 'Parrot Home ';
+$lang['download-lite-2']	= 'Parrot Home kundalik foydalanish uchun mo\'ljallangan, maxsus parrot bo\'lib, noutbuk yoki ish stantsiyalarda vakillari uchun yengil, har doim yangilangan va chiroyli tizimga muhtoj  foydalanuvchilarga mo\'ljallangan.';
 $lang['download-lite-3']	= 'Dastur Parrot muhiti bilan bir xil bo\'lgan kundalik ishlashda kerak bo\'lgan kompanentlarni o\'z ichiga oladi. Parrot Lite, shuningdek, odamlar bilan shaxsiy suhbat qilish, shifrlash uchun eng yuqori kriptografik standartlarga ega bo\'lgan dasturlarni yoki butunlay anonim va xavfsiz tarzda Internetga kirishni o\'z ichiga oladi.';
 $lang['download-lite-4']	= 'Tizim sizga kerakli vositalardan foydalangan holda juda moslashtirilgan pentesting platformasini yaratish uchun boshlang\'ich nuqtasi sifatida ham foydalanilishi mumkin yoki uni eng yangi va eng qudratli Debian texnologiyalari yordamida muammosiz  ish stantsiyangizni yaratish uchun ishlatishingiz mumkin..';
 $lang['download-lite-5']	= 'Lite Versiyasi';
