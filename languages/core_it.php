@@ -60,9 +60,9 @@ $lang['foot-10']			= 'Talking About Us';
 $lang['foot-11']			= 'Follow';
 
 $lang['download-1']			= 'Download Parrot GNU/Linux';
-$lang['download-2']			= '<b>Security</b>)';
+$lang['download-2']			= '<b>Security</b>';
 $lang['download-3']			= 'Parrot Full is our complete all-in-one environment for pentesting, privacy, digital forensics, reverse engineering and software development.';
-$lang['download-4']			= '<b>Home/Workstation</b>)';
+$lang['download-4']			= '<b>Home/Workstation</b>';
 $lang['download-5']			= 'Parrot Lite is a very lightweight system for <b>daily use</b> and <b>privacy protection</b>. It is designed for casual users who love the parrot look and feel.';
 $lang['download-6']			= '<b>Other Builds</b>';
 $lang['download-7']			= 'The Parrot Project releases other images of the Parrot System specifically designed for special use cases or uncommon devices. Here you can find the ARM images and other custom editions.';
