@@ -24,57 +24,6 @@ echo  '<section class="bg-primary" id="one">
 
             <div class="row">
 
-              <div class="col-lg-4 col-md-4 text-center">
-                <div class="panel download panel-blue">
-                  <div class="panel-heading arrow_box text-center">
-                    <h3>',$lang['download-other-5'],'</h3>
-                  </div>
-                  <div class="panel-body text-center">
-                    <p class="lead" style="font-size:40px"><strong>x86</strong></p>
-                  </div>
-                  <ul class="list-group list-group-flush text-center">
-      							<li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-6'],PARROT_PICO_ARCH,'</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-7'],PARROT_PICO_SIZE,'</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-8'],PARROT_PICO_INF,'</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-9'],'</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-10'],'</li>
-      						</ul>
-      						<div class="panel-footer">
-      							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-pico-3.9_i386.iso">',$lang['download-other-11'],'</a>
-      						</div>
-                  <div class="panel-footer">
-      							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-pico-3.9_i386.iso.mirrorlist">',$lang['download-other-12'],'</a>
-      						</div>
-                  <div class="panel-footer">
-      							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-pico-3.9_i386.iso.torrent">',$lang['download-other-13'],'</a>
-      						</div>
-                  <div class="panel-footer">
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.9/signed-hashes.txt">',$lang['download-other-14'],'</a>
-      						</div>
-      					</div>
-              </div>
-
-              <div class="col-lg-4 col-md-4 text-center">
-                <div class="panel download panel-blue">
-                  <div class="panel-heading arrow_box text-center">
-                    <h3>',$lang['download-other-15'],'</h3>
-                  </div>
-                  <div class="panel-body text-center">
-                    <p class="lead" style="font-size:40px"><strong>',$lang['download-other-16'],'</strong></p>
-                  </div>
-                  <ul class="list-group list-group-flush text-center">
-      							<li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-17'],'</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-18'],PARROT_SOURCE_EXT,'</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-7'],PARROT_SOURCE_SIZE,'</li>
-      						</ul>
-      						<div class="panel-footer">
-      							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-source-3.9_src.tar.xz">',$lang['download-other-11'],'</a>
-      						</div>
-                  <div class="panel-footer">
-      							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.9/Parrot-source-3.9_src.tar.xz.mirrorlist">',$lang['download-other-12'],'</a>
-      						</div>
-      					</div>
-              </div>
 
               <div class="col-lg-4 col-md-4 text-center">
                 <div class="panel download panel-blue">
@@ -93,8 +42,7 @@ echo  '<section class="bg-primary" id="one">
       						</div>
       					</div>
               </div>
-            </div>
-            <div class="row">
+
               <div class="col-lg-4 col-md-4 text-center">
                 <div class="panel download panel-blue">
                   <div class="panel-heading arrow_box text-center">
