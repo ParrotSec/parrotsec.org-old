@@ -54,7 +54,7 @@ echo  '<section class="bg-primary" id="one">
                   <ul class="list-group list-group-flush text-center">
       							<li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-25'],'</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-26'],'</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-27'],'/li>
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-27'],'</li>
       						</ul>
       						<div class="panel-footer">
       							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/arm/opi">',$lang['download-other-23'],'</a>
