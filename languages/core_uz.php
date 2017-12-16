@@ -61,9 +61,9 @@ $lang['foot-10']			= 'Biz haqimizdagi gaplar';
 $lang['foot-11']			= 'Kuzatish';
 
 $lang['download-1']			= 'Parrot GNU/Linux yuklab olish';
-$lang['download-2']			= '<b>Xavfsizlik</b>)';
+$lang['download-2']			= '<b>Xavfsizlik</b>';
 $lang['download-3']			= 'Parrot Security to\'liq pentesting, maxfiylik, raqamli nazorat,teskari muhandislik va dasturiy ta\'minot ishlab chiqarish barchasi birda.';
-$lang['download-4']			= '<b>Home/Workstation</b>)';
+$lang['download-4']			= '<b>Home/Workstation</b>';
 $lang['download-5']			= 'Parrot Home <b>kundalik ishlatish</b> va <b>maxfiylikni himoya qilish</b>da ishlatish uchun yengil tizimdir. Bu parrot ko\'rinishini yaxshi ko\'ruvchilar uchun loyihalashtirilgan tizim.';
 $lang['download-6']			= '<b>Boshqalar</b>';
 $lang['download-7']			= 'Parrot loyihasi boshqa Parrot tizimi maxsus  holatlarida foydalaniladigan yoki noyob qurilmalar uchun maxsus ishlab chiqilgan tasvirlarni taqdim etadi.

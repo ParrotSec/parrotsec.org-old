@@ -61,7 +61,7 @@ echo  '<section id="two">
                     ',$lang['download-14'],'
                   </p>
               </div>
-              <a target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.8/" class="btn btn-primary">',$lang['download-15'],'</a>
+              <a target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/" class="btn btn-primary">',$lang['download-15'],'</a>
             </div>
 
         </div>
