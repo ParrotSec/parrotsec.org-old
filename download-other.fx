@@ -49,7 +49,7 @@ echo  '<section class="bg-primary" id="one">
                     <h3>',$lang['download-other-24'],'</h3>
                   </div>
                   <div class="panel-body text-center">
-                    <p class="lead" style="font-size:40px"><strong>',$lang['download-other-19'],'</strong></p>
+                    <p class="lead" style="font-size:40px"><strong>',$lang['download-other-20'],'</strong></p>
                   </div>
                   <ul class="list-group list-group-flush text-center">
       							<li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-25'],'</li>
