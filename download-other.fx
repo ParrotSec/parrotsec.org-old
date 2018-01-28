@@ -117,7 +117,7 @@ echo  '<section class="bg-primary" id="one">
               <div class="col-lg-4 col-md-4 text-center">
                 <div class="panel download panel-blue">
                   <div class="panel-heading arrow_box text-center">
-                    <h3>Parrot Studio</h3>
+                    <h3>Orange Pi</h3>
                   </div>
                   <div class="panel-body text-center">
                     <p class="lead" style="font-size:40px"><strong>',$lang['download-other-20'],'</strong></p>
