@@ -106,7 +106,7 @@ echo
             <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/01.jpg">
-                        <img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'screenshots/01.jpg" class="img-responsive" alt="',$lang['index-23'],'">
+                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 1">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -118,7 +118,7 @@ echo
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/02.jpg">
-                        <img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'screenshots/02.jpg" class="img-responsive" alt="',$lang['index-24'],'">
+                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 2">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -128,22 +128,10 @@ echo
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/09.jpg">
-                        <img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'screenshots/09.jpg" class="img-responsive" alt="',$lang['index-25'],'">
-                        <div class="gallery-box-caption">
-                            <div class="gallery-box-content">
-                                <div>
-                                    <i class="icon-lg ion-ios-search"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-        <div class="clearfix hidden-lg"> </div>
+				<div class="clearfix hidden-lg"> </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/03.jpg">
-                        <img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'screenshots/03.jpg" class="img-responsive" alt="',$lang['index-26'],'">
+                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 3">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -155,7 +143,7 @@ echo
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/04.jpg">
-                        <img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'screenshots/04.jpg" class="img-responsive" alt="',$lang['index-27'],'">
+                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 4">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -165,10 +153,10 @@ echo
                         </div>
                     </a>
                 </div>
-        <div class="clearfix hidden-lg"> </div>
+				<div class="clearfix hidden-lg"> </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/05.jpg">
-                        <img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'screenshots/05.jpg" class="img-responsive" alt="',$lang['index-28'],'">
+                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 5">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -180,7 +168,7 @@ echo
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/06.jpg">
-                        <img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'screenshots/06.jpg" class="img-responsive" alt="',$lang['index-29'],'">
+                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 6">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -192,7 +180,20 @@ echo
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/07.jpg">
-                        <img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'screenshots/07.jpg" class="img-responsive" alt="',$lang['index-30'],'">
+                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 4">
+                        <div class="gallery-box-caption">
+                            <div class="gallery-box-content">
+                                <div>
+                                    <i class="icon-lg ion-ios-search"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+				<div class="clearfix hidden-lg"> </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/08.jpg">
+                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 5">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -203,8 +204,8 @@ echo
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/08.jpg">
-                        <img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'screenshots/08.jpg" class="img-responsive" alt="',$lang['index-31'],'">
+                    <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/09.jpg">
+                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 6">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -216,7 +217,8 @@ echo
                 </div>
             </div>
         </div>
-    </section>';
+    </section>
+';
 
 require('include/foot.php');
 
