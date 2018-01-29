@@ -106,7 +106,7 @@ echo
             <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/01.jpg">
-                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 1">
+                        <img src="./screenshots/01.jpg" class="img-responsive" alt="Desktop">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -118,7 +118,7 @@ echo
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/02.jpg">
-                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 2">
+                        <img src="./screenshots/02.jpg" class="img-responsive" alt="Tools Menu">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -131,7 +131,7 @@ echo
 				<div class="clearfix hidden-lg"> </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/03.jpg">
-                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 3">
+                        <img src="./screenshots/03.jpg" class="img-responsive" alt="Bottom Menu">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -143,7 +143,7 @@ echo
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/04.jpg">
-                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 4">
+                        <img src="./screenshots/04.jpg" class="img-responsive" alt="Tools in action">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -156,7 +156,7 @@ echo
 				<div class="clearfix hidden-lg"> </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/05.jpg">
-                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 5">
+                        <img src="./screenshots/05.jpg" class="img-responsive" alt="GUI tools">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -168,7 +168,7 @@ echo
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/06.jpg">
-                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 6">
+                        <img src="./screenshots/06.jpg" class="img-responsive" alt="Secure browsing">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -180,7 +180,7 @@ echo
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/07.jpg">
-                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 4">
+                        <img src="./screenshots/07.jpg" class="img-responsive" alt="Secret chats">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -193,7 +193,7 @@ echo
 				<div class="clearfix hidden-lg"> </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/08.jpg">
-                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 5">
+                        <img src="./screenshots/08.jpg" class="img-responsive" alt="Programming">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
@@ -205,7 +205,7 @@ echo
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="./screenshots/09.jpg">
-                        <img src="./screenshots/1.jpg" class="img-responsive" alt="Image 6">
+                        <img src="./screenshots/09.jpg" class="img-responsive" alt="Internet menu">
                         <div class="gallery-box-caption">
                             <div class="gallery-box-content">
                                 <div>
