@@ -42,10 +42,10 @@ echo  '<section class="bg-primary" id="one">
     					<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.11/Parrot-studio-3.11_amd64.iso">Download</a>
     				</div>
                 		<div class="panel-footer">
-    					<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.11/Parrot-security-3.11_amd64.iso.mirrorlist">Mirrors</a>
+    					<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.11/Parrot-studio-3.11_amd64.iso.mirrorlist">Mirrors</a>
     				</div>
                 		<div class="panel-footer">
-    					<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.11/Parrot-security-3.11_amd64.iso.torrent">Torrent</a>
+    					<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.11/Parrot-studio-3.11_amd64.iso.torrent">Torrent</a>
     				</div>
                 		<div class="panel-footer">
                   			<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.11/signed-hashes.txt">Signed Hashes</a>
