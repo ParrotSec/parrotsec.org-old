@@ -84,23 +84,7 @@ echo  '<section class="bg-primary" id="one">
               
               </div>
 
-              <div class="col-lg-4 col-md-4 text-center">
-                <div class="panel download panel-blue">
-                  <div class="panel-heading arrow_box text-center">
-                    <h3>Orange Pi</h3>
-                  </div>
-                  <div class="panel-body text-center">
-                    <p class="lead" style="font-size:40px"><strong>',$lang['download-other-20'],'</strong></p>
-                  </div>
-                  <ul class="list-group list-group-flush text-center">
-      							<li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-25'],'</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-26'],'</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-other-27'],'</li>
-      						</ul>
-      						<div class="panel-footer">
-      							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/arm/opi">',$lang['download-other-23'],'</a>
-      						</div>
-      					</div>
+              
               </div>
               
               
