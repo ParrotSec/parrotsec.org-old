@@ -34,48 +34,48 @@ echo
       <div class="container-fluid">
           <div class="navbar-header">
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar">
-                  <span class="sr-only">',$lang['nav-1'],'</span>
+                  <span class="sr-only">Toggle navigation</span>
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
               </button>
               <a class="navbar-brand page-scroll" href="index.php">
-                <b><img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'img/logo.png" width="20" height="20" /> ',$lang['nav-2'],'</b>
+                <b><img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'img/logo.png" width="20" height="20" /> Parrot</b>
               </a>
           </div>
           <div class="navbar-collapse collapse" id="bs-navbar">
               <ul class="nav navbar-nav">
                   <li>
-                      <a class="page-scroll" href="',CONFIG_SITE_URL_STATIC_RESOURCES,'download.fx">',$lang['nav-3'],'</a>
+                      <a class="page-scroll" href="',CONFIG_SITE_URL_STATIC_RESOURCES,'download.fx">Download</a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://blog.parrotsec.org">',$lang['nav-4'],'</a>
+                      <a class="page-scroll" href="https://blog.parrotsec.org">News</a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org">',$lang['nav-5'],'</a>
+                      <a class="page-scroll" href="https://docs.parrotsec.org">Wiki</a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://dev.parrotsec.org" target="_blank">',$lang['nav-6'],'</a>
+                      <a class="page-scroll" href="https://dev.parrotsec.org" target="_blank">Dev</a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org/community">',$lang['nav-7'],'</a>
+                      <a class="page-scroll" href="https://docs.parrotsec.org/community">Community</a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org/partners">',$lang['nav-8'],'</a>
+                      <a class="page-scroll" href="https://docs.parrotsec.org/partners">Partners</a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org/developers">',$lang['nav-9'],'</a>
+                      <a class="page-scroll" href="https://docs.parrotsec.org/developers">Team</a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org/donate">',$lang['nav-10'],'</a>
+                      <a class="page-scroll" href="https://docs.parrotsec.org/donate">Donate</a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org/FAQ">',$lang['nav-11'],'</a>
+                      <a class="page-scroll" href="https://docs.parrotsec.org/FAQ">F.A.Q.</a>
                   </li>
               </ul>
               <ul class="nav navbar-nav navbar-right">
                   <li>
-                      <a class="page-scroll" href="https://dev.parrotsec.org/parrot/parrotsec.org" target="_blank">',$lang['nav-12'],'</a>
+                      <a class="page-scroll" href="https://dev.parrotsec.org/parrot/parrotsec.org" target="_blank">Edit</a>
                   </li>
               </ul>
           </div>
