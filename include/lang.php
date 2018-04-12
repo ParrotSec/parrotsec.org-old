@@ -1,5 +1,5 @@
 <?php
-
+/*
 #get browser language
 $language = htmlentities(substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2));
 
@@ -33,5 +33,5 @@ elseif ($language == "ru") {
 elseif ($language == "uz") {
 	include_once('languages/core_uz.php');
 }
-
+*/
 ?>
