@@ -5,24 +5,24 @@ echo
     <div class="container-fluid">
         <div class="row">
             <div class="col-xs-6 col-sm-3 column">
-                <h4>',$lang['foot-9'],'</h4>
+                <h4>Information</h4>
                 <ul class="list-unstyled">
-                  <li><a href="https://docs.parrotsec.org/terms-and-conditions">',$lang['foot-2'],'</a></li>
-                  <li><a href="https://docs.parrotsec.org/partners">',$lang['foot-3'],'</a></li>
-                  <li><a href="https://docs.parrotsec.org/developers">',$lang['foot-4'],'</a></li>
+                  <li><a href="https://docs.parrotsec.org/terms-and-conditions">Terms and Conditions</a></li>
+                  <li><a href="https://docs.parrotsec.org/partners">Partners</a></li>
+                  <li><a href="https://docs.parrotsec.org/developers">Developers</a></li>
                 </ul>
             </div>
             <div class="col-xs-6 col-sm-3 column">
-                <h4>',$lang['foot-10'],'</h4>
+                <h4>Talking About Us</h4>
                 <ul class="list-unstyled">
-                    <li><a href="https://en.wikipedia.org/wiki/Parrot_Security_OS">',$lang['foot-5'],'</a></li>
-                    <li><a href="https://distrowatch.com/table.php?distribution=parrotsecurity">',$lang['foot-6'],'</a></li>
-                    <li><a href="http://linux.softpedia.com/get/System/Operating-Systems/Linux-Distributions/Parrot-security-OS-102936.shtml">',$lang['foot-7'],'</a></li>
-                    <li><a href="https://wiki.debian.org/Derivatives/Census/ParrotSecurity">',$lang['foot-8'],'</a></li>
+                    <li><a href="https://en.wikipedia.org/wiki/Parrot_Security_OS">Wikipedia</a></li>
+                    <li><a href="https://distrowatch.com/table.php?distribution=parrotsecurity">Distrowatch</a></li>
+                    <li><a href="http://linux.softpedia.com/get/System/Operating-Systems/Linux-Distributions/Parrot-security-OS-102936.shtml">Softpedia</a></li>
+                    <li><a href="https://wiki.debian.org/Derivatives/Census/ParrotSecurity">Debian Derivatives Census</a></li>
                 </ul>
             </div>
             <div class="col-xs-12 col-sm-3 text-right">
-                <h4>',$lang['foot-11'],'</h4>
+                <h4>Talking About Us</h4>
                 <ul class="list-inline">
                   <li><a rel="nofollow" href="https://twitter.com/parrotsec" title="Twitter"><i class="icon-lg ion-social-twitter-outline"></i></a>&nbsp;</li>
                   <li><a rel="nofollow" href="https://www.facebook.com/parrotsec" title="Facebook"><i class="icon-lg ion-social-facebook-outline"></i></a>&nbsp;</li>
