@@ -5,10 +5,10 @@ echo
 '<header id="first">
         <div class="header-content">
             <div class="inner">
-              <h3 class="text-center wow fadeInDown">',$lang['index-1'],'</h2>
-              <h5 class="text-center wow fadeInUp">',$lang['index-2'],'</h3>
+              <h3 class="text-center wow fadeInDown">Discover the <b>Parrot Universe</b> and get the most from our awesome Debian-based platform.</h2>
+              <h5 class="text-center wow fadeInUp">Professional tools for security testing, software development and privacy defense, all in one place.</h3>
                 <hr>
-                <a href="',CONFIG_SITE_URL_STATIC_RESOURCES,'download.fx" class="btn btn-primary btn-xl">',$lang['index-3'],'</a> &nbsp; <a href="#one" class="btn btn-primary btn-xl page-scroll">',$lang['index-4'],'</a>
+                <a href="',CONFIG_SITE_URL_STATIC_RESOURCES,'download.fx" class="btn btn-primary btn-xl">Download</a> &nbsp; <a href="#one" class="btn btn-primary btn-xl page-scroll">Discover</a>
             </div>
         </div>
     </header>
@@ -16,15 +16,15 @@ echo
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 text-center">
-                    <h2 class="margin-top-0 text-primary  wow fadeInDown">',$lang['index-5'],'</h2>
+                    <h2 class="margin-top-0 text-primary  wow fadeInDown">The Parrot System</h2>
                     <br>
                     <p class="text-faded  wow fadeInRight">
-                      ',$lang['index-6'],'
+                      Parrot is a GNU/Linux distribution based on Debian Testing and designed with Security, Development and Privacy in mind.
                     </p>
                     <p class="text-faded  wow fadeInUp">
-                      ',$lang['index-7'],'
+                      It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own software or protect your privacy while surfing the net.
                     </p>
-                    <a href="#two" class="btn btn-primary btn-xl page-scroll">',$lang['index-8'],'</a>
+                    <a href="#two" class="btn btn-primary btn-xl page-scroll">Continue</a>
                 </div>
             </div>
         </div>
@@ -33,7 +33,7 @@ echo
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="margin-top-0 text-primary">',$lang['index-9'],'</h2>
+                    <h2 class="margin-top-0 text-primary">Project Goals</h2>
                     <hr class="primary">
                 </div>
             </div>
@@ -43,22 +43,22 @@ echo
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="feature">
                         <img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'img/security.png" width="60" height="60" />
-                        <h3>',$lang['index-10'],'</h3>
-                        <p class="text-muted">',$lang['index-11'],'</p>
+                        <h3>Security</h3>
+                        <p class="text-muted">A complete arsenal of <b>security tools</b> right in your pocket.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="feature">
                         <img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'img/privacy.png" width="60" height="60" />
-                        <h3>',$lang['index-12'],'</h3>
-                        <p class="text-muted">',$lang['index-13'],'</p>
+                        <h3>Privacy</h3>
+                        <p class="text-muted">A secure and sandboxed system ready to surf and communicate secretly.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="feature">
                         <img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'img/develop.png" width="55" height="55" />
-                        <h3>',$lang['index-14'],'</h3>
-                        <p class="text-muted">',$lang['index-15'],'</p>
+                        <h3>Development</h3>
+                        <p class="text-muted">A full development stack with the best editors, languages and technologies out of the box.</p>
                     </div>
                 </div>
             </div>
@@ -67,12 +67,12 @@ echo
     <section class="container-fluid" id="four">
         <div class="row">
             <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
-                <h2 class="text-center text-primary">',$lang['index-16'],'</h2>
+                <h2 class="text-center text-primary">Features</h2>
                 <hr>
                 <div class="media wow fadeInRight">
-                    <h3>',$lang['index-17'],'</h3>
+                    <h3>Secure</h3>
                     <div class="media-body media-middle">
-                        <p>',$lang['index-18'],'</p>
+                        <p>Always updated, frequently released and fully <b>sandboxed</b>! Everything is under your complete control.</p>
                     </div>
                     <div class="media-right">
                         <img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'img/shield.png" width="100" />
@@ -80,19 +80,19 @@ echo
                 </div>
                 <hr>
                 <div class="media wow fadeInLeft">
-                    <h3>',$lang['index-19'],'</h3>
+                    <h3>Free (as in freedom)</h3>
                     <div class="media-left">
                         <a href="#alertModal" data-toggle="modal" data-target="#alertModal"><img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'img/gpl.png" width="100" /></a>
                     </div>
                     <div class="media-body media-middle">
-                        <p>',$lang['index-20'],'</p>
+                        <p>Feel free to get the system, share with anyone, read the source code and change it as you want!<br /> this system is made to <b>respect your freedom</b>, and it ever will be.</p>
                     </div>
                 </div>
                 <hr>
                 <div class="media wow fadeInRight">
-                    <h3>',$lang['index-21'],'</h3>
+                    <h3>Lightweight</h3>
                     <div class="media-body media-middle">
-                        <p>',$lang['index-22'],'</p>
+                        <p>We care about resources consumption, and the system has proven to be <b>extremely lightweight</b> and run surprisingly fast even on very old hardware or with very limited resources.</p>
                     </div>
                     <div class="media-right">
                         <img src="',CONFIG_SITE_URL_STATIC_RESOURCES,'img/lightweight.png" width="100" />
