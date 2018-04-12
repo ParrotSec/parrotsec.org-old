@@ -7,7 +7,6 @@ echo
             <div class="col-xs-6 col-sm-3 column">
                 <h4>',$lang['foot-9'],'</h4>
                 <ul class="list-unstyled">
-                  <li><a href="https://docs.parrotsec.org/about">',$lang['foot-1'],'</a></li>
                   <li><a href="https://docs.parrotsec.org/terms-and-conditions">',$lang['foot-2'],'</a></li>
                   <li><a href="https://docs.parrotsec.org/partners">',$lang['foot-3'],'</a></li>
                   <li><a href="https://docs.parrotsec.org/developers">',$lang['foot-4'],'</a></li>
