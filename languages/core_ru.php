@@ -1,5 +1,5 @@
 <?php
-$lang['nav-1']			= 'Переключить навигацию';
+$lang['nav-1']			= 'Переключить язык';
 $lang['nav-2']			= 'Parrot';
 $lang['nav-3']			= 'Скачать';
 $lang['nav-4']			= 'Новости';
@@ -13,12 +13,12 @@ $lang['nav-11']			= 'F.A.Q.';
 $lang['nav-12']			= 'Изменить';
 
 $lang['index-1']			= 'Откройте <b> Вселенную Parrot </b> и получите максимальную отдачу от нашей удивительной платформы на базе Debian.';
-$lang['index-2']			= 'Профессиональные инструменты для тестирования безопасности, разработки программного обеспечения и защиты частной жизни, все в одном месте.';
+$lang['index-2']			= 'Профессиональные инструменты для тестирования безопасности, разработки программного обеспечения и защиты частной жизни - все в одном месте.';
 $lang['index-3']			= 'Скачать';
 $lang['index-4']			= 'Изучить';
 $lang['index-5']			= 'Система Parrot';
 $lang['index-6']			= 'Parrot - это дистрибутив GNU / Linux, основанный на Debian и разработанный с учетом безопасности, развития и конфиденциальности.';
-$lang['index-7']			= 'It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own software or protect your privacy while surfing the net.';
+$lang['index-7']			= 'Он включает цельную портативную лабораторию, предназначенную для сохранения безопасности и работы в сфере цифровой судебной экспертизы, включая при этом всё, что вам нужно для создания своих собственных программ и защиту личных данных во время сёрфинга в сети Интернет. ';
 $lang['index-8']			= 'Продолжить';
 $lang['index-9']			= 'Цели проекта';
 $lang['index-10']			= 'Безопасность';
@@ -38,14 +38,14 @@ $lang['index-23']			= 'Рабочий стол';
 $lang['index-24']			= 'Верхнее меню';
 $lang['index-25']			= 'Интернет-меню';
 $lang['index-26']			= 'Bottom menu and terminal';
-$lang['index-27']			= 'Terminal tools';
+$lang['index-27']			= 'Инструменты терминала';
 $lang['index-28']			= 'Faraday IDE';
 $lang['index-29']			= 'Anonsurf and firejail';
 $lang['index-30']			= 'Ricochet, torbrowser, zulucrypt and sirikali';
 $lang['index-31']			= 'QtCreator';
 
 $lang['foot-1']				= 'О нас';
-$lang['foot-2']				= 'Terms and Conditions';
+$lang['foot-2']				= 'Условия и положения';
 $lang['foot-3']				= 'Партнеры';
 $lang['foot-4']				= 'Разработчики';
 $lang['foot-5']				= 'Википедия';
@@ -53,7 +53,7 @@ $lang['foot-6']				= 'Distrowatch';
 $lang['foot-7']				= 'Softpedia';
 $lang['foot-8']				= 'Debian Derivatives Census';
 $lang['foot-9']				= 'Информация';
-$lang['foot-10']			= 'Talking About Us';
+$lang['foot-10']			= 'Рассказывайте о нас';
 $lang['foot-11']			= 'Подписаться';
 
 ?>
