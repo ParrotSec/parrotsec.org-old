@@ -13,6 +13,8 @@ echo  '<section class="bg-primary" id="one">
                     <p class="text-faded  wow fadeInUp">
                       ',$lang['download-full-3'],'
                     </p>
+                </div>
+                <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 text-center">
                     <p>
                       <img width="400px" src="',CONFIG_SITE_URL_STATIC_RESOURCES,'img/menu-full.jpg" />
                     </p>
