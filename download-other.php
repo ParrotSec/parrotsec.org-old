@@ -1,14 +1,18 @@
 <?php require(__DIR__ . '/include/parrot.inc.php'); ?>
 <section class="bg-primary" id="one">
     <div class="container">
+        <div class="row text-center">
+            <div class="col-lg-12"><h2 class="margin-top-0 text-primary  wow fadeInDown">Special Parrot Builds and Official Derivatives</h2><br/><br/><br/></div>
+        </div>
         <div class="row">
-            <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 text-center">
-                <h2 class="margin-top-0 text-primary  wow fadeInDown">Special Parrot Builds and Official Derivatives</h2><br/>
+            <div class="col-lg-6 text-center">
                 <p class="text-faded  wow fadeInRight">In this page you can download the official Parrot builds for embedded ARM boards and other custom builds of Parrot for other special platforms.</p>
                 <p class="text-faded  wow fadeInUp">The official ARM builds in this page are official images released by our ARM team.</p>
                 <p class="text-faded wow fadeInLeft">Here you can also find custom Parrot derivatives and experimental builds with custom configurations for special devices, or just experimental Parrot derivatives proposed by our community and built on our official build platform.</p>
-                <p><img class="rounded mx-auto d-block float-left" style="width:500px" src="/img/arm-soc.jpg" /></p>
             </div>
+            <div class="col-lg-6 text-center">
+                <p><img class="rounded mx-auto d-block float-left" style="width:500px" src="/img/arm-soc.jpg" /></p>
+            </div><br/><br/><br/>
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-4 text-center">
@@ -36,7 +40,7 @@
             </div>
             <div class="col-lg-4 col-md-4 text-center">
                 <div class="panel download panel-blue">
-                    <div class="panel-heading arrow_box text-center"><h3>',$lang['download-other-28'],'</h3></div>
+                    <div class="panel-heading arrow_box text-center"><h3>Pine64</h3></div>
                     <div class="panel-body text-center"><p class="lead" style="font-size:40px"><strong>arm</strong></p></div>
                     <ul class="list-group list-group-flush text-center">
                         <li class="list-group-item"><i class="icon-ok text-info"></i>arm64 (armv8) 64bit</li>

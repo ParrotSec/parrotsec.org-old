@@ -1,14 +1,16 @@
 <?php require(__DIR__ . '/include/parrot.inc.php'); ?>
 <section class="bg-primary" id="one">
     <div class="container">
+        <div class="row text-center">
+            <div class="col-lg-12"><h2 class="margin-top-0 text-primary wow fadeInDown">Parrot Security <?php echo CONFIG_SYSTEM_VERSION; ?></h2><br/><br/></div>
+        </div>
         <div class="row">
-            <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 text-center">
-                <h2 class="margin-top-0 text-primary  wow fadeInDown">Parrot Security <?php echo CONFIG_SYSTEM_VERSION; ?></h2><br/>
+            <div class="col-lg-6 text-center">
                 <p class="text-faded  wow fadeInRight">Parrot Security is our complete all-in-one environment for pentesting, privacy, digital forensics, reverse engineering and software development.</p>
                 <p class="text-faded  wow fadeInUp">The system includes a full arsenal of security oriented tools to cover many categories of the work of a pentester.</p>
             </div>
-            <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 text-center"><p><img width="400px" src="/img/menu-full.jpg"/></p></div>
-        </div>
+            <div class="col-lg-6 text-center"><p><img width="400px" src="/img/menu-full.jpg"/></p></div>
+        </div><br/><br/><br/>
         <div class="row">
             <div class="col-lg-3 col-md-3 col-md-offset-2 col-lg-offset-2 text-center">
                 <div class="panel download panel-blue">
