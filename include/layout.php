@@ -47,6 +47,7 @@
             <li><a class="page-scroll" href="https://docs.parrotsec.org/developers">Team</a></li>
             <li><a class="page-scroll" href="https://docs.parrotsec.org/donate">Donate</a></li>
             <li><a class="page-scroll" href="https://docs.parrotsec.org/FAQ">F.A.Q.</a>
+            <li><a class="page-scroll" href="http://project.parrotsec.org">Parrot Projects</a>
             </li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
