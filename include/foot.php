@@ -43,10 +43,10 @@
       </div>
     </div>
     <!--scripts loaded here -->
-    <script src="<?php echo CONFIG_SITE_URL_STATIC_RESOURCES . "js/jquery.min.js"; ?>"></script>
-    <script src="<?php echo CONFIG_SITE_URL_STATIC_RESOURCES . "js/bootstrap.min.js"; ?>"></script>
-    <script src="<?php echo CONFIG_SITE_URL_STATIC_RESOURCES . "js/jquery.easing.min.js"; ?>"></script>
-    <script src="<?php echo CONFIG_SITE_URL_STATIC_RESOURCES . "js/wow.js"; ?>"></script>
-    <script src="<?php echo CONFIG_SITE_URL_STATIC_RESOURCES . "js/scripts.js"; ?>"></script>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery.easing.min.js"></script>
+    <script src="/js/wow.js"></script>
+    <script src="/js/scripts.js"></script>
   </body>
 </html>

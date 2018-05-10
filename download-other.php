@@ -1,4 +1,4 @@
-<?php require(__DIR__ . 'include/parrot.inc.php'); ?>
+<?php require(__DIR__ . '/include/parrot.inc.php'); ?>
 <section class="bg-primary" id="one">
     <div class="container">
         <div class="row">
@@ -7,7 +7,7 @@
                 <p class="text-faded  wow fadeInRight">In this page you can download the official Parrot builds for embedded ARM boards and other custom builds of Parrot for other special platforms.</p>
                 <p class="text-faded  wow fadeInUp">The official ARM builds in this page are official images released by our ARM team.</p>
                 <p class="text-faded wow fadeInLeft">Here you can also find custom Parrot derivatives and experimental builds with custom configurations for special devices, or just experimental Parrot derivatives proposed by our community and built on our official build platform.</p>
-                <p><img class="rounded mx-auto d-block float-left" style="width:500px" src="<?php echo CONFIG_SITE_URL_STATIC_RESOURCES . "img/arm-soc.jpg"; ?>" /></p>
+                <p><img class="rounded mx-auto d-block float-left" style="width:500px" src="/img/arm-soc.jpg" /></p>
             </div>
         </div>
         <div class="row">
@@ -52,4 +52,4 @@
     </div>
 </section>
 
-<?php require(__DIR__ . 'include/foot.php'); ?>
+<?php require(__DIR__ . '/include/foot.php'); ?>

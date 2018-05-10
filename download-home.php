@@ -1,4 +1,4 @@
-<?php require(__DIR__ . 'include/parrot.inc.php'); ?>
+<?php require(__DIR__ . '/include/parrot.inc.php'); ?>
 <section class="bg-primary" id="one">
     <div class="container">
         <div class="row">
@@ -7,7 +7,7 @@
                 <p class="text-faded wow fadeInRight">Parrot Home is a special edition of Parrot designed for daily use, and it targets regular users who need a lightweight, always updated and beautiful system on their laptops or workstations.</p>
                 <p class="text-faded wow fadeInUp">The distribution has the same look and feel of a regular Parrot environment and includes all the basic programs for daily work. Parrot Lite also includes programs to chat privately with people, encrypt documents with the highest cryptographic standards or surf the net in a completely anonymous and secure way.</p>
                 <p class="text-faded wow fadeInLeft">The system can also be used as a starting point to build a very customized pentesting platform with only the tools you need, or you can use it to build your professional workstation by taking advantage of all the latest and most powerful technologies of Debian without hassle.</p>
-                <p><img width="400" src="<?php echo CONFIG_SITE_URL_STATIC_RESOURCES ."img/desktop.jpg"; ?>"/></p>
+                <p><img width="400" src="/img/desktop.jpg"/></p>
             </div>
         </div>
         <div class="row">

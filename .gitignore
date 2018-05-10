@@ -1,3 +1,4 @@
 .*
 !.gitignore
 get/db
+start.sh

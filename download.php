@@ -13,27 +13,27 @@
         <div class="row">
             <div class="col-lg-4 col-md-4 text-center wow fadeInLeft">
                 <div class="feature">
-                    <img src="<?php echo CONFIG_SITE_URL_STATIC_RESOURCES . "img/logo.jpg"; ?>" width="60" height="60" />
+                    <img src="/img/logo.jpg" width="60" height="60" />
                     <h3><b>Security</b></h3>
                     <p class="text-muted">Parrot Security is our complete all-in-one environment for pentesting, privacy, digital forensics, reverse engineering and software development.</p>
                 </div>
-                <a href="<?php echo CONFIG_SITE_URL_STATIC_RESOURCES . "download-security.php"; ?>" class="btn btn-primary page-scroll"><b>Home/Workstation</b></a>
+                <a href="/download-security.php" class="btn btn-primary page-scroll">Download</a>
             </div>
             <div class="col-lg-4 col-md-4 text-center wow fadeInUp">
                 <div class="feature">
-                    <img src="<?php echo CONFIG_SITE_URL_STATIC_RESOURCES . "img/workstation.png"; ?>" width="60" height="60" />
+                    <img src="/img/workstation.png" width="60" height="60" />
                     <h3><b>Home/Workstation</b></h3>
                     <p class="text-muted">Parrot Home is a very lightweight system for <b>daily use</b> and <b>privacy protection</b>. It is designed for casual users who love the parrot look and feel.</p>
                 </div>
-                <a href="<?php echo CONFIG_SITE_URL_STATIC_RESOURCES . "download-home.php"; ?>" class="btn btn-primary page-scroll">',$lang['index-3'],'</a>
+                <a href="/download-home.php" class="btn btn-primary page-scroll">Download</a>
             </div>
             <div class="col-lg-4 col-md-4 text-center wow fadeInRight">
                 <div class="feature">
-                    <img src="<?php echo CONFIG_SITE_URL_STATIC_RESOURCES . "img/iot.png"; ?>" width="55" height="55" />
+                    <img src="/img/iot.png" width="55" height="55" />
                     <h3><b>Other Builds</b></h3>
                     <p class="text-muted">The Parrot Project releases other images of the Parrot System specifically designed for special use cases or uncommon devices. Here you can find the ARM images and other custom editions.</p>
                 </div>
-                <a href="<?php echo CONFIG_SITE_URL_STATIC_RESOURCES . "download-other.php"; ?>" class="btn btn-primary page-scroll">',$lang['index-3'],'</a>
+                <a href="/download-other.php" class="btn btn-primary page-scroll">Download</a>
             </div>
         </div>
 <br /><br /><hr /><br /><br />

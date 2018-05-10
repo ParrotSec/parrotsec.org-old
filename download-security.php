@@ -1,4 +1,4 @@
-<?php require(__DIR__ . 'include/parrot.inc.php'); ?>
+<?php require(__DIR__ . '/include/parrot.inc.php'); ?>
 <section class="bg-primary" id="one">
     <div class="container">
         <div class="row">
@@ -7,7 +7,7 @@
                 <p class="text-faded  wow fadeInRight">Parrot Security is our complete all-in-one environment for pentesting, privacy, digital forensics, reverse engineering and software development.</p>
                 <p class="text-faded  wow fadeInUp">The system includes a full arsenal of security oriented tools to cover many categories of the work of a pentester.</p>
             </div>
-            <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 text-center"><p><img width="400px" src="<?php echo CONFIG_SITE_URL_STATIC_RESOURCES . "img/menu-full.jpg"; ?>"/></p></div>
+            <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 text-center"><p><img width="400px" src="/img/menu-full.jpg"/></p></div>
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-3 col-md-offset-2 col-lg-offset-2 text-center">
@@ -45,4 +45,4 @@
         </div>
     </div>
 </section>
-<?php require(__DIR__ . 'include/foot.php'); ?>
+<?php require(__DIR__ . '/include/foot.php'); ?>
