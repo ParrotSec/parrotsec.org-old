@@ -1,0 +1,40 @@
+{
+  "navbar": {
+    "nav_1": "Toggle navigation",
+    "nav_2": "Parrot",
+    "nav_3": "Download",
+    "nav_4": "News",
+    "nav_5": "Wiki",
+    "nav_6": "Dev",
+    "nav_7": "Community",
+    "nav_8": "Partner",
+    "nav_9": "Team",
+    "nav_10": "Donate",
+    "nav_11": "F.A.Q.",
+    "nav_12": "Parrot Orojects",
+    "nav_14": "Language",
+    "nav_15": "Edit"
+  },
+
+  "section": {
+    "paragraph_1": "Parrot Security is our complete all-in-one environment for pentesting, privacy, digital forensics, reverse engineering and software development.",
+    "paragraph_2": "The system includes a full arsenal of security oriented tools to cover many categories of the work of a pentester."
+  },
+
+  "footer": {
+    "foot_1": {
+      "header": "Information",
+      "item_1": "Terms and Conditions",
+      "item_2": "Partners",
+      "item_3": "Developers"
+    },
+    "foot_2": {
+      "header": "Talking about us",
+      "item_1": "Wikipedia",
+      "item_2": "Distrowatch",
+      "item_3": "Softpedia",
+      "item_4": "Debian Derivates Census"
+    },
+    "foot_3": "Talking about us"
+  }
+}

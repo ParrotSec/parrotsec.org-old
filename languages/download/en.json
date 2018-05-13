@@ -1,0 +1,149 @@
+{
+  "navbar": {
+    "nav_1": "Toggle navigation",
+    "nav_2": "Parrot",
+    "nav_3": "Download",
+    "nav_4": "News",
+    "nav_5": "Wiki",
+    "nav_6": "Dev",
+    "nav_7": "Community",
+    "nav_8": "Partner",
+    "nav_9": "Team",
+    "nav_10": "Donate",
+    "nav_11": "F.A.Q.",
+    "nav_12": "Parrot Orojects",
+    "nav_14": "Language",
+    "nav_15": "Edit"
+  },
+  "header": "Download Parrot GNU/Linux",
+  "section_1": {
+    "item_1": {
+      "header": "<b>Security</b>",
+      "content": "Parrot Security is our complete all-in-one environment for pentesting, privacy, digital forensics, reverse engineering and software development.",
+      "button": "Download"
+    },
+    "item_2": {
+      "header": "<b>Home/Workstation</b>",
+      "content": "Parrot Home is a very lightweight system for <b>daily use</b> and <b>privacy protection</b>. It is designed for casual users who love the parrot look and feel.",
+      "button": "Download"
+    },
+    "item_3": {
+      "header": "<b>Other Builds</b>",
+      "content": "The Parrot Project releases other images of the Parrot System specifically designed for special use cases or uncommon devices. Here you can find the ARM images and other custom editions.",
+      "button": "Discover"
+    },
+    "others": {
+      "button_1": "Etcher Image Writer",
+      "button_2": "Parrot Archive"
+    }
+  },
+  "section_2": {
+    "header": "Need help? Contact our community!",
+    "content": "      We have a big international community and many local groups with people who want to help you!",
+    "button": "Community"
+  },
+  "section_3": {
+    "header": "Need other versions?",
+    "content": "Remember that beta images are experimental builds</b><br /> and some features may not work properly",
+    "button": "All Images"
+  },
+  "section_4": {
+    "header": "Features Table",
+    "thead": {
+      "item_1": "Features",
+      "item_2": "Security",
+      "item_3": "Home",
+      "item_4": "IOT"
+    },
+    "tbody": {
+      "row_1": {
+        "item_1": "Architecture",
+        "item_2": "x86 32bit &amp; 64bit",
+        "item_3": "x86 32bit &amp; 64bit",
+        "item_4": "ARMv7 &amp; ARMv8 64bit"
+      },
+      "row_2": {
+        "item_1": "Linux Version",
+        "item_2": "4.14",
+        "item_3": "4.14",
+        "item_4": "(depends on board)"
+      },
+      "row_3": {
+        "item_1": "Debian Version",
+        "item_2": "Debian 10 Buster",
+        "item_3": "Debian 10 Buster",
+        "item_4": "Debian 10 Buster"
+      },
+      "row_4": {
+        "item_1": "Release Model",
+        "item_2": "Rolling Release",
+        "item_3": "Rolling Release",
+        "item_4": "Rolling Release"
+      },
+      "row_5": {
+        "item_1": "Sendbox"
+      },
+      "row_6": {
+        "item_1": "Office Suite",
+        "item_2": "LibreOffice 5.4",
+        "item_3": "LibreOffice 5.4",
+        "item_4": "Abiword/Gnumeric"
+      },
+      "row_7": {
+        "item_1": "Web Suite",
+        "item_2": "Firefox 58",
+        "item_3": "Firefox 58",
+        "item_4": "Epiphany (may include firefox-esr)"
+      },
+      "row_8": {
+        "item_1": "Adblockers and web protection",
+        "item_2": "Ublock Origin + NoScript + Privacy Badger",
+        "item_3": "Ublock Origin + NoScript + Privacy Badger",
+        "item_4": "Ublock Origin + NoScript + Privacy Badger"
+      },
+      "row_9": {
+        "item_1": "AnonSurf + TOR Browser"
+      },
+      "row_10": {
+        "item_1": "Cryptographic tools"
+      },
+      "row_11": {
+        "item_1": "Security &amp; Pentest Tools"
+      },
+      "row_12": {
+        "item_1": "Reverse Engineering Tools"
+      },
+      "row_13": {
+        "item_1": "Digital Forensics Tools"
+      },
+      "row_14": {
+        "item_1": "Development Tools"
+      },
+      "row_15": {
+        "item_1": "Bitcoin Wallet (electrum)"
+      },
+      "row_16": {
+        "item_1": "Wine support"
+      },
+      "row_17": {
+        "item_1": "UEFI Support"
+      }
+    }
+  },
+  "footer": {
+    "foot_1": {
+      "header": "Information",
+      "item_1": "Terms and Conditions",
+      "item_2": "Partners",
+      "item_3": "Developers"
+    },
+    "foot_2": {
+      "header": "Talking about us",
+      "item_1": "Wikipedia",
+      "item_2": "Distrowatch",
+      "item_3": "Softpedia",
+      "item_4": "Debian Derivates Census"
+    },
+    "foot_3": "Talking about us"
+  }
+}

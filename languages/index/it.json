@@ -1,0 +1,82 @@
+{
+  "navbar": {
+    "nav_1": "Chiudi navigazione",
+    "nav_2": "Parrot",
+    "nav_3": "Scarica",
+    "nav_4": "News",
+    "nav_5": "Documentazione",
+    "nav_6": "Sviluppo",
+    "nav_7": "Comunità",
+    "nav_8": "Partner",
+    "nav_9": "Team",
+    "nav_10": "Dona",
+    "nav_11": "F.A.Q.",
+    "nav_12": "Progetti",
+    "nav_14": "Lingua",
+    "nav_15": "Modifica"
+  },
+
+  "section_1": {
+    "header_1": "Esplora <b>l'universo di Parrot</b> e prendi il meglio dal nostro fantastico ambiente Debian.",
+    "header_2": "Strumenti professionali per test di sicurezza, sviluppo software e protezione della privacy.",
+    "button_1": "Scarica",
+    "button_2": "Esplora"
+  },
+
+  "section_2": {
+    "header": "L'ambiente parrot",
+    "paragraph_1": "Parrot è un sistema operativo GNU/Linux basato su Debian Testing e dedicato alla sicurezza informatica, allo sviluppo software ed alla protezione della privacy.",
+    "paragraph_2": "Include un laboratorio portatile completo per esperti di sicurezza e forensics digitale, ma include anche tutto il necessario per sviluppare il proprio software o proteggere la privacy durante la navigazione in rete.",
+    "button": "Continua"
+  },
+
+  "section_3": {
+    "header": "Obiettivi del progetto",
+    "item_1": {
+      "header": "Sicurezza",
+      "content": "Un arsenale completo di <b>strumenti di sicurezza</b> in tasca."
+    },
+    "item_2": {
+      "header": "Privacy",
+      "content": "Un sistema sicuro e in modalità sandbox pronto a navigare e comunicare segretamente."
+    },
+    "item_3": {
+      "header": "Sviluppo",
+      "content": "Uno stack di sviluppo completo con i migliori editor, linguaggi e tecnologie pronti all'uso."
+    }
+  },
+
+  "section_4": {
+    "header": "Caratteristiche",
+    "item_1": {
+      "header":  "Sicuro",
+      "paragraph": "Sempre aggiornato, rilasciato di frequente e completamente in modalità sandbox! Tutto è sotto il tuo completo controllo"
+    },
+    "item_2": {
+      "header": "Gratuito (come in libertà)",
+      "paragraph": "Sentiti libero di scaricare il sistema, condividere con chiunque, leggere il codice sorgente e cambiarlo come vuoi! <br /> questo sistema è fatto per <b> rispettare la tua libertà </ b>, e lo sarà sempre."
+    },
+    "item_3": {
+      "header": "Leggero",
+      "paragraph": "Ci preoccupiamo del consumo delle risorse e il sistema si è dimostrato estremamente leggero e funziona in modo <b>estremamente veloce</b> anche su hardware molto vecchio o con risorse molto limitate."
+    }
+  },
+
+  "footer": {
+    "foot_1": {
+      "header": "Informazioni",
+      "item_1": "Termini e condizioni",
+      "item_2": "Partners",
+      "item_3": "Sviluppatori"
+    },
+    "foot_2": {
+      "header": "Parlano di noi",
+      "item_1": "Wikipedia",
+      "item_2": "Distrowatch",
+      "item_3": "Softpedia",
+      "item_4": "Debian Derivates Census"
+    },
+    "foot_3": "Parlano di noi"
+  }
+}
+

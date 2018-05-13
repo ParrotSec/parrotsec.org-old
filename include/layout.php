@@ -29,29 +29,45 @@
       <div class="container-fluid">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar">
-          <span class="sr-only">Toggle navigation</span>
+          <span class="sr-only" id="nav-1"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand page-scroll" href="/index.php"><b><img src="/img/logo.png" width="20" height="20" /> Parrot</b></a>
+          <a class="navbar-brand page-scroll" href="/index.php"><b><img src="/img/logo.png" width="20" height="20" /><span id="nav-2"> </span></b></a>
         </div>
         <div class="navbar-collapse collapse" id="bs-navbar">
           <ul class="nav navbar-nav">
-            <li><a class="page-scroll" href="/download.php">Download</a></li>
-            <li><a class="page-scroll" href="https://blog.parrotsec.org">News</a></li>
-            <li><a class="page-scroll" href="https://docs.parrotsec.org">Wiki</a></li>
-            <li><a class="page-scroll" href="https://dev.parrotsec.org" target="_blank">Dev</a></li>
-            <li><a class="page-scroll" href="https://docs.parrotsec.org/community">Community</a></li>
-            <li><a class="page-scroll" href="https://docs.parrotsec.org/partners">Partners</a></li>
-            <li><a class="page-scroll" href="https://docs.parrotsec.org/developers">Team</a></li>
-            <li><a class="page-scroll" href="https://docs.parrotsec.org/donate">Donate</a></li>
-            <li><a class="page-scroll" href="https://docs.parrotsec.org/FAQ">F.A.Q.</a>
-            <li><a class="page-scroll" href="http://project.parrotsec.org">Parrot Projects</a>
-            </li>
+            <li><a class="page-scroll" href="/download.php" id="nav-3"></a></li>
+            <li><a class="page-scroll" href="https://blog.parrotsec.org" id="nav-4"></a></li>
+            <li><a class="page-scroll" href="https://docs.parrotsec.org" id="nav-5"></a></li>
+            <li><a class="page-scroll" href="https://dev.parrotsec.org" target="_blank" id="nav-6"></a></li>
+            <li><a class="page-scroll" href="https://docs.parrotsec.org/community" id="nav-7"></a></li>
+            <li><a class="page-scroll" href="https://docs.parrotsec.org/partners" id="nav-8"></a></li>
+            <li><a class="page-scroll" href="https://docs.parrotsec.org/developers" id="nav-9"></a></li>
+            <li><a class="page-scroll" href="https://docs.parrotsec.org/donate" id="nav-10"></a></li>
+          <li><a class="page-scroll" href="https://docs.parrotsec.org/FAQ" id="nav-11"></a></li>
+            <li><a class="page-scroll" href="http://project.parrotsec.org" id="nav-12"></a></li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
-            <li><a class="page-scroll" href="https://dev.parrotsec.org/parrot/parrotsec.org" target="_blank">Edit</a></li>
+              <li>
+                  <a href="#" class="dropdown-toggle" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span id="nav-14"></span> <span class="caret"></span></a>
+                  <ul class="dropdown-menu language-navbar" aria-labelledby="languageDropdown">
+                      <li>
+                          <a href="#" role="button">
+                              <img src="/img/lang/english.ico" class="langauge-select" id="sel-1"/>
+                              <span style="color: #fff">English</span>
+                          </a>
+                      </li>
+                      <li>
+                          <a href="#" role="button">
+                              <img src="/img/lang/italy.ico" class="langauge-select" id="sel-2"/>
+                              <span style="color: #fff">Italian</span>
+                          </a>
+                      </li>
+                  </ul>
+              </li>
+              <li><a class="page-scroll" href="https://dev.parrotsec.org/parrot/parrotsec.org" target="_blank" id="nav-15"></a></li>
           </ul>
         </div>
       </div>

@@ -2,24 +2,24 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-6 col-sm-3 column">
-            <h4>Information</h4>
+            <h4 id="foot-1-header"></h4>
             <ul class="list-unstyled">
-              <li><a href="https://docs.parrotsec.org/terms-and-conditions">Terms and Conditions</a></li>
-              <li><a href="https://docs.parrotsec.org/partners">Partners</a></li>
-              <li><a href="https://docs.parrotsec.org/developers">Developers</a></li>
+              <li><a href="https://docs.parrotsec.org/terms-and-conditions" id="foot-1-item-1"></a></li>
+              <li><a href="https://docs.parrotsec.org/partners" id="foot-1-item-2"></a></li>
+              <li><a href="https://docs.parrotsec.org/developers" id="foot-1-item-3"></a></li>
             </ul>
           </div>
           <div class="col-xs-6 col-sm-3 column">
-            <h4>Talking About Us</h4>
+            <h4 id="foot-2-header"></h4>
             <ul class="list-unstyled">
-              <li><a href="https://en.wikipedia.org/wiki/Parrot_Security_OS">Wikipedia</a></li>
-              <li><a href="https://distrowatch.com/table.php?distribution=parrotsecurity">Distrowatch</a></li>
-              <li><a href="http://linux.softpedia.com/get/System/Operating-Systems/Linux-Distributions/Parrot-security-OS-102936.shtml">Softpedia</a></li>
-              <li><a href="https://wiki.debian.org/Derivatives/Census/ParrotSecurity">Debian Derivatives Census</a></li>
+              <li><a href="https://en.wikipedia.org/wiki/Parrot_Security_OS" id="foot-2-item-1"></a></li>
+              <li><a href="https://distrowatch.com/table.php?distribution=parrotsecurity" id="foot-2-item-2"></a></li>
+              <li><a href="http://linux.softpedia.com/get/System/Operating-Systems/Linux-Distributions/Parrot-security-OS-102936.shtml" id="foot-2-item-3"></a></li>
+              <li><a href="https://wiki.debian.org/Derivatives/Census/ParrotSecurity" id="foot-2-item-4"></a></li>
             </ul>
           </div>
           <div class="col-xs-12 col-sm-3 text-right">
-            <h4>Talking About Us</h4>
+            <h4 id="foot-3">Talking About Us</h4>
             <ul class="list-inline">
               <li><a rel="nofollow" href="https://twitter.com/parrotsec" title="Twitter"><i class="icon-lg ion-social-twitter-outline"></i></a>&nbsp;</li>
               <li><a rel="nofollow" href="https://www.facebook.com/parrotsec" title="Facebook"><i class="icon-lg ion-social-facebook-outline"></i></a>&nbsp;</li>
@@ -48,5 +48,6 @@
     <script src="/js/jquery.easing.min.js"></script>
     <script src="/js/wow.js"></script>
     <script src="/js/scripts.js"></script>
+    <script src="/js/languageDriver.js"></script>
   </body>
 </html>

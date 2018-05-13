@@ -1,0 +1,41 @@
+{
+  "navbar": {
+    "nav_1": "Toggle navigation",
+    "nav_2": "Parrot",
+    "nav_3": "Download",
+    "nav_4": "News",
+    "nav_5": "Wiki",
+    "nav_6": "Dev",
+    "nav_7": "Community",
+    "nav_8": "Partner",
+    "nav_9": "Team",
+    "nav_10": "Donate",
+    "nav_11": "F.A.Q.",
+    "nav_12": "Parrot Orojects",
+    "nav_14": "Language",
+    "nav_15": "Edit"
+  },
+
+  "section": {
+    "paragraph_1": "Parrot Home is a special edition of Parrot designed for daily use, and it targets regular users who need a lightweight, always updated and beautiful system on their laptops or workstations.",
+    "paragraph_2": "The distribution has the same look and feel of a regular Parrot environment and includes all the basic programs for daily work. Parrot Home also includes programs to chat privately with people, encrypt documents with the highest cryptographic standards or surf the net in a completely anonymous and secure way.",
+    "paragraph_3": "The system can also be used as a starting point to build a very customized pentesting platform with only the tools you need, or you can use it to build your professional workstation by taking advantage of all the latest and most powerful technologies of Debian without hassle."
+  },
+
+  "footer": {
+    "foot_1": {
+      "header": "Information",
+      "item_1": "Terms and Conditions",
+      "item_2": "Partners",
+      "item_3": "Developers"
+    },
+    "foot_2": {
+      "header": "Talking about us",
+      "item_1": "Wikipedia",
+      "item_2": "Distrowatch",
+      "item_3": "Softpedia",
+      "item_4": "Debian Derivates Census"
+    },
+    "foot_3": "Talking about us"
+  }
+}

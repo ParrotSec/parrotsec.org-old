@@ -6,8 +6,8 @@
         </div>
         <div class="row">
             <div class="col-lg-6 text-center">
-                <p class="text-faded  wow fadeInRight">Parrot Security is our complete all-in-one environment for pentesting, privacy, digital forensics, reverse engineering and software development.</p>
-                <p class="text-faded  wow fadeInUp">The system includes a full arsenal of security oriented tools to cover many categories of the work of a pentester.</p>
+                <p class="text-faded  wow fadeInRight" id="section_paragraph_1"></p>
+                <p class="text-faded  wow fadeInUp" id="section_paragraph_2"></p>
             </div>
             <div class="col-lg-6 text-center"><p><img width="400px" src="/img/menu-full.jpg"/></p></div>
         </div><br/><br/><br/>
@@ -47,4 +47,5 @@
         </div>
     </div>
 </section>
+<script>var PAGE = "download_security";</script>
 <?php require(__DIR__ . '/include/foot.php'); ?>
