@@ -1,4 +1,7 @@
 <?php
-    require(__DIR__ . '/config.inc.php');
-    require(__DIR__ . '/layout.php');
+
+require('include/config.inc.php');
+require('include/lang.php');
+require('include/layout.php');
+
 ?>
