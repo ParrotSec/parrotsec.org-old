@@ -14,6 +14,7 @@ $lang['nav-12']			= 'Modifica';
 $lang['nav-13']			= 'Continua';
 $lang['nav-14']			= 'Partner';
 $lang['nav-15']			= 'Team';
+$lang['nav-16']			= 'Lingua';
 
 $lang['index-1']			= 'Esplora <b>l\'universo di Parrot</b> e prendi il meglio dal nostro fantastico ambiente Debian.';
 $lang['index-2']			= 'Strumenti professionali per test di sicurezza, sviluppo software e protezione della privacy.';
@@ -115,33 +116,33 @@ $lang['download-54']		= ' (cloning tools included)';
 $lang['download-55']		= ' (full environment)';
 
 
-$lang['download-full-1']	= 'Parrot Full ';
-$lang['download-full-2']	= 'Parrot Full is our complete all-in-one environment for pentesting, privacy, digital forensics, reverse engineering and software development.';
-$lang['download-full-3']	= 'The system includes a full arsenal of security oriented tools to cover many categories of the work of a pentester.';
-$lang['download-full-4']	= 'Full Edition';
-$lang['download-full-5']	= ' For modern computers';
-$lang['download-full-6']	= 'Interface: MATE';
-$lang['download-full-7']	= 'Format: ISO Hybrid';
-$lang['download-full-8']	= 'Size: ';
-$lang['download-full-9']	= 'Mirrors';
-$lang['download-full-10']	= 'Torrent';
-$lang['download-full-11']	= 'Signed Hashes';
-$lang['download-full-12']	= ' For older computers';
+$lang['download-security-1']	= 'Parrot Full ';
+$lang['download-security-2']	= 'Parrot Full is our complete all-in-one environment for pentesting, privacy, digital forensics, reverse engineering and software development.';
+$lang['download-security-3']	= 'The system includes a full arsenal of security oriented tools to cover many categories of the work of a pentester.';
+$lang['download-security-4']	= 'Full Edition';
+$lang['download-security-5']	= ' For modern computers';
+$lang['download-security-6']	= 'Interface: MATE';
+$lang['download-security-7']	= 'Format: ISO Hybrid';
+$lang['download-security-8']	= 'Size: ';
+$lang['download-security-9']	= 'Mirrors';
+$lang['download-security-10']	= 'Torrent';
+$lang['download-security-11']	= 'Signed Hashes';
+$lang['download-security-12']	= ' For older computers';
 
 
-$lang['download-lite-1']	= 'Parrot Lite ';
-$lang['download-lite-2']	= 'Parrot Lite is a special edition of Parrot designed for daily use, and it targets regular users who need a lightweight, always updated and beautiful system on their laptops or workstations.';
-$lang['download-lite-3']	= 'The distribution has the same look and feel of a regular Parrot environment and includes all the basic programs for daily work. Parrot Lite also includes programs to chat privately with people, encrypt documents with the highest cryptographic standards or surf the net in a completely anonymous and secure way.';
-$lang['download-lite-4']	= 'The system can also be used as a starting point to build a very customized pentesting platform with only the tools you need, or you can use it to build your professional workstation by taking advantage of all the latest and most powerful technologies of Debian without hassle.';
-$lang['download-lite-5']	= 'Lite Edition';
-$lang['download-lite-6']	= ' For modern computers';
-$lang['download-lite-7']	= 'Interface: MATE';
-$lang['download-lite-8']	= 'Format: ISO Hybrid';
-$lang['download-lite-9']	= 'Size: ';
-$lang['download-lite-10']	= 'Mirrors';
-$lang['download-lite-11']	= 'Torrent';
-$lang['download-lite-12']	= 'Signed Hashes';
-$lang['download-lite-13']	= ' For older computers';
+$lang['download-home-1']	= 'Parrot Lite ';
+$lang['download-home-2']	= 'Parrot Lite is a special edition of Parrot designed for daily use, and it targets regular users who need a lightweight, always updated and beautiful system on their laptops or workstations.';
+$lang['download-home-3']	= 'The distribution has the same look and feel of a regular Parrot environment and includes all the basic programs for daily work. Parrot Lite also includes programs to chat privately with people, encrypt documents with the highest cryptographic standards or surf the net in a completely anonymous and secure way.';
+$lang['download-home-4']	= 'The system can also be used as a starting point to build a very customized pentesting platform with only the tools you need, or you can use it to build your professional workstation by taking advantage of all the latest and most powerful technologies of Debian without hassle.';
+$lang['download-home-5']	= 'Lite Edition';
+$lang['download-home-6']	= ' For modern computers';
+$lang['download-home-7']	= 'Interface: MATE';
+$lang['download-home-8']	= 'Format: ISO Hybrid';
+$lang['download-home-9']	= 'Size: ';
+$lang['download-home-10']	= 'Mirrors';
+$lang['download-home-11']	= 'Torrent';
+$lang['download-home-12']	= 'Signed Hashes';
+$lang['download-home-13']	= ' For older computers';
 
 
 $lang['download-other-1']	= 'Special Parrot Builds and Official Derivatives';

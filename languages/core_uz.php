@@ -14,6 +14,7 @@ $lang['nav-12']			= 'Tahrirlash';
 $lang['nav-13']			= 'Davom etish';
 $lang['nav-14']			= 'Hamkorlar';
 $lang['nav-15']			= 'Jamoa';
+$lang['nav-16']			= 'Tgil';
 
 $lang['index-1']			= '<b>Parrot dunyosini</b> kashf eting hamda bizning ajoyib Debianga asoslangan platformadan ko\'proq foydalaning.';
 $lang['index-2']			= 'Xavfsizlikni sinash, dasturiy ta\'minotni ishlab chiqish va maxfiylik mudofaasi bo\'yicha professional darajadagi vositalar  hammasi bir yerda.';
