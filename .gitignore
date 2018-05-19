@@ -1,3 +1,4 @@
 .*
 !.gitignore
-get/db
+public/*
+localhost:8080/
