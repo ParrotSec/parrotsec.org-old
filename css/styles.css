@@ -541,3 +541,12 @@ img::-moz-selection {
   background-size: cover;
   -o-background-size: cover;
 }
+
+.langauge-select {
+    width: 40px;
+    height: 40px;
+}
+
+.language-navbar {
+    background-color: rgba(34, 34, 34, 0.9);
+}
