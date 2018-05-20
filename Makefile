@@ -5,3 +5,6 @@ build:
 	@bash server.pid
 	rm server.pid nohup.out
 	mv "localhost:8080" public
+
+test:
+	php7.0 -S localhost:8080
