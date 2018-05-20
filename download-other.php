@@ -21,10 +21,10 @@
               <div class="col-lg-4 col-md-4 text-center">
                 <div class="panel download panel-blue">
                   <div class="panel-heading arrow_box text-center">
-                    <h3>Docker</h3>
+                    <h3>Parrot container for Docker</h3>
                   </div>
                   <div class="panel-body text-center">
-                    <p class="lead" style="font-size:40px">Docker container for Parrot</p>
+                    <p class="lead" style="font-size:40px">Docker</p>
                   </div>
                   <ul class="list-group list-group-flush text-center">
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Access a Parrot container on any host OS</li>
@@ -32,10 +32,10 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Quickly deploy and destroy parrot instances</li>
                   </ul>
                   <div class="panel-footer">
-                    <a class="btn btn-lg btn-block btn-info" href="https://hub.docker.com/r/parrotsec/parrot-core/">Parrot Core</a><br>
-                    <a class="btn btn-lg btn-block btn-info" href="https://hub.docker.com/r/parrotsec/parrot/">Parrot Security</a><br>
-                    <a class="btn btn-lg btn-block btn-info" href="https://hub.docker.com/r/parrotsec/metasploit/">Parrot Metasploit</a>
-                    <a class="btn btn-lg btn-block btn-info" href="https://dev.parrotsec.org/parrot/docker-images/">Dockerfile source code</a>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/parrot-core/">Core</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/parrot/">Security</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/metasploit/">Metasploit</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://dev.parrotsec.org/parrot/docker-images/">source code</a>
                   </div>
                 </div>
               </div>
@@ -54,14 +54,17 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Always install the latest version of the system</li>
                   </ul>
                   <div class="panel-footer">
-                    <a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-amd64/current/images/netboot/mini.iso" download="Parrot-netinstall_amd64.iso">netinstall amd64</a><br>
-                    <a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-i386/current/images/netboot/mini.iso" download="Parrot-netinstall_i386.iso">netinstall i386</a><br>
-                    <a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-arm64/current/images/">netinstall arm64</a><br>
-                    <a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-armhf/current/images/">netinstall armhf</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-amd64/current/images/netboot/mini.iso" download="Parrot-netinstall_amd64.iso">netinstall amd64</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-i386/current/images/netboot/mini.iso" download="Parrot-netinstall_i386.iso">netinstall i386</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-arm64/current/images/">netinstall arm64</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-armhf/current/images/">netinstall armhf</a><br>
                   </div>
                 </div>
               </div>
 
+
+            </div>
+            <div class="row">
 
               <div class="col-lg-4 col-md-4 text-center">
                 <div class="panel download panel-blue">
@@ -76,7 +79,7 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-other-22']; ?></li>
       						</ul>
       						<div class="panel-footer">
-      							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/arm/rpi"><?php echo $lang['download-other-23']; ?></a>
+      							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/arm/rpi"><?php echo $lang['download-other-23']; ?></a>
       						</div>
       					</div>
               </div>
@@ -95,7 +98,7 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-other-27']; ?></li>
       						</ul>
       						<div class="panel-footer">
-      							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/arm/opi"><?php echo $lang['download-other-23']; ?></a>
+      							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/arm/opi"><?php echo $lang['download-other-23']; ?></a>
       						</div>
       					</div>
               </div>
@@ -116,7 +119,7 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-other-32']; ?></li>
       						</ul>
       						<div class="panel-footer">
-      							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/arm/pine64"><?php echo $lang['download-other-23']; ?></a>
+      							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/arm/pine64"><?php echo $lang['download-other-23']; ?></a>
       						</div>
       					</div>
               </div>
