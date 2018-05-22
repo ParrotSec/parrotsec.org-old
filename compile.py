@@ -3,15 +3,8 @@ import os, fileinput, shutil
 
 lang_array=["it", "en", "ru", "uz"]
 
-print("Server on")
-os.system("nohup php -S localhost:8080")
-
-print("Getting files contents")
-os.system("wget -r http://localhost:8080")
-os.rename("localhost:8080", "website")
-os.chdir("website")
-
 print("Creating language directories")
+os.chdir("website")
 for lang in lang_array:
     os.mkdir(lang)
 
@@ -22,7 +15,7 @@ for file_name in os.listdir('.'):
             shutil.move(file_name, lang)
             file_name_array = file_name.split('.')
             os.rename("{}/{}".format(lang, file_name), "{}/{}.html".format(lang, file_name_array[0]))
-        else: 
+        else:
             if os.path.isdir(file_name):
                 if not file_name in lang_array:
                     destination_path = os.path.join(lang, file_name)
