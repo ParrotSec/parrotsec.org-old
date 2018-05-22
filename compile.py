@@ -30,7 +30,7 @@ for dir_name in os.listdir('.'):
 
 print("Creating index")
 index_file = open("index.php", "w")
-index_file.write("<?php header('location: en/index.html') ?>")
+index_file.write("<?php header('location: en/') ?>")
 index_file.close()
 
 

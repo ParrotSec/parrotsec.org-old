@@ -1,8 +1,8 @@
 build: SHELL:=/bin/bash
 build:
-	@rm -rf "localhost:8080" parrotsec.org || true;\
+	@rm -rf "localhost:8080" website || true;\
 	nohup php -S localhost:8080 & echo kill $$! > server.pid;\
-	wget -r localhost:8080 || true;\
+	wget -qr localhost:8080 || true;\
 	mv localhost:8080 website;\
 	bash server.pid;\
 	rm server.pid nohup.out;\
