@@ -1,0 +1,40 @@
+#!/usr/bin/python3
+import os, sys, shutil
+
+lang_array=["it", "en", "ru", "uz"]
+
+print("Server on")
+os.system("nohup php -S localhost:8080")
+
+print("Getting files contents")
+os.system("wget -r http://localhost:8080")
+os.rename("localhost:8080", "website")
+os.chdir("website")
+
+print("Creating language directories")
+for lang in lang_array:
+    os.mkdir(lang)
+
+print("Sperating files..")
+for file_name in os.listdir('.'):
+    for lang in lang_array:
+        if str(".php?lang={}".format(lang)) in file_name:
+            shutil.move(file_name, lang)
+            file_name_array = file_name.split('.')
+            os.rename("{}/{}".format(lang, file_name), "{}/{}.html".format(lang, file_name_array[0]))
+        else: 
+            if os.path.isdir(file_name):
+                if not file_name in lang_array:
+                    destination_path = os.path.join(lang, file_name)
+                    if not os.path.exists(destination_path):
+                        shutil.copytree(file_name, destination_path)
+
+print("Cleaning directory")
+os.system("rm ./*.*")
+for dir_name in os.listdir('.'):
+    if not dir_name in lang_array:
+        shutil.rmtree(dir_name)
+
+index_file = open("index.php", "w")
+index_file.write("<?php header('location: en/index.html') ?>")
+index_file.close()
