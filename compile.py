@@ -42,3 +42,4 @@ for lang in lang_array:
             text_to_search = "http://localhost:8080/index.php?lang={}".format(lang)
             text_to_replace = "/{}/index.html".format(lang)
             print(line.replace(text_to_search, text_to_replace))
+    os.chdir("..")
