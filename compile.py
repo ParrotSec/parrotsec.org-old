@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import os, sys, shutil
+import os, fileinput, shutil
 
 lang_array=["it", "en", "ru", "uz"]
 
@@ -35,6 +35,17 @@ for dir_name in os.listdir('.'):
     if not dir_name in lang_array:
         shutil.rmtree(dir_name)
 
+print("Creating index")
 index_file = open("index.php", "w")
 index_file.write("<?php header('location: en/index.html') ?>")
 index_file.close()
+
+
+print("Updating code")
+for lang in lang_array:
+    os.chdir(lang)
+    with fileinput.FileInput('index.html', inplace=True, backup=".bak") as file:
+        for line in file:
+            text_to_search = "http://localhost:8080/index.php?lang={}".format(lang)
+            text_to_replace = "/{}/index.html".format(lang)
+            print(line.replace(text_to_search, text_to_replace))
