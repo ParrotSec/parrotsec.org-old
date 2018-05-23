@@ -85,7 +85,8 @@
                                     $replace = "?lang=$languages[$i]";
                                     $final_link = str_replace($search, $replace, $link);
                                 }
-                                echo "<li><a href='$final_link'><img src='img/lang/$languages[$i].ico' class='langauge-select'/><span style='color: #fff'>$languages[$i]</span></a></li>";
+                                echo "<li><a href='$final_link' style='height: auto'><span style='color: #fff'>$languages[$i]</span><img src='img/lang/$languages[$i].ico' class='language-select pull-right'/></a></li>";
+//                                echo "<li><a href='$final_link'><span style='color: #fff; display: block; margin-left: auto; margin-right: auto;' class='pull-left'>$languages[$i]</span><img src='img/lang/$languages[$i].ico' class='pull-right langauge-select'/></a></li>";
                             }
                           ?>
                       </ul>

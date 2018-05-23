@@ -542,9 +542,15 @@ img::-moz-selection {
   -o-background-size: cover;
 }
 
-.langauge-select {
+.language-select {
     width: 40px;
     height: 40px;
+}
+
+.dropdown-menu a img {
+    display: inline;
+    width: 20%;
+    height: 20%;
 }
 
 .language-navbar {
