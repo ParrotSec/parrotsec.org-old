@@ -85,7 +85,7 @@
                                     $replace = "?lang=$key";
                                     $final_link = str_replace($search, $replace, $link);
                                 }
-                                echo "<li><a href='$final_link' style='height: auto'><span style='color: #fff'>$value</span><img src='img/lang/$key.ico' class='language-select pull-right'/></a></li>";
+                                echo "<li><a href='$final_link' style='height: auto'><span style='color: #fff'>$value</span><img src='img/lang/$key.png' class='pull-right'/></a></li>";
                             }
                           ?>
                       </ul>
