@@ -1,0 +1,198 @@
+/* COMMON PRICING STYLES */
+  .panel.download,
+  .panel.download>.panel-heading{
+    border-radius:2px;
+     -moz-transition: all .3s ease;
+    -o-transition:  all .3s ease;
+    -webkit-transition:  all .3s ease;
+  }
+  .panel.download:hover{
+    box-shadow: 0px 0px 30px rgba(20,2,3, .2);
+  }
+  .panel.download:hover>.panel-heading{
+    box-shadow: 0px 0px 30px rgba(0,0,0, .2) inset;
+  }
+
+
+  .panel.download>.panel-heading{
+    box-shadow: 0px 5px 0px rgba(50,50,50, .2) inset;
+    text-shadow:0px 3px 0px rgba(50,50,50, .6);
+  }
+
+  .download .list-group-item{
+    border-bottom-:1px solid rgba(250,250,250, .5);
+  }
+
+  .panel.download .list-group-item:last-child {
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+  }
+  .panel.download .list-group-item:first-child {
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+  }
+
+  .download .panel-footer {
+    color: #fff;
+    border-bottom:0px;
+    background-color:  rgba(0,0,0, .1);
+    box-shadow: 0px 3px 0px rgba(0,0,0, .3);
+  }
+
+
+  .panel.download .btn{
+    box-shadow: 0 -1px 0px rgba(50,50,50, .2) inset;
+    border:0px;
+  }
+
+/* green panel */
+
+
+  .download.panel-green>.panel-heading {
+    color: #fff;
+    background-color: #222;
+    border-color: #71DF71;
+    border-bottom: 1px solid #71DF71;
+  }
+
+
+  .download.panel-green>.panel-body {
+    color: #fff;
+    background-color: #222;
+  }
+
+
+  .download.panel-green>.panel-body .lead{
+      text-shadow: 0px 3px 0px rgba(50,50,50, .3);
+  }
+
+  .download.panel-green .list-group-item {
+    color: #333;
+    background-color: rgba(50,50,50, .01);
+    font-weight:600;
+    text-shadow: 0px 1px 0px rgba(250,250,250, .75);
+  }
+
+  /* blue panel */
+
+
+  .download.panel-blue>.panel-heading {
+    color: #fff;
+    background-color: #222;
+    border-color: #111;
+    border-bottom: 1px solid #666;
+  }
+
+
+  .download.panel-blue>.panel-body {
+    color: #fff;
+    background-color: #2a2a2a;
+  }
+
+
+  .download.panel-blue>.panel-body .lead{
+      text-shadow: 0px 3px 0px rgba(50,50,50, .3);
+  }
+
+  .download.panel-blue .list-group-item {
+    color: #333;
+    background-color: rgba(50,50,50, .01);
+    font-weight:600;
+    text-shadow: 0px 1px 0px rgba(250,250,250, .75);
+  }
+
+  /* red download */
+
+
+  .download.panel-red>.panel-heading {
+    color: #fff;
+    background-color: #222;
+    border-color: #FF6062;
+    border-bottom: 1px solid #FF6062;
+  }
+
+
+  .download.panel-red>.panel-body {
+    color: #fff;
+    background-color: #222;
+  }
+
+
+
+
+  .download.panel-red>.panel-body .lead{
+      text-shadow: 0px 3px 0px rgba(50,50,50, .3);
+  }
+
+  .download.panel-red .list-group-item {
+    color: #333;
+    background-color: rgba(50,50,50, .01);
+    font-weight:600;
+    text-shadow: 0px 1px 0px rgba(250,250,250, .75);
+  }
+
+  /* grey download */
+
+
+  .download.panel-grey>.panel-heading {
+    color: #fff;
+    background-color: #222;
+    border-color: #B7B7B7;
+    border-bottom: 1px solid #B7B7B7;
+  }
+
+
+  .download.panel-grey>.panel-body {
+    color: #fff;
+    background-color: #222;
+  }
+
+
+
+  .download.panel-grey>.panel-body .lead{
+      text-shadow: 0px 3px 0px rgba(50,50,50, .3);
+  }
+
+  .download.panel-grey .list-group-item {
+    color: #333;
+    background-color: rgba(50,50,50, .01);
+    font-weight:600;
+    text-shadow: 0px 1px 0px rgba(250,250,250, .75);
+  }
+
+  /* white download */
+
+
+  .download.panel-white>.panel-heading {
+    color: #333;
+    background-color: #222;
+    border-color: #ccc;
+    border-bottom: 1px solid #ccc;
+    text-shadow: 0px 2px 0px rgba(250,250,250, .7);
+  }
+
+  .panel.panel-white.download:hover>.panel-heading{
+    box-shadow: 0px 0px 30px rgba(0,0,0, .05) inset;
+  }
+
+  .download.panel-white>.panel-body {
+    color: #fff;
+    background-color: #222;
+  }
+
+  .download.panel-white>.panel-body .lead{
+      text-shadow: 0px 2px 0px rgba(250,250,250, .8);
+      color:#666;
+  }
+
+  .download:hover.panel-white>.panel-body .lead{
+      text-shadow: 0px 2px 0px rgba(250,250,250, .9);
+      color:#333;
+  }
+
+  .download.panel-white .list-group-item {
+    color: #333;
+    background-color: rgba(50,50,50, .01);
+    font-weight:600;
+    text-shadow: 0px 1px 0px rgba(250,250,250, .75);
+  }
