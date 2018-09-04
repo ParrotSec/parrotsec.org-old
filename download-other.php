@@ -54,8 +54,8 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Always install the latest version of the system</li>
                   </ul>
                   <div class="panel-footer">
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-amd64/current/images/netboot/mini.iso" download="Parrot-netinstall_amd64.iso">netinstall amd64</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-i386/current/images/netboot/mini.iso" download="Parrot-netinstall_i386.iso">netinstall i386</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.2/Parrot-netinst-4.2_amd64.iso">netinstall amd64</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.orgparrot/iso/4.2/Parrot-netinst-4.2_i386.iso">netinstall i386</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-arm64/current/images/">netinstall arm64</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-armhf/current/images/">netinstall armhf</a><br>
                   </div>
