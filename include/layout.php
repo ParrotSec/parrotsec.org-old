@@ -49,13 +49,13 @@
                       <a class="page-scroll" href="https://blog.parrotsec.org"><?php echo $lang['nav-4']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org"><?php echo $lang['nav-5']; ?></a>
+                      <a class="page-scroll" href="https://parrotsec.org/docs/"><?php echo $lang['nav-5']; ?></a>
                   </li>
                   <li>
                       <a class="page-scroll" href="https://dev.parrotsec.org" target="_blank"><?php echo $lang['nav-6']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org/community"><?php echo $lang['nav-7']; ?></a>
+                      <a class="page-scroll" href="https://community.parrotsec.org"><?php echo $lang['nav-7']; ?></a>
                   </li>
                   <li>
                       <a class="page-scroll" href="https://docs.parrotsec.org/partners"><?php echo $lang['nav-8']; ?></a>
