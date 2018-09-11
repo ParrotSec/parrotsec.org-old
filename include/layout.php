@@ -49,13 +49,13 @@
                       <a class="page-scroll" href="https://blog.parrotsec.org"><?php echo $lang['nav-4']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org"><?php echo $lang['nav-5']; ?></a>
+                      <a class="page-scroll" href="https://parrotsec.org/docs/"><?php echo $lang['nav-5']; ?></a>
                   </li>
                   <li>
                       <a class="page-scroll" href="https://dev.parrotsec.org" target="_blank"><?php echo $lang['nav-6']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org/community"><?php echo $lang['nav-7']; ?></a>
+                      <a class="page-scroll" href="https://community.parrotsec.org"><?php echo $lang['nav-7']; ?></a>
                   </li>
                   <li>
                       <a class="page-scroll" href="https://docs.parrotsec.org/partners"><?php echo $lang['nav-8']; ?></a>
@@ -101,17 +101,17 @@
                       <a href="#" class="dropdown-toggle" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><?php echo $lang['nav-16']; ?><span class="caret"></span></a>
                       <ul class="dropdown-menu language-navbar" aria-labelledby="languageDropdown">
                           <?php
-                            for($i=0; $i<count($languages); $i++) {
-                                $link = 'http://' . $_SERVER[HTTP_HOST] . $_SERVER[REQUEST_URI];
+                            foreach($languages as $key => $value) {
+                                $link = 'https://' . $_SERVER[HTTP_HOST] . $_SERVER[REQUEST_URI];
                                 if(!strpos($link, "?lang="))
-                                    $final_link = $link.'?lang=' . $languages[$i];
+                                    $final_link = "$link?lang=$key";
                                 else {
                                     $language = $_GET['lang'];
                                     $search = "?lang=$language";
-                                    $replace = "?lang=$languages[$i]";
+                                    $replace = "?lang=$key";
                                     $final_link = str_replace($search, $replace, $link);
                                 }
-                                echo "<li><a href='$final_link'><img src='img/lang/$languages[$i].ico' class='langauge-select'/><span style='color: #fff'>$languages[$i]</span></a></li>";
+                                echo "<li><a href='$final_link' style='height: auto'><span style='color: #fff'>$value</span><img src='img/lang/$key.png' class='pull-right'/></a></li>";
                             }
                           ?>
                       </ul>
@@ -126,9 +126,13 @@
           </div>
       </div>
 <<<<<<< HEAD
+<<<<<<< HEAD
   </nav>';
 
   ?>
+=======
+  </nav>
+>>>>>>> dev
 =======
   </nav>
 >>>>>>> dev

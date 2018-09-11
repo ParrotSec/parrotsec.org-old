@@ -16,37 +16,8 @@
                 </div><br/><br/><br/>
             </div>
             <div class="row">
-            
-            <div class="col-lg-3 col-md-3 text-center">
-              		<div class="panel download panel-blue">
-                		<div class="panel-heading arrow_box text-center">
-                  			<h3>Parrot Studio</h3>
-                		</div>
-                		<div class="panel-body text-center">
-                  			<p class="lead" style="font-size:40px"><strong>64 Bit</strong></p>
-                		</div>
-                		<ul class="list-group list-group-flush text-center">
-                			<li class="list-group-item"><i class="icon-ok text-info"></i>Multimedia Production Suite</li>
-  					<li class="list-group-item"><i class="icon-ok text-info"></i>Interface: MATE</li>
-                 			<li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid</li>
-                 			<li class="list-group-item"><i class="icon-ok text-info"></i>Size: 2.6GB</li>
-    				</ul>
-    				<div class="panel-footer">
-    					<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-studio-4.0.1_amd64.iso">Download</a>
-    				</div>
-                		<div class="panel-footer">
-    					<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-studio-4.0.1_amd64.iso.mirrorlist">Mirrors</a>
-    				</div>
-                		<div class="panel-footer">
-    					<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-studio-4.0.1_amd64.iso.torrent">Torrent</a>
-    				</div>
-                		<div class="panel-footer">
-                  			<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.0.1/signed-hashes.txt">Signed Hashes</a>
-    				</div>
-    			</div>
-            	</div>
 
-            <div class="col-lg-4 col-md-4 text-center">
+            <div class="col-lg-3 col-md-3 col-md-offset-2 col-lg-offset-2 text-center">
               <div class="panel download panel-blue">
                 <div class="panel-heading arrow_box text-center">
                   <h3><?php echo $lang['download-home-5']; ?></h3>
@@ -61,21 +32,21 @@
                   <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-home-9'] . " " . PARROT_LITE_SIZE_64; ?></li>
     						</ul>
     						<div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-home-4.0.1_amd64.iso"><?php echo $lang['index-3']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/4.2.2/Parrot-home-4.2.2_amd64.iso"><?php echo $lang['index-3']; ?></a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-home-4.0.1_amd64.iso.mirrorlist"><?php echo $lang['download-home-10']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.2.2/Parrot-home-4.2.2_amd64.iso.mirrorlist"><?php echo $lang['download-home-10']; ?></a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-home-4.0.1_amd64.iso.torrent"><?php echo $lang['download-home-11']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/4.2.2/Parrot-home-4.2.2_amd64.iso.torrent"><?php echo $lang['download-home-11']; ?></a>
     						</div>
                 <div class="panel-footer">
-                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.0.1/signed-hashes.txt"><?php echo $lang['download-home-12']; ?></a>
+                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.2.2/signed-hashes.txt"><?php echo $lang['download-home-12']; ?></a>
     						</div>
     					</div>
             </div>
 
-            <div class="col-lg-3 col-md-3 text-center">
+            <div class="col-lg-3 col-md-3 col-md-offset-2 col-lg-offset-2 text-center">
               <div class="panel download panel-blue">
                 <div class="panel-heading arrow_box text-center">
                   <h3><?php echo $lang['download-home-5']; ?></h3>
@@ -90,16 +61,16 @@
                   <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-home-9'] . " " . PARROT_LITE_SIZE_32; ?></li>
     						</ul>
     						<div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-home-4.0.1_i386.iso"><?php echo $lang['index-3']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/4.2.2/Parrot-home-4.2.2_i386.iso"><?php echo $lang['index-3']; ?></a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-home-4.0.1_i386.iso.mirrorlist"><?php echo $lang['download-home-10']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.2.2/Parrot-home-4.2.2_i386.iso.mirrorlist"><?php echo $lang['download-home-10']; ?></a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-home-4.0.1_i386.iso.torrent"><?php echo $lang['download-home-11']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/4.2.2/Parrot-home-4.2.2_i386.iso.torrent"><?php echo $lang['download-home-11']; ?></a>
     						</div>
                 <div class="panel-footer">
-                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.0.1/signed-hashes.txt"><?php echo $lang['download-home-12']; ?></a>
+                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.2.2/signed-hashes.txt"><?php echo $lang['download-home-12']; ?></a>
     						</div>
     					</div>
             </div>
