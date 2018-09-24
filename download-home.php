@@ -23,7 +23,7 @@
                   <h3><?php echo $lang['download-home-5']; ?></h3>
                 </div>
                 <div class="panel-body text-center">
-                  <p class="lead" style="font-size:40px"><strong>64BIT</strong></p>
+                  <p class="lead" style="font-size:40px"><strong>64Bit</strong></p>
                 </div>
                 <ul class="list-group list-group-flush text-center">
     							<li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-home-6']; ?></li>
@@ -52,7 +52,7 @@
                   <h3><?php echo $lang['download-home-5']; ?></h3>
                 </div>
                 <div class="panel-body text-center">
-                  <p class="lead" style="font-size:40px"><strong>32BIT</strong></p>
+                  <p class="lead" style="font-size:40px"><strong>32Bit</strong></p>
                 </div>
                 <ul class="list-group list-group-flush text-center">
     							<li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-home-13']; ?></li>
