@@ -13,7 +13,7 @@
                 <h4><?php echo $lang['foot-10']; ?></h4>
                 <ul class="list-unstyled">
                     <li><a href="https://en.wikipedia.org/wiki/Parrot_Security_OS"><?php echo $lang['foot-5']; ?></a></li>
-                    <li><a href="https://distrowatch.com/table.php?distribution=parrotsecurity"><?php echo $lang['foot-6']; ?></a></li>
+                    <li><a href="https://distrowatch.com/parrot"><?php echo $lang['foot-6']; ?></a></li>
                     <li><a href="http://linux.softpedia.com/get/System/Operating-Systems/Linux-Distributions/Parrot-security-OS-102936.shtml"><?php echo $lang['foot-7']; ?></a></li>
                     <li><a href="https://wiki.debian.org/Derivatives/Census/ParrotSecurity"><?php echo $lang['foot-8']; ?></a></li>
                 </ul>
