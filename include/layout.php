@@ -71,6 +71,32 @@
                   </li>
               </ul>
               <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-globe"></i>&nbsp;<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <a href="?lang=en"><span class="flag-icon flag-icon-gb"></span>&nbsp;&nbsp;EN - English</a>
+                    </li>
+                    <li>
+                      <a href="?lang=it"><span class="flag-icon flag-icon-it"></span>&nbsp;&nbsp;IT - Italiano</a>
+                    </li>
+                    <li>
+                      <a href="?lang=uz"><span class="flag-icon flag-icon-ro"></span>&nbsp;&nbsp;UZ - Ozbekcha</a>
+                    </li>
+                    <li>
+                      <a href="?lang=ru"><span class="flag-icon flag-icon-ru"></span>&nbsp;&nbsp;RU - Русский</a>
+                    </li>
+                    <li>
+                      <a href="?lang=de"><span class="flag-icon flag-icon-de"></span>&nbsp;&nbsp;DE - Deutsch</a>
+                    </li>
+                    <li>
+                      <a href="?lang=fr"><span class="flag-icon flag-icon-fr"></span>&nbsp;&nbsp;FR - Français</a>
+                    </li>
+                    <li>
+                      <a href="?lang=ar"><span class="flag-icon flag-icon-arab"></span>&nbsp;&nbsp;AR - العربية</a>
+                    </li>
+                  </ul>
+                </li>
                   <li>
                       <a href="#" class="dropdown-toggle" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><?php echo $lang['nav-16']; ?><span class="caret"></span></a>
                       <ul class="dropdown-menu language-navbar" aria-labelledby="languageDropdown">
@@ -99,4 +125,14 @@
               </ul>
           </div>
       </div>
+<<<<<<< HEAD
+<<<<<<< HEAD
+  </nav>';
+
+  ?>
+=======
   </nav>
+>>>>>>> dev
+=======
+  </nav>
+>>>>>>> dev
