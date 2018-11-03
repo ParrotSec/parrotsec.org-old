@@ -55,7 +55,7 @@
                   </ul>
                   <div class="panel-footer">
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.2.2/Parrot-netinst-4.2.2_amd64.iso">netinstall amd64</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.orgparrot/iso/4.2.2/Parrot-netinst-4.2.2_i386.iso">netinstall i386</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.2.2/Parrot-netinst-4.2.2_i386.iso">netinstall i386</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-arm64/current/images/">netinstall arm64</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-armhf/current/images/">netinstall armhf</a><br>
                   </div>
