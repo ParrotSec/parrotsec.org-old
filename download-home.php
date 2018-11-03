@@ -32,16 +32,16 @@
                   <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-home-9'] . " " . PARROT_LITE_SIZE_64; ?></li>
     						</ul>
     						<div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $$CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo $$CONFIG_SYSTEM_VERSION; ?>_amd64.iso"><?php echo $lang['index-3']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo $CONFIG_SYSTEM_VERSION; ?>_amd64.iso"><?php echo $lang['index-3']; ?></a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $$CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo $$CONFIG_SYSTEM_VERSION; ?>_amd64.iso.mirrorlist"><?php echo $lang['download-home-10']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo $CONFIG_SYSTEM_VERSION; ?>_amd64.iso.mirrorlist"><?php echo $lang['download-home-10']; ?></a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $$CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo $$CONFIG_SYSTEM_VERSION; ?>_amd64.iso.torrent"><?php echo $lang['download-home-11']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo $CONFIG_SYSTEM_VERSION; ?>_amd64.iso.torrent"><?php echo $lang['download-home-11']; ?></a>
     						</div>
                 <div class="panel-footer">
-                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $$CONFIG_SYSTEM_VERSION; ?>/signed-hashes.txt"><?php echo $lang['download-home-12']; ?></a>
+                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $CONFIG_SYSTEM_VERSION; ?>/signed-hashes.txt"><?php echo $lang['download-home-12']; ?></a>
     						</div>
     					</div>
             </div>
@@ -61,16 +61,16 @@
                   <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-home-9'] . " " . PARROT_LITE_SIZE_32; ?></li>
     						</ul>
     						<div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $$CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo $$CONFIG_SYSTEM_VERSION; ?>_i386.iso"><?php echo $lang['index-3']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo $CONFIG_SYSTEM_VERSION; ?>_i386.iso"><?php echo $lang['index-3']; ?></a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $$CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo $$CONFIG_SYSTEM_VERSION; ?>_i386.iso.mirrorlist"><?php echo $lang['download-home-10']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo $CONFIG_SYSTEM_VERSION; ?>_i386.iso.mirrorlist"><?php echo $lang['download-home-10']; ?></a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $$CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo $$CONFIG_SYSTEM_VERSION; ?>_i386.iso.torrent"><?php echo $lang['download-home-11']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo $CONFIG_SYSTEM_VERSION; ?>_i386.iso.torrent"><?php echo $lang['download-home-11']; ?></a>
     						</div>
                 <div class="panel-footer">
-                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $$CONFIG_SYSTEM_VERSION; ?>/signed-hashes.txt"><?php echo $lang['download-home-12']; ?></a>
+                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $CONFIG_SYSTEM_VERSION; ?>/signed-hashes.txt"><?php echo $lang['download-home-12']; ?></a>
     						</div>
     					</div>
             </div>
