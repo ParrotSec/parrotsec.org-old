@@ -54,16 +54,39 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Always install the latest version of the system</li>
                   </ul>
                   <div class="panel-footer">
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.2.2/Parrot-netinst-4.2.2_amd64.iso">netinstall amd64</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.2.2/Parrot-netinst-4.2.2_i386.iso">netinstall i386</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.3/Parrot-netinst-4.3_amd64.iso">netinstall amd64</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.3/Parrot-netinst-4.3_i386.iso">netinstall i386</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-arm64/current/images/">netinstall arm64</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-armhf/current/images/">netinstall armhf</a><br>
                   </div>
                 </div>
               </div>
 
+              <div class="col-lg-4 col-md-4 text-center">
+                <div class="panel download panel-blue">
+                  <div class="panel-heading arrow_box text-center">
+                    <h3>Parrot Variant</h3>
+                  </div>
+                  <div class="panel-body text-center">
+                    <p class="lead" style="font-size:40px">KDE Plasma Edition</p>
+                  </div>
+                  <ul class="list-group list-group-flush text-center">
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: KDE Plasma</li>
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid</li>
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 1.7GB</li>
+                  </ul>
+                  <div class="panel-footer">
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.3/Parrot-variant-kde-4.3_amd64.iso">Download</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.3/Parrot-variant-kde-4.3_amd64.iso.mirrorlist">Mirrors</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.3/Parrot-all-4.3.torrent">Torrent</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.3/signed-hashes.txt">Signed Hashes</a><br>
+                  </div>
+                </div>
+              </div
 
             </div>
+
+
             <div class="row">
 
               <div class="col-lg-4 col-md-4 text-center">

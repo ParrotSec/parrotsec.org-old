@@ -34,7 +34,7 @@
     							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso.mirrorlist"><?php echo $lang['download-security-9']; ?></a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso.torrent"><?php echo $lang['download-security-10']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-all-<?php echo CONFIG_SYSTEM_VERSION; ?>.torrent"><?php echo $lang['download-security-10']; ?></a>
     						</div>
                 <div class="panel-footer">
                   <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/signed-hashes.txt"><?php echo $lang['download-security-11']; ?></a>
@@ -63,7 +63,7 @@
     							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_i386.iso.mirrorlist"><?php echo $lang['download-security-9']; ?></a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_i386.iso.torrent"><?php echo $lang['download-security-10']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-all-<?php echo CONFIG_SYSTEM_VERSION; ?>.torrent"><?php echo $lang['download-security-10']; ?></a>
     						</div>
                 <div class="panel-footer">
                   <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/signed-hashes.txt"><?php echo $lang['download-security-11']; ?></a>
