@@ -102,7 +102,7 @@
                       <ul class="dropdown-menu language-navbar" aria-labelledby="languageDropdown">
                           <?php
                             foreach($languages as $key => $value) {
-                                $link = 'https://' . $_SERVER[HTTP_HOST] . $_SERVER[REQUEST_URI];
+                                $link = 'https://' . 'parrotsec.org/' . $_SERVER['REQUEST_URI'];
                                 if(!strpos($link, "?lang="))
                                     $final_link = "$link?lang=$key";
                                 else {
