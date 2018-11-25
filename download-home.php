@@ -17,7 +17,7 @@
             </div>
             <div class="row">
 
-            <div class="col-lg-3 col-md-3 col-md-offset-2 col-lg-offset-2 text-center">
+            <div class="col-lg-4 col-md-4 text-center">
               <div class="panel download panel-blue">
                 <div class="panel-heading arrow_box text-center">
                   <h3><?php echo $lang['download-home-5']; ?></h3>
@@ -47,7 +47,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-md-offset-2 col-lg-offset-2 text-center">
+            <div class="col-lg-4 col-md-4 text-center">
               <div class="panel download panel-blue">
                 <div class="panel-heading arrow_box text-center">
                   <h3><?php echo $lang['download-home-5']; ?></h3>
