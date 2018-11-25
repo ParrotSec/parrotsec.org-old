@@ -86,6 +86,7 @@
                   </div>
                   <ul class="list-group list-group-flush text-center">
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: KDE Plasma</li>
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>Security Tools: only essential</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 2.4 GB</li>
                   </ul>
