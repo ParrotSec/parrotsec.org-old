@@ -82,7 +82,7 @@
                     <h3>Parrot Variant</h3>
                   </div>
                   <div class="panel-body text-center">
-                    <p class="lead" style="font-size:40px">KDE Plasma Edition</p>
+                    <p class="lead" style="font-size:40px">KDE Plasma</p>
                   </div>
                   <ul class="list-group list-group-flush text-center">
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: KDE Plasma</li>
