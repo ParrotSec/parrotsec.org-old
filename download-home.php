@@ -91,9 +91,9 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 2.4 GB</li>
                   </ul>
                   <div class="panel-footer">
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.4/Parrot-variant-kde-4.4_amd64.iso">Download</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.4/Parrot-variant-kde-4.4_amd64.iso.mirrorlist">Mirrors</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.4/Parrot-variant-kde-4.4_amd64.iso.torrent">Torrent</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.4/Parrot-kde-4.4_amd64.iso">Download</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.4/Parrot-kde-4.4_amd64.iso.mirrorlist">Mirrors</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.4/Parrot-kde-4.4_amd64.iso.torrent">Torrent</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.4/signed-hashes.txt">Signed Hashes</a><br>
                   </div>
                 </div>
