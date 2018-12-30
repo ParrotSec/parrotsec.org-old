@@ -61,7 +61,7 @@
                       <a class="page-scroll" href="https://docs.parrotsec.org/partners"><?php echo $lang['nav-8']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org/developers"><?php echo $lang['nav-9']; ?></a>
+                      <a class="page-scroll" href="/docs/team"><?php echo $lang['nav-9']; ?></a>
                   </li>
                   <li>
                       <a class="page-scroll" href="https://docs.parrotsec.org/donate"><?php echo $lang['nav-10']; ?></a>
