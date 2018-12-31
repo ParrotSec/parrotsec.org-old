@@ -43,7 +43,7 @@
           <div class="navbar-collapse collapse" id="bs-navbar">
               <ul class="nav navbar-nav">
                   <li class="dropdown">
-                  <a href="/download.php" class="dropdown-toggle" data-toggle="dropdown"><?php echo $lang['nav-3']; ?></a>
+                  <a href="/download.php" class="dropdown-toggle" data-toggle="dropdown"><?php echo $lang['nav-3']; ?><span class="caret"></span></a>
                   <ul class="dropdown-menu">
                     <li>
                       <a class="page-scroll" href="/download-home.php">Home Edition</a>
