@@ -42,61 +42,49 @@
           </div>
           <div class="navbar-collapse collapse" id="bs-navbar">
               <ul class="nav navbar-nav">
-                  <li>
-                      <a class="page-scroll" href="/download.php"><?php echo $lang['nav-3']; ?></a>
-                  </li>
-                  <li>
-                      <a class="page-scroll" href="https://blog.parrotsec.org"><?php echo $lang['nav-4']; ?></a>
-                  </li>
-                  <li>
-                      <a class="page-scroll" href="https://parrotsec.org/docs/"><?php echo $lang['nav-5']; ?></a>
-                  </li>
-                  <li>
-                      <a class="page-scroll" href="https://dev.parrotsec.org" target="_blank"><?php echo $lang['nav-6']; ?></a>
-                  </li>
-                  <li>
-                      <a class="page-scroll" href="https://parrotsec.org/docs/community/"><?php echo $lang['nav-7']; ?></a>
-                  </li>
-                  <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org/partners"><?php echo $lang['nav-8']; ?></a>
-                  </li>
-                  <li>
-                      <a class="page-scroll" href="/docs/team"><?php echo $lang['nav-9']; ?></a>
-                  </li>
-                  <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org/donate"><?php echo $lang['nav-10']; ?></a>
-                  </li>
-                  <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org/FAQ"><?php echo $lang['nav-11']; ?></a>
-                  </li>
-              </ul>
-              <ul class="nav navbar-nav navbar-right">
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-globe"></i>&nbsp;<b class="caret"></b></a>
+                  <li class="dropdown">
+                  <a href="/download.php" class="dropdown-toggle" data-toggle="dropdown"><?php echo $lang['nav-3']; ?></a>
                   <ul class="dropdown-menu">
                     <li>
                       <a href="?lang=en"><span class="flag-icon flag-icon-gb"></span>&nbsp;&nbsp;EN - English</a>
                     </li>
                     <li>
-                      <a href="?lang=it"><span class="flag-icon flag-icon-it"></span>&nbsp;&nbsp;IT - Italiano</a>
-                    </li>
-                    <li>
-                      <a href="?lang=uz"><span class="flag-icon flag-icon-ro"></span>&nbsp;&nbsp;UZ - Ozbekcha</a>
-                    </li>
-                    <li>
-                      <a href="?lang=ru"><span class="flag-icon flag-icon-ru"></span>&nbsp;&nbsp;RU - Русский</a>
-                    </li>
-                    <li>
-                      <a href="?lang=de"><span class="flag-icon flag-icon-de"></span>&nbsp;&nbsp;DE - Deutsch</a>
-                    </li>
-                    <li>
-                      <a href="?lang=fr"><span class="flag-icon flag-icon-fr"></span>&nbsp;&nbsp;FR - Français</a>
-                    </li>
-                    <li>
-                      <a href="?lang=ar"><span class="flag-icon flag-icon-arab"></span>&nbsp;&nbsp;AR - العربية</a>
-                    </li>
+                      <a class="page-scroll" href="/download-home.php">Home Edition</a>
+                  	</li>
+                  	<li>
+                      <a class="page-scroll" href="/download-security.php">Security Edition</a>
+                  	</li>
+                  	<li>
+                      <a class="page-scroll" href="/download-other.php">Other Builds</a>
+                  	</li>
                   </ul>
                 </li>
+                  <li>
+                      <a class="page-scroll" href="/blog/"><?php echo $lang['nav-4']; ?></a>
+                  </li>
+                  <li>
+                      <a class="page-scroll" href="/docs/"><?php echo $lang['nav-5']; ?></a>
+                  </li>
+                  <li>
+                      <a class="page-scroll" href="https://dev.parrotsec.org" target="_blank"><?php echo $lang['nav-6']; ?></a>
+                  </li>
+                  <li>
+                      <a class="page-scroll" href="/docs/community/"><?php echo $lang['nav-7']; ?></a>
+                  </li>
+                  <li>
+                      <a class="page-scroll" href="/docs/partners"><?php echo $lang['nav-8']; ?></a>
+                  </li>
+                  <li>
+                      <a class="page-scroll" href="/docs/team"><?php echo $lang['nav-9']; ?></a>
+                  </li>
+                  <li>
+                      <a class="page-scroll" href="/docs/donate"><?php echo $lang['nav-10']; ?></a>
+                  </li>
+                  <li>
+                      <a class="page-scroll" href="/docs/faq"><?php echo $lang['nav-11']; ?></a>
+                  </li>
+              </ul>
+              <ul class="nav navbar-nav navbar-right">
                   <li>
                       <a href="#" class="dropdown-toggle" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><?php echo $lang['nav-16']; ?><span class="caret"></span></a>
                       <ul class="dropdown-menu language-navbar" aria-labelledby="languageDropdown">
