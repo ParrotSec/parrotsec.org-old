@@ -46,9 +46,6 @@
                   <a href="/download.php" class="dropdown-toggle" data-toggle="dropdown"><?php echo $lang['nav-3']; ?></a>
                   <ul class="dropdown-menu">
                     <li>
-                      <a href="?lang=en"><span class="flag-icon flag-icon-gb"></span>&nbsp;&nbsp;EN - English</a>
-                    </li>
-                    <li>
                       <a class="page-scroll" href="/download-home.php">Home Edition</a>
                   	</li>
                   	<li>
@@ -57,6 +54,9 @@
                   	<li>
                       <a class="page-scroll" href="/download-other.php">Other Builds</a>
                   	</li>
+                  	<li>
+                      <a href="/download.php"><span class="flag-icon flag-icon-gb"></span>Comparison page</a>
+                    </li>
                   </ul>
                 </li>
                   <li>
