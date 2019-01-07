@@ -66,7 +66,7 @@
                       <a class="page-scroll" href="/docs/"><?php echo $lang['nav-5']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://dev.parrotsec.org" target="_blank"><?php echo $lang['nav-6']; ?></a>
+                      <a class="page-scroll" href="https://nest.parrotsec.org" target="_blank"><?php echo $lang['nav-6']; ?></a>
                   </li>
                   <li>
                       <a class="page-scroll" href="/docs/community/"><?php echo $lang['nav-7']; ?></a>
