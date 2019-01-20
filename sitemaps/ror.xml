@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://www.parrotsec.org/</title>
+  <link>https://www.parrotsec.org/</link>
+
+<item>
+     <link>https://www.parrotsec.org/</link>
+     <title>Parrot Project - The best choice for security experts, developers and crypto-addicted people.</title>
+     <description>Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/index.php</link>
+     <title>Parrot Project - The best choice for security experts, developers and crypto-addicted people.</title>
+     <description>Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/download.php</link>
+     <title>Parrot Project - The best choice for security experts, developers and crypto-addicted people.</title>
+     <description>Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/download-home.php</link>
+     <title>Parrot Project - The best choice for security experts, developers and crypto-addicted people.</title>
+     <description>Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/download-security.php</link>
+     <title>Parrot Project - The best choice for security experts, developers and crypto-addicted people.</title>
+     <description>Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/download-other.php</link>
+     <title>Parrot Project - The best choice for security experts, developers and crypto-addicted people.</title>
+     <description>Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/</link>
+     <title>Parrot Project Blog</title>
+     <description>Parrot Project Blog</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/</link>
+     <title>Parrot Documentation</title>
+     <description>None</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/community/</link>
+     <title>Community - Parrot Documentation</title>
+     <description>Community - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/the-parrot-cdn/</link>
+     <title>The Parrot CDN</title>
+     <description>the Parrot CDNHello mates, we are proud to announce the release of our dedicated CDN (Content Delivery Network)</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-needs-your-help-to-scale-out/</link>
+     <title>Parrot OS needs your help to scale out!</title>
+     <description>      It seems like every day now that you receive an email from your favorite startup, notifying you that their product has just been launched, where it wil...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-4-4-release-notes/</link>
+     <title>Parrot 4.4 Release Notes</title>
+     <description>Parrot 4.4 Release Notes</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-4-3-release-notes/</link>
+     <title>Parrot 4.3 Release Notes</title>
+     <description>Parrot 4.3 is now available for download.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-4-2-release-notes/</link>
+     <title>Parrot 4.2.2 release notes</title>
+     <description>We are proud to announce the release of Parrot 4.2.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-4-2-beta/</link>
+     <title>Parrot 4.2 beta</title>
+     <description>Parrot 4.2 is almost ready</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-4-0-release-notes/</link>
+     <title>Parrot 4.0 release notes</title>
+     <description>Parrot 4.0 is now available for download.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-3-11-release-notes/</link>
+     <title>Parrot 3.11 release notes</title>
+     <description>Parrot 3.11 is now available for download.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/meltdown-spectre-security-patches/</link>
+     <title>meltdown/spectre security patches</title>
+     <description>Meltdown and Spectre exploit critical vulnerabilities in modern processors. These hardware vulnerabilities allow programs to steal data which is currently pr...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-3-10-is-out/</link>
+     <title>Parrot 3.10 is out</title>
+     <description>We are proud to announce the release of Parrot 3.10, the latest version of our security oriented GNU/Linux distribution.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/firefox-57-lands-on-parrot/</link>
+     <title>Firefox 57 lands on Parrot</title>
+     <description>We are proud to announce the release of Firefox 57 in our stable branch.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/apt-1-6-with-seccomp-support/</link>
+     <title>Apt 1.6 with seccomp support</title>
+     <description>Julian Andres Klode has recently released a new version of APT, the advanced debian package manager, with some interesting new features.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-3-9-release-notes/</link>
+     <title>Parrot 3.9 release notes</title>
+     <description>Parrot 3.9 is now ready, and it includes some important new features that were introduced to make the system more secure and reliable.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-3-9-call-for-beta-testers/</link>
+     <title>Parrot 3.9 &amp;amp;#8211; Call for beta testers</title>
+     <description>      The first Release Candidate images are ready to be downloaded by you.          Yes, you!          We did our best to prepare these preview images inclu...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/psa-wpa2-key-reinstallation-attack-fix-released/</link>
+     <title>PSA: WPA2 Key Reinstallation Attack fix released</title>
+     <description>Parrot Security Advisory:</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/linux-day-2017-palermo-and-rome-italy/</link>
+     <title>Linux Day 2017 Palermo and Rome, Italy</title>
+     <description>We are proud to announce that the Parrot Project will officially join the Italian Linux Day in Rome and Palermo</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-3-8-release-notes/</link>
+     <title>Parrot 3.8 Release Notes</title>
+     <description>What i personally love about this project is its little but awesome developers community, and this summer was more productive than ever.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/vote-parrot-as-the-new-featured-project-on-sourceforge/</link>
+     <title>Vote Parrot as the new featured project on SourceForge</title>
+     <description>SourceForge, one of the biggest open source hosting platforms has a list of featured projects on its homepage.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-at-open-source-india-2017-13-14-october/</link>
+     <title>Parrot at Open Source India 2017 (13-14 October)</title>
+     <description>One of our project ambassadors will attend the Open Source India 2017 conference.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-now-hosting-the-rachel-archive/</link>
+     <title>Parrot now hosting the RACHEL Archive</title>
+     <description>Hello Parrots, we have put together a little collection of open source books about software development, IT security and computer engineering</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-3-7-release-notes/</link>
+     <title>Parrot 3.7 Release Notes</title>
+     <description>Take a Debian core and configure it to be lightweight with a classic but complete desktop environment, put a beautiful dark theme on it and modify it to have...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-3-7-release-date/</link>
+     <title>Parrot 3.7 release date</title>
+     <description>We are ready to release new updated system images for Parrot 3.7.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/no-internet-connection-when-upgrading-to-parrot-3-7/</link>
+     <title>No internet connection when upgrading to parrot 3.7</title>
+     <description>Parrot 3.7 introduces many significant changes to the core of the system, first of all it is based on debian 10 (the new testing branch) and we have noticed ...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/fix-file-manager-background-color/</link>
+     <title>Fix file manager background color</title>
+     <description>Some recent updates to our parrot themes are causing an old dconf setting to be activated, here a quick tip to restore the background color used by the theme.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/debian-and-devuan/</link>
+     <title>Debian and Devuan</title>
+     <description>Debian and Devuan</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-3-6-is-here/</link>
+     <title>Parrot 3.6 is here</title>
+     <description>After some months of hard work we were finally able to release Parrot 3.6.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/welcome-to-our-new-parrot-mirror-director/</link>
+     <title>Welcome to our new Parrot Mirror Director</title>
+     <description>How many of you have noticed that your sources.list was automatically switched to mirrordirector.archive.parrotsec.org and the system upgrades were taken fro...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-security-installfest-thessaloniki-greece-april-8th-2017/</link>
+     <title>Parrot security installfest, Thessaloniki-Greece, April 8th, 2017</title>
+     <description>Parrot security installfest, Thessaloniki-Greece, April 8th, 2017</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-3-5-is-here/</link>
+     <title>Parrot 3.5 is here</title>
+     <description>Hello Parrots, Palinuro here.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/reconfigure-mysql-mariadb-or-postgresql-passwords/</link>
+     <title>reconfigure mysql, mariadb or postgresql passwords</title>
+     <description>Introduction {#introduction.sectionedit1}</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-3-5-release-date/</link>
+     <title>Parrot 3.5 release date</title>
+     <description>Our development process is almost finished and Parrot 3.5 is ready to be released, the final system images will be released in March 8 2017.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-3-5-call-for-betatesters/</link>
+     <title>Parrot 3.5 &amp;amp;#8211; Call For Betatesters</title>
+     <description>Now it’s your turn!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/including-arm64-support/</link>
+     <title>including arm64 support</title>
+     <description>Hello parrots, now we officially support the arm64 (aarch64) architecture, it will be heavily tested in these days.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-3-4-released/</link>
+     <title>Parrot 3.4 released</title>
+     <description>Parrot 3.4.1 was released.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-3-3-released/</link>
+     <title>Parrot 3.3 released</title>
+     <description>We are sorry for all the silence behind our development process of these days, but we were secretly working on 2 main projects, the perfect plan to conquer t...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-project-constitution/</link>
+     <title>Parrot Project Constitution</title>
+     <description>  Hello everyone, as you may know, our development group has a very informal structure which works pretty well on smaller communities, but this model introdu...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/linux-4-8-11-released/</link>
+     <title>Linux 4.8.11 released</title>
+     <description>our kernel team is proud to announce the the release of our new linux kernel 4.8.11, while testing builds of linux 4.9 will be available soon</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/pentesting-course-in-bari-italy-28112016/</link>
+     <title>[done] Pentesting Course in Bari, Italy &amp;amp;#8211; 28/11/2016</title>
+     <description>                                                        Official Link                                                  Subscription Module                   ...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/pentesting-dojo-in-bari-italy-29112016/</link>
+     <title>[done] Pentesting Dojo in Bari, Italy &amp;amp;#8211; 29/11/2016</title>
+     <description>                                                        Official Link                                                  Subscription Module                   ...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/community-tips-use-the-parrot-alternate-installer/</link>
+     <title>[Community tips] Use the Parrot Alternate Installer</title>
+     <description>  We all want that nice little prompt of a reverse shell. Which requires a dedicated IP or a host that doesn’t filtered a lot custom ports that we define.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/open-lab-in-rome-07112016/</link>
+     <title>[done] Open Lab in Rome &amp;amp;#8211; 07/11/2016</title>
+     <description>Hello parrots, we are happy to announce a new event in Rome, Italy.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/ambassadors-program-started/</link>
+     <title>Ambassadors program started</title>
+     <description>We at Parrot Project have finally decided to start an Ambassadors Program to give our users the possibility to distinguish theireslves from the community and...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/new-linux-4-7-6-kernel-released/</link>
+     <title>New linux 4.7.6 kernel released</title>
+     <description>Linux 4.7.6 is now our default kernel, it fixes some security bugs and comes with some improvements</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/how-to-compile-a-custom-parrot-kernel/</link>
+     <title>How to compile a custom parrot kernel</title>
+     <description>Want to create a custom kernel by compiling the source code of the parrot linux kernel?</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-servers-map/</link>
+     <title>Parrot Servers Map</title>
+     <description>We at Parrot Security have created a map of all our mirror servers, it is not geographically precise because of the high density of servers in some areas, bu...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-3-2-released/</link>
+     <title>Parrot 3.2 released</title>
+     <description>We have finished all the work on Parrot 3.2 and we are now proud to announce its official release.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/new-website-released/</link>
+     <title>New website released</title>
+     <description>We have recently rewritten our website from scratch, it uses the MDL (Material Design Lite) library and it is designed to correctly integrate this blog and o...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/pentesting-dojo-in-palermo/</link>
+     <title>[done] Pentesting Dojo in Palermo</title>
+     <description>Hello everyone, we are organizing a Pentesting Dojo here in Palermo (Italy).</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/parrot-development-notes-0/</link>
+     <title>Parrot Development Notes #0</title>
+     <description>Hi, Palinuro here.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/blog/welcome-aboard/</link>
+     <title>Welcome aboard</title>
+     <description>Hi, It’s Palinuro from parrosec here, i’m happy to announce the new blog of our project</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/.</link>
+     <title>Parrot Documentation</title>
+     <description>None</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/intro/what-is-parrot/</link>
+     <title>What is Parrot? - Parrot Documentation</title>
+     <description>What is Parrot? - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/intro/should-i-use-parrot/</link>
+     <title>Should I use Parrot? - Parrot Documentation</title>
+     <description>Should I use Parrot? - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/getting-started/download/</link>
+     <title>Where to Download - Parrot Documentation</title>
+     <description>Where to Download - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/getting-started/create-boot-device/</link>
+     <title>Create Boot Device - Parrot Documentation</title>
+     <description>Create Boot Device - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/getting-started/what-is-live-mode/</link>
+     <title>What is live mode - Parrot Documentation</title>
+     <description>What is live mode - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/getting-started/how-to-boot/</link>
+     <title>How To Boot - Parrot Documentation</title>
+     <description>How To Boot - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/getting-started/use-parrot/</link>
+     <title>Use Parrot - Parrot Documentation</title>
+     <description>Use Parrot - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/getting-started/install-parrot/</link>
+     <title>Install Parrot - Parrot Documentation</title>
+     <description>Install Parrot - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/mirror-list/</link>
+     <title>Mirror list - Parrot Documentation</title>
+     <description>Mirror list - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/team/</link>
+     <title>The Parrot Team - Parrot Documentation</title>
+     <description>The Parrot Team - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/partners/</link>
+     <title>Project Partners - Parrot Documentation</title>
+     <description>Project Partners - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/warrant-canary/</link>
+     <title>Warrant Canary - Parrot Documentation</title>
+     <description>Warrant Canary - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/donate/</link>
+     <title>Donate - Parrot Documentation</title>
+     <description>Donate - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.parrotsec.org/docs/faq/</link>
+     <title>F.A.Q. - Parrot Documentation</title>
+     <description>F.A.Q. - Parrot Documentation</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
