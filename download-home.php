@@ -20,16 +20,16 @@
             <div class="col-lg-4 col-md-4 text-center">
               <div class="panel download panel-blue">
                 <div class="panel-heading arrow_box text-center">
-                  <h3><?php echo $lang['download-home-5']; ?></h3>
+                  <h3>Live+Installer ISO</h3>
                 </div>
                 <div class="panel-body text-center">
-                  <p class="lead" style="font-size:40px"><strong>64Bit</strong></p>
+                  <p class="lead" style="font-size:40px"><strong>Home Edition</strong></p>
                 </div>
                 <ul class="list-group list-group-flush text-center">
-    			  <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-home-6']; ?></li>
-                  <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-home-7']; ?></li>
-                  <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-home-8']; ?></li>
-                  <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-home-9'] . " " . PARROT_LITE_SIZE_64; ?></li>
+    			  <li class="list-group-item"><i class="icon-ok text-info"></i>For standard computers</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: MATE</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid (iso9660)</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 1.9GB</li>
     						</ul>
     						<div class="panel-footer">
     							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso"><?php echo $lang['index-3']; ?></a>
@@ -50,25 +50,25 @@
             <div class="col-lg-4 col-md-4 text-center">
               <div class="panel download panel-blue">
                 <div class="panel-heading arrow_box text-center">
-                  <h3><?php echo $lang['download-home-5']; ?></h3>
+                  <h3>Virtual Appliance</h3>
                 </div>
                 <div class="panel-body text-center">
-                  <p class="lead" style="font-size:40px"><strong>32Bit</strong></p>
+                  <p class="lead" style="font-size:40px"><strong>Home Edition</strong></p>
                 </div>
                 <ul class="list-group list-group-flush text-center">
-    							<li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-home-13']; ?></li>
-                  <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-home-7']; ?></li>
-                  <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-home-8']; ?></li>
-                  <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-home-9'] . " " . PARROT_LITE_SIZE_32; ?></li>
+    							<li class="list-group-item"><i class="icon-ok text-info"></i>For virtual machines</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: MATE</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Format: OVA Open Virtualization Format</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 2.5GB</li>
     						</ul>
     						<div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo CONFIG_SYSTEM_VERSION; ?>_i386.iso"><?php echo $lang['index-3']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo CONFIG_SYSTEM_VERSION; ?>_virtual.ova"><?php echo $lang['index-3']; ?></a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo CONFIG_SYSTEM_VERSION; ?>_i386.iso.mirrorlist"><?php echo $lang['download-home-10']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo CONFIG_SYSTEM_VERSION; ?>_virtual.ova.mirrorlist"><?php echo $lang['download-home-10']; ?></a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo CONFIG_SYSTEM_VERSION; ?>_i386.iso.torrent"><?php echo $lang['download-home-11']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo CONFIG_SYSTEM_VERSION; ?>_virtual.ova.torrent"><?php echo $lang['download-home-11']; ?></a>
     						</div>
                 <div class="panel-footer">
                   <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/signed-hashes.txt"><?php echo $lang['download-home-12']; ?></a>
@@ -79,22 +79,22 @@
             <div class="col-lg-4 col-md-4 text-center">
                 <div class="panel download panel-blue">
                   <div class="panel-heading arrow_box text-center">
-                    <h3>Parrot Variant</h3>
+                    <h3>Live+Installer ISO</h3>
                   </div>
                   <div class="panel-body text-center">
-                    <p class="lead" style="font-size:40px">KDE Plasma</p>
+                    <p class="lead" style="font-size:40px">KDE Plasma Home edition</p>
                   </div>
                   <ul class="list-group list-group-flush text-center">
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>For powerful and modern computers</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: KDE Plasma</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>Security Tools: only essential</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 2.4 GB</li>
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 2.0GB</li>
                   </ul>
                   <div class="panel-footer">
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.4/Parrot-kde-4.4_amd64.iso">Download</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.4/Parrot-kde-4.4_amd64.iso.mirrorlist">Mirrors</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.4/Parrot-kde-4.4_amd64.iso.torrent">Torrent</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.4/signed-hashes.txt">Signed Hashes</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso">Download</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso.mirrorlist">Mirrors</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso.torrent">Torrent</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/signed-hashes.txt">Signed Hashes</a><br>
                   </div>
                 </div>
               </div>

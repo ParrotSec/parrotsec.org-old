@@ -29,8 +29,8 @@
         </div>
         <br/>
         <div class="blue-triangular-division wow slideInDown"></div>
-          <p class="text-center">© Lorenzo Faletra 2013-2018 Some Rights Reserved</span> - <a target="_blank" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPL v3</a></p>
-          <p class="text-center">Proudly Powered in Sicily!</p>
+          <p class="text-center">© Lorenzo Faletra 2013-2019 Some Rights Reserved</span> - <a target="_blank" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPL v3</a></p>
+          <p class="text-center">Proudly Powered in Sicily with a huge amount of caffeine!</p>
         </div>
     </div>
 </footer>

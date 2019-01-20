@@ -35,7 +35,7 @@
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/parrot-core/">Core</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/parrot/">Security</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/metasploit/">Metasploit</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://dev.parrotsec.org/parrot/docker-images/">source code</a>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://nest.parrotsec.org/parrot-build/docker-images/">source code</a>
                   </div>
                 </div>
               </div>
@@ -54,8 +54,8 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Always install the latest version of the system</li>
                   </ul>
                   <div class="panel-footer">
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.4/Parrot-netinst-gtk-4.4_amd64.iso">netinstall amd64</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.4/Parrot-netinst-gtk-4.4_i386.iso">netinstall i386</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.5/Parrot-netinst-gtk-4.5_amd64.iso">netinstall amd64</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.5/Parrot-netinst-gtk-4.5_i386.iso">netinstall i386</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-arm64/current/images/">netinstall arm64</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-armhf/current/images/">netinstall armhf</a><br>
                   </div>
