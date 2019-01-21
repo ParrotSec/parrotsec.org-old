@@ -104,11 +104,11 @@
                           ?>
                       </ul>
                 </li>
-                <li><a class="page-scroll" href="https://dev.parrotsec.org/parrot/parrotsec.org" target="_blank" id="nav-15"></a></li>
+                <li><a class="page-scroll" href="https://nest.parrotsec.org/parrot-organization/parrotsec.org" target="_blank" id="nav-15"></a></li>
               </ul>
               <ul class="nav navbar-nav navbar-right">
                   <li>
-                      <a class="page-scroll" href="https://dev.parrotsec.org/parrot/parrotsec.org" target="_blank"><?php echo $lang['nav-12']; ?></a>
+                      <a class="page-scroll" href="https://nest.parrotsec.org/parrot-organization/parrotsec.org" target="_blank"><?php echo $lang['nav-12']; ?></a>
                   </li>
               </ul>
           </div>
