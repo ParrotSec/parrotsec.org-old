@@ -29,7 +29,7 @@
     			  <li class="list-group-item"><i class="icon-ok text-info"></i>For standard computers</li>
                   <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: MATE</li>
                   <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid (iso9660)</li>
-                  <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 1.9GB</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 1.75GB</li>
     						</ul>
     						<div class="panel-footer">
     							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso"><?php echo $lang['index-3']; ?></a>
@@ -59,7 +59,7 @@
     							<li class="list-group-item"><i class="icon-ok text-info"></i>For virtual machines</li>
                   <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: MATE</li>
                   <li class="list-group-item"><i class="icon-ok text-info"></i>Format: OVA Open Virtualization Format</li>
-                  <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 2.5GB</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 2.9GB</li>
     						</ul>
     						<div class="panel-footer">
     							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo CONFIG_SYSTEM_VERSION; ?>_virtual.ova"><?php echo $lang['index-3']; ?></a>
@@ -88,7 +88,7 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i>For powerful and modern computers</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: KDE Plasma</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 2.0GB</li>
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 1.9GB</li>
                   </ul>
                   <div class="panel-footer">
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso">Download</a><br>
