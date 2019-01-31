@@ -12,7 +12,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 text-center wow fadeInLeft">
                     <div class="feature">
-                        <img src="img/logo.jpg" width="60" height="60" />
+                        <img data-src="img/logo.jpg" width="60" height="60" />
                         <h3><?php echo $lang['download-2']; ?></h3>
                         <p class="text-muted"><?php echo $lang['download-3']; ?></p>
                     </div>
@@ -20,7 +20,7 @@
                 </div>
                 <div class="col-lg-4 col-md-4 text-center wow fadeInUp">
                     <div class="feature">
-                        <img src="img/workstation.png" width="60" height="60" />
+                        <img data-src="img/workstation.png" width="60" height="60" />
                         <h3><?php echo $lang['download-4']; ?></h3>
                         <p class="text-muted"><?php echo $lang['download-5']; ?></p>
                     </div>
@@ -28,7 +28,7 @@
                 </div>
                 <div class="col-lg-4 col-md-4 text-center wow fadeInRight">
                     <div class="feature">
-                        <img src="img/iot.png" width="55" height="55" />
+                        <img data-src="img/iot.png" width="55" height="55" />
                         <h3><?php echo $lang['download-6']; ?></h3>
                         <p class="text-muted"><?php echo $lang['download-7']; ?></p>
                     </div>

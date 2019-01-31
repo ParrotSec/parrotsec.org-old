@@ -53,5 +53,15 @@
 <script src="js/jquery.easing.min.js"></script>
 <script src="js/wow.js"></script>
 <script src="js/scripts.js"></script>
+<script>
+window.addEventListener('load', function(){
+    var allimages= document.getElementsByTagName('img');
+    for (var i=0; i<allimages.length; i++) {
+        if (allimages[i].getAttribute('data-src')) {
+            allimages[i].setAttribute('src', allimages[i].getAttribute('data-src'));
+        }
+    }
+}, false)
+</script>
 	</body>
 </html>

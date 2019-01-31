@@ -9,7 +9,7 @@
                     <p class="text-faded  wow fadeInRight"><?php echo $lang['download-security-2']; ?></p>
                     <p class="text-faded  wow fadeInUp"><?php echo $lang['download-security-3']; ?></p>
                 </div>
-                <div class="col-lg-6 text-center"><p><img width="400px" src="/img/menu-full.jpg"/></p></div>
+                <div class="col-lg-6 text-center"><p><img width="400px" data-src="/img/menu-full.jpg"/></p></div>
             </div><br/><br/><br/>
             <div class="row">
 
