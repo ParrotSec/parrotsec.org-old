@@ -16,14 +16,36 @@
   <meta property="og:image"       content="https://www.parrotsec.org/img/facebook-preview.png" />
   <meta property="og:description" content="Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools." />
   <meta property="fb:app_id"      content="">
-  <link rel="stylesheet" href="css/bootstrap.min.css" />
-  <link rel="stylesheet" href="css/animate.min.css" />
-  <link rel="stylesheet" href="css/ionicons.min.css" />
-  <link rel="stylesheet" href="css/features-table.css" />
-  <link rel="stylesheet" href="css/panel-download.css" />
-  <link rel="stylesheet" href="css/font-awesome.min.css">
-  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/unified.min.css" />
   <link rel="icon" href="img/logo.png" type="image/png" />
+  <style>
+  #features-table {
+	padding: 100px 0;
+}
+#features-table h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    color: #fff;
+    text-align: center;
+}
+#features-table table{
+	max-width:1200px;
+	margin: 0 auto;
+}
+
+.tabco1 {
+  background: #222;
+  width: 40%;
+  padding: 10px !important;
+}
+th.tabco1 {
+	background: #222;
+	padding: 32px 10px !important;
+	font-size: 18px;
+	color: #fff;
+}
+</style>
 </head>
 
 <body>
