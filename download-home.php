@@ -12,7 +12,7 @@
                     </p>
                 </div>
                 <div class="col-lg-6 text-center">
-                    <p><img width="400" data-src="img/desktop.jpg"/></p>
+                    <p><img width="400" class="lazy" data-src="img/desktop.jpg"/></p>
                 </div><br/><br/><br/>
             </div>
             <div class="row">

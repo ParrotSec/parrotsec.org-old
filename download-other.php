@@ -12,7 +12,7 @@
                     </p>
                 </div>
                 <div class="col-lg-6 text-center">
-                    <p><img class="rounded mx-auto d-block float-left" style="width:500px" data-src="img/arm-soc.jpg" /></p>
+                    <p><img class="rounded mx-auto d-block float-left lazy" style="width:500px" data-src="img/arm-soc.jpg" /></p>
                 </div><br/><br/><br/>
             </div>
             <div class="row">
