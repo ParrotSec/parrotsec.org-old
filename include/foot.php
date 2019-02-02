@@ -125,7 +125,7 @@
     processScroll();
     addEventListener('scroll',processScroll);
 
-}(this);​
+}(this);
 </script>
 <script>
 (function($) {
