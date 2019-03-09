@@ -4,9 +4,9 @@
             <div class="col-xs-6 col-sm-3 column">
                 <h4><?php echo $lang['foot-9']; ?></h4>
                 <ul class="list-unstyled">
-                  <li><a href="https://docs.parrotsec.org/terms-and-conditions"><?php echo $lang['foot-2']; ?></a></li>
+                  <li><a href=https://parrotsec.org/docs/legal/legal-start/><?php echo $lang['foot-2']; ?></a></li>
                   <li><a href="https://docs.parrotsec.org/partners"><?php echo $lang['foot-3']; ?></a></li>
-                  <li><a href="https://docs.parrotsec.org/developers"><?php echo $lang['foot-4']; ?></a></li>
+                  <li><a href="https://www.parrotsec.org/docs/team/><?php echo $lang['foot-4']; ?></a></li>
                 </ul>
             </div>
             <div class="col-xs-6 col-sm-3 column">
