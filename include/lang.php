@@ -2,6 +2,7 @@
 $languages = array(
     'it' => 'Italian',
     'en' => 'English',
+    'es' => 'Spanish',
     'ru' => 'Russian',
     'uz' => 'Uzbek'
 );
