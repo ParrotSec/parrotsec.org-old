@@ -4,6 +4,7 @@ $languages = array(
     'en' => 'English',
     'es' => 'Spanish',
     'ru' => 'Russian',
+    'tr' => 'Türkçe',
     'uz' => 'Uzbek'
 );
 
