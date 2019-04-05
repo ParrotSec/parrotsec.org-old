@@ -5,7 +5,8 @@ $languages = array(
     'es' => 'Spanish',
     'ru' => 'Russian',
     'tr' => 'Türkçe',
-    'uz' => 'Uzbek'
+    'uz' => 'Uzbek',
+    'pt' => 'Brazil' 
 );
 
 if(isset($_GET['lang'])){
