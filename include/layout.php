@@ -30,13 +30,13 @@
     text-align: center;
 }
 #features-table table{
-	max-width:1200px;
+	max-width:1500px;
 	margin: 0 auto;
 }
 
 .tabco1 {
   background: #222;
-  width: 40%;
+  width: 20%;
   padding: 10px !important;
 }
 th.tabco1 {
