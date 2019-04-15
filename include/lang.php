@@ -3,6 +3,7 @@ $languages = array(
     'it' => 'Italian',
     'en' => 'English',
     'es' => 'Español',
+    'fr' => 'Français',
     'ru' => 'Русский',
     'tr' => 'Türkçe',
     'uz' => 'Uzbek',
