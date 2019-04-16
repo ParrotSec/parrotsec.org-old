@@ -16,6 +16,8 @@ $lang['nav-13']			= 'Devam et';
 $lang['nav-14']			= 'Ortaklar';
 $lang['nav-15']			= 'Ekip';
 $lang['nav-16']			= 'Dil';
+$lang['nav-17']			= 'Diğer';
+$lang['nav-18']			= 'Özellikler Tablosu';
 
 $lang['index-1']			= '<b>Parrot Evrenini </b>keşfedin ve Debian tabanlı platformumuzdan en iyi şekilde yararlanın.';
 $lang['index-2']			= 'Hepsi bir arada güvenlik testleri, yazılım geliştirme ve gizlilik savunması için profesyonel araçlar.';

@@ -74,10 +74,10 @@ th.tabco1 {
                       <a class="page-scroll" href="/download-security.php">Security Edition</a>
                   	</li>
                   	<li>
-                      <a class="page-scroll" href="/download-other.php">Other Builds</a>
+					<a class="page-scroll" href="/download-other.php"><?php echo $lang['nav-17']; ?></a>
                   	</li>
                   	<li>
-                      <a href="/download.php"><span class="flag-icon flag-icon-gb"></span>Comparison page</a>
+					<a href="/download.php"><span class="flag-icon flag-icon-gb"></span><?php echo $lang['nav-18']; ?></a>
                     </li>
                   </ul>
                 </li>

@@ -16,6 +16,8 @@ $lang['nav-13']			= 'Continue';
 $lang['nav-14']			= 'Partners';
 $lang['nav-15']			= 'Team';
 $lang['nav-16']			= 'Language';
+$lang['nav-17']			= 'Other Builds';
+$lang['nav-18']			= 'Comparsion page';
 
 $lang['index-1']			= 'Discover the <b>Parrot Universe</b> and get the most from our awesome Debian-based platform.';
 $lang['index-2']			= 'Professional tools for security testing, software development and privacy defense, all in one place.';

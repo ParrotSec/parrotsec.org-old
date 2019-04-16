@@ -16,6 +16,8 @@ $lang['nav-13']			= 'Continuer';
 $lang['nav-14']			= 'Partenaires';
 $lang['nav-15']			= 'L\'Équipe';
 $lang['nav-16']			= 'Langue';
+$lang['nav-17']			= 'Autres Constructions';
+$lang['nav-18']			= 'Tableau des caractéristiques';
 
 $lang['index-1']			= 'Découvrez <b>l\'univers Parrot</b> et obtenez le meilleur de notre magnifique distribution basée sur Debian.';
 $lang['index-2']			= 'Outils professionnels pour la sécurité, le développement logiciel et la défense de la vie privée, tout-en-un.';
