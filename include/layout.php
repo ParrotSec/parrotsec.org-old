@@ -36,7 +36,7 @@
 
 .tabco1 {
   background: #222;
-  width: 20%;
+  width: 25%;
   padding: 10px !important;
 }
 th.tabco1 {
