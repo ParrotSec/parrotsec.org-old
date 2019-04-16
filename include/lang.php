@@ -7,7 +7,7 @@ $languages = array(
     'ru' => 'Русский',
     'tr' => 'Türkçe',
     'uz' => 'Uzbek',
-    'pt' => 'Brazilian Portuguese',
+    'pt' => 'Portuguese',
     'fa' => 'فارسی',
 
 );
