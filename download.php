@@ -88,8 +88,8 @@
             <tr>
               <td class="tabco1"><?php echo $lang['download-25']; ?></td>
               <td class="tabco2"><?php echo $lang['download-26']; ?></td>
-              <td class="tabco4"><?php echo $lang['download-26']; ?></td>
               <td class="tabco3"><?php echo $lang['download-27']; ?></td>
+              <td class="tabco4"><?php echo $lang['download-26']; ?></td>
             </tr>
             <tr>
               <td class="tabco1"><?php echo $lang['download-28']; ?></td>
