@@ -1,23 +1,26 @@
-Matteo Alessio Carrara
-Jacopo Bontà
+## Contributors
+
+|    Nickname   |       Name         |              Email                |
+| ------------- | ------------------ | --------------------------------- |
+|    Byte   |     Nemo Roy       |              Email                |
+Matteo Alessio Carrara 
+Jacopo Bontà 
 XDEV 
 Dyllan To 
 gabrycaos 
-Andrea
-Nemo Roy 
-DeaVulTan
-Matteo
-Saurik SI
+Andrea 
+
+DeaVulTan 
+Matteo 
+Saurik SI 
 Kurt Bruggeman 
-José Gatica
-Konstantinos Granis
-Daniel Thief
-Jacob
-Valentin Chassignol
+José Gatica 
+Konstantinos Granis 
+Daniel Thief 
+Jacob 
+Valentin Chassignol 
 shubham Patil 
 Stefan Hlustik 
-Tamer Eyniç
-João Bosco dos Reis Becker
+Tamer Eyniç 
+João Bosco dos Reis Becker 
 Abolghasem Heydari nejad
- 
-

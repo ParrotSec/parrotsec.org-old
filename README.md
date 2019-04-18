@@ -29,5 +29,3 @@ This project is licensed under the GPLv3 and CC-BY-SA v4.0 Licenses - see the [D
 * Big thank you to [PurpleBooth](https://github.com/PurpleBooth) for her [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
 * Thanks to the original Frozenbox team, you guys made a dream reality.
 * Thank you to all the Parrot Team members and contributors who keep this website sexy.
-
-
