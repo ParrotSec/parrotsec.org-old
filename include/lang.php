@@ -2,9 +2,14 @@
 $languages = array(
     'it' => 'Italian',
     'en' => 'English',
-    'es' => 'Spanish',
-    'ru' => 'Russian',
-    'uz' => 'Uzbek'
+    'es' => 'Español',
+    'fr' => 'Français',
+    'ru' => 'Русский',
+    'tr' => 'Türkçe',
+    'uz' => 'Uzbek',
+    'pt' => 'Portuguese',
+    'ir' => 'فارسی',
+
 );
 
 if(isset($_GET['lang'])){
