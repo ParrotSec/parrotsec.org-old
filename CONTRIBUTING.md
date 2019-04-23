@@ -1,13 +1,24 @@
-2019/02/27
+## Developer Certificate of Origin + License
 
-Currently all changes without a respective license are governed by the GNU GPL v3 license under Lorenzo "Palinuro" Faletra
+By contributing to the Parrot Project, You accept and agree to the following terms and
+conditions for your present and future Contributions submitted to the Parrot Project.
+Except for the license granted herein to the Parrot Project and recipients of software
+distributed by the Parrot Project, You reserve all right, title, and interest in and to
+Your Contributions. All Contributions are subject to the following DCO + License
+terms.
 
-Shortly, all documentation and media rights will fall under our new Creative Commons License (which is [copyleft](https://www.gnu.org/licenses/gpl-3.0.en.html))
+[DCO + License](https://nest.parrotsec.org/parrot-organization/community/blob/master/DCO_licenses.md)
 
-Anything uploaded to this site without license falls automatically under the above license.
+_This notice should stay as the first item in the CONTRIBUTING.md file._
 
-If you feel your copyright has been violated please send an email to team@parrotsec.org with the Subject line "COPYRIGHT CLAIM" anmd we will resolve it as quickly as possible.
+## Contributing
 
-By Committing, Using or otherwise interacting with https://nest.parrotsec.org you agree to these terms.
+You can help improve parrotsec.org by submitting merge requests (pull requests in github) to this repository.
 
--s1udge
+Thank you for your interest and help!
+
+For more information about the technical guidelines please see our [Technical Guidelines for Contributing](https://nest.parrotsec.org/parrot-organization/community/blob/master/Tech-GL-4C.md).
+
+And visit our [Code of Conduct](https://nest.parrotsec.org/parrot-organization/community/blob/master/code-of-conduct.md) to learn more about our committment to an open environment.
+
+

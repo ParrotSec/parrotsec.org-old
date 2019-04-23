@@ -36,7 +36,7 @@
 
 .tabco1 {
   background: #222;
-  width: 40%;
+  width: 25%;
   padding: 10px !important;
 }
 th.tabco1 {
@@ -74,10 +74,10 @@ th.tabco1 {
                       <a class="page-scroll" href="/download-security.php">Security Edition</a>
                   	</li>
                   	<li>
-                      <a class="page-scroll" href="/download-other.php">Other Builds</a>
+					<a class="page-scroll" href="/download-other.php"><?php echo $lang['nav-17']; ?></a>
                   	</li>
                   	<li>
-                      <a href="/download.php"><span class="flag-icon flag-icon-gb"></span>Comparison page</a>
+					<a href="/download.php"><span class="flag-icon flag-icon-gb"></span><?php echo $lang['nav-18']; ?></a>
                     </li>
                   </ul>
                 </li>
@@ -112,7 +112,7 @@ th.tabco1 {
                       <ul class="dropdown-menu language-navbar" aria-labelledby="languageDropdown">
                           <?php
                             foreach($languages as $key => $value) {
-                                $link = 'https://' . 'parrotsec.org/' . $_SERVER['REQUEST_URI'];
+                                $link = 'https://' . 'parrotsec.org' . $_SERVER['REQUEST_URI'];
                                 if(!strpos($link, "?lang="))
                                     $final_link = "$link?lang=$key";
                                 else {

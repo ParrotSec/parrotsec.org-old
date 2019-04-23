@@ -13,7 +13,7 @@
             </div><br/><br/><br/>
             <div class="row">
 
-            <div class="col-lg-3 col-md-3 col-md-offset-2 col-lg-offset-2 text-center">
+            <div class="col-lg-4 col-md-4 col-md-offset-2 col-lg-offset-2 text-center">
               <div class="panel download panel-blue">
                 <div class="panel-heading arrow_box text-center">
                   <h3>Live+Installer ISO</h3>
@@ -42,7 +42,7 @@
     					</div>
             </div>
 
-            <div class="col-lg-3 col-md-3 col-md-offset-2 col-lg-offset-2 text-center">
+            <div class="col-lg-4 col-md-4 text-center">
               <div class="panel download panel-blue">
                 <div class="panel-heading arrow_box text-center">
                   <h3>Virtual Appliance</h3>
