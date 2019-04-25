@@ -227,7 +227,7 @@ header {
     color: #fff;
     width: 100%;
     background-color: #c9c9c9;
-    background-image: url('../img/macaw-poly.jpg');
+    background-image: url('../img/macaw-poly2.jpg');
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -239,7 +239,7 @@ header .header-content {
     position: relative;
     width: 100%;
     padding: 100px 15px;
-    text-align: center;
+    text-align: center;Parrot OS Home
     z-index: 2;
 }
 
