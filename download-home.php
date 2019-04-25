@@ -29,7 +29,7 @@
     			  <li class="list-group-item"><i class="icon-ok text-info"></i>For standard computers</li>
                   <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: MATE</li>
                   <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid (iso9660)</li>
-                  <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 1.75GB</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 2GB</li>
     						</ul>
     						<div class="panel-footer">
     							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso"><?php echo $lang['index-3']; ?></a>
@@ -44,7 +44,29 @@
                   <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/signed-hashes.txt"><?php echo $lang['download-home-12']; ?></a>
     						</div>
     					</div>
+            </div>
 
+            <div class="col-lg-4 col-md-4 text-center">
+                <div class="panel download panel-blue">
+                  <div class="panel-heading arrow_box text-center">
+                    <h3>Live+Installer ISO</h3>
+                  </div>
+                  <div class="panel-body text-center">
+                    <p class="lead" style="font-size:40px">KDE Home edition</p>
+                  </div>
+                  <ul class="list-group list-group-flush text-center">
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>For powerful and modern computers</li>
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: KDE Plasma</li>
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid</li>
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 2GB</li>
+                  </ul>
+                  <div class="panel-footer">
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso">Download</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso.mirrorlist">Mirrors</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso.torrent">Torrent</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/signed-hashes.txt">Signed Hashes</a><br>
+                  </div>
+                </div>
             </div>
 
             <div class="col-lg-4 col-md-4 text-center">
@@ -75,30 +97,6 @@
     						</div>
     					</div>
             </div>
-
-            <div class="col-lg-4 col-md-4 text-center">
-                <div class="panel download panel-blue">
-                  <div class="panel-heading arrow_box text-center">
-                    <h3>Live+Installer ISO</h3>
-                  </div>
-                  <div class="panel-body text-center">
-                    <p class="lead" style="font-size:40px">KDE Plasma Home edition</p>
-                  </div>
-                  <ul class="list-group list-group-flush text-center">
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>For powerful and modern computers</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: KDE Plasma</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 1.9GB</li>
-                  </ul>
-                  <div class="panel-footer">
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso">Download</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso.mirrorlist">Mirrors</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso.torrent">Torrent</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/signed-hashes.txt">Signed Hashes</a><br>
-                  </div>
-                </div>
-              </div>
-
           </div>
 
           </div>

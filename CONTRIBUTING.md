@@ -7,18 +7,18 @@ distributed by the Parrot Project, You reserve all right, title, and interest in
 Your Contributions. All Contributions are subject to the following DCO + License
 terms.
 
-[DCO + License](https://nest.parrotsec.org/parrot-organization/community/blob/master/DCO_licenses.md)
+[DCO + Licenses](LICENSES.md)
 
 _This notice should stay as the first item in the CONTRIBUTING.md file._
 
 ## Contributing
 
-You can help improve parrotsec.org by submitting merge requests (pull requests in github) to this repository.
+You can help improve our documentation by submitting merge requests (pull requests in github) to this repository.
 
 Thank you for your interest and help!
 
-For more information about the technical guidelines please see our [Technical Guidelines for Contributing](https://nest.parrotsec.org/parrot-organization/community/blob/master/Tech-GL-4C.md).
+For more information about what please see our [Technical Guidelines for Contributing](https://nest.parrotsec.org/parrot-organization/community/blob/master/Tech-GL-4C.md).
 
-And visit our [Code of Conduct](https://nest.parrotsec.org/parrot-organization/community/blob/master/code-of-conduct.md) to learn more about our committment to an open environment.
+We want to create a welcome environment for everyone who is interested in contributing. Please see our [Code of Conduct](https://nest.parrotsec.org/parrot-organization/community/blob/master/code-of-conduct.md) to learn more about our committment to an open environment.
 
-
+You should get a response from a maintainer within three days for a merge request and seven days for everything else. If you haven't heard anything in that timeframe please ping the thread with the names of the maintainers.
