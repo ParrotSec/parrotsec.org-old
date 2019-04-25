@@ -22,7 +22,7 @@ See also the list of [contributors](contributors.md) who participated in this pr
 
 ## License
 
-This project is licensed under the GPLv3 and CC-BY-SA v4.0 Licenses - see the [DCO_licenses.md](DCO_licenses.md) file for details.
+This project is licensed under the GPLv3 and CC-BY-SA v4.0 Licenses - see the [LICENSES.md].md](LICENSES.md) file for details.
 
 ## Acknowledgments
 
