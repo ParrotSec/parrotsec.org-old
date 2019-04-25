@@ -38,7 +38,8 @@
 <br /><br /><hr /><br /><br />
             <div class="row">
               <div class="col-lg-12 text-center">
-                <a target="_blank" href="https://etcher.io" class="btn btn-primary"><?php echo $lang['download-8']; ?></a> &nbsp; <a target="_blank" href="https://archive.parrotsec.org" class="btn btn-primary page-scroll"><?php echo $lang['download-9']; ?></a>
+                <a target="_blank" href="https://etcher.io" class="btn btn-primary"><?php echo $lang['download-8']; ?></a> &nbsp;
+                <a target="_blank" href="https://download.parrotsec.org" class="btn btn-primary page-scroll"><?php echo $lang['download-9']; ?></a>
               </div>
             </div>
 <br /><br /><hr /><br /><br />
@@ -59,7 +60,7 @@
                     <?php echo $lang['download-14']; ?>
                   </p>
               </div>
-              <a target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/" class="btn btn-primary"><?php echo $lang['download-15']; ?></a>
+              <a target="_blank" href="https://download.parrotsec.org/parrot/iso/" class="btn btn-primary"><?php echo $lang['download-15']; ?></a>
             </div>
 
         </div>

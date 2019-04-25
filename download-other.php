@@ -1,4 +1,4 @@
-<?php require(__DIR__ . '/include/parrot.inc.php'); ?>
+download<?php require(__DIR__ . '/include/parrot.inc.php'); ?>
 <section class="bg-primary" id="one">
         <div class="container">
             <div class="row text-center">
@@ -54,10 +54,10 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Always install the latest version of the system</li>
                   </ul>
                   <div class="panel-footer">
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.5/Parrot-netinst-gtk-4.5_amd64.iso">netinstall amd64</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/4.5/Parrot-netinst-gtk-4.5_i386.iso">netinstall i386</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-arm64/current/images/">netinstall arm64</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-armhf/current/images/">netinstall armhf</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrotsec.org/parrot/iso/4.5/Parrot-netinst-gtk-4.5_amd64.iso">netinstall amd64</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrotsec.org/parrot/iso/4.5/Parrot-netinst-gtk-4.5_i386.iso">netinstall i386</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrotsec.org/parrot/dists/stable/main/installer-arm64/current/images/">netinstall arm64</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrotsec.org/parrot/dists/stable/main/installer-armhf/current/images/">netinstall armhf</a><br>
                   </div>
                 </div>
               </div>
@@ -80,7 +80,7 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-other-22']; ?></li>
       						</ul>
       						<div class="panel-footer">
-      							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/arm/rpi"><?php echo $lang['download-other-23']; ?></a>
+      							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrotsec.org/parrot/iso/arm/rpi"><?php echo $lang['download-other-23']; ?></a>
       						</div>
       					</div>
               </div>
@@ -99,7 +99,7 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-other-27']; ?></li>
       						</ul>
       						<div class="panel-footer">
-      							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/arm/opi"><?php echo $lang['download-other-23']; ?></a>
+      							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrotsec.org/parrot/iso/arm/opi"><?php echo $lang['download-other-23']; ?></a>
       						</div>
       					</div>
               </div>
@@ -120,7 +120,7 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i><?php echo $lang['download-other-32']; ?></li>
       						</ul>
       						<div class="panel-footer">
-      							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/arm/pine64"><?php echo $lang['download-other-23']; ?></a>
+      							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrotsec.org/parrot/iso/arm/pine64"><?php echo $lang['download-other-23']; ?></a>
       						</div>
       					</div>
               </div>
