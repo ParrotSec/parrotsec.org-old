@@ -95,7 +95,11 @@ $lang['download-29']       = 'Debian 10 Buster';
 $lang['download-30']       = 'Modelo de Lançamento';
 $lang['download-31']       = 'Rolling Release';
 $lang['download-32']       = 'Ambiente Desktop Padrão';
+<<<<<<< HEAD
 $lang['download-33']       = 'MATE 1,20/KDE Plasma';
+=======
+$lang['download-33']       = 'MATE 1,20';
+>>>>>>> 23d620e2c0ce9547668562fa21be60cdc46ae395
 $lang['download-34']       = 'Sandbox';
 $lang['download-35']       = 'Office Suite';
 $lang['download-36']       = 'LibreOffice 6.x';
