@@ -95,17 +95,13 @@ $lang['download-29']		= 'Debian 10 Buster';
 $lang['download-30']		= 'مدل انتشار';
 $lang['download-31']		= 'انتشار رولینگ';
 $lang['download-32']		= 'محیط دسکتاپ پیش فرض';
-<<<<<<< HEAD
 $lang['download-33']		= 'MATE 1.20/KDE Plasma';
-=======
-$lang['download-33']		= 'MATE 1.20';
->>>>>>> 23d620e2c0ce9547668562fa21be60cdc46ae395
 $lang['download-34']		= 'Sandbox';
 $lang['download-35']		= 'Office Suite';
 $lang['download-36']		= 'LibreOffice 6.x';
 $lang['download-37']		= 'Abiword/Gnumeric';
 $lang['download-38']		= 'Web Suite';
-$lang['download-39']		= 'Firefox 65 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum5 Quantum';
+$lang['download-39']		= 'Firefox 65';
 $lang['download-40']		= 'Epiphany (may include firefox-esr)';
 $lang['download-41']		= 'Adblockers and web protection';
 $lang['download-42']		= 'Ublock Origin + NoScript + Privacy Badger';

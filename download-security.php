@@ -13,11 +13,7 @@
             </div><br/><br/><br/>
             <div class="row">
 
-<<<<<<< HEAD
             <div class="col-lg-4 col-md-4 text-center">
-=======
-            <div class="col-lg-4 col-md-4 col-md-offset-2 col-lg-offset-2 text-center">
->>>>>>> 23d620e2c0ce9547668562fa21be60cdc46ae395
               <div class="panel download panel-blue">
                 <div class="panel-heading arrow_box text-center">
                   <h3>Live+Installer ISO</h3>
@@ -46,7 +42,6 @@
             </div>
 
             <div class="col-lg-4 col-md-4 text-center">
-<<<<<<< HEAD
                 <div class="panel download panel-blue">
                   <div class="panel-heading arrow_box text-center">
                     <h3>Live+Installer ISO</h3>
@@ -57,7 +52,7 @@
                   <ul class="list-group list-group-flush text-center">
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: KDE Plasma</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Format: ISO Hybrid</li>
-                    <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 2GB</li>
+                    <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 4GB</li>
                   </ul>
                   <div class="panel-footer">
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrotsec.org/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso">Download</a><br>
@@ -69,8 +64,6 @@
             </div>
 
             <div class="col-lg-4 col-md-4 text-center">
-=======
->>>>>>> 23d620e2c0ce9547668562fa21be60cdc46ae395
               <div class="panel download panel-blue">
                 <div class="panel-heading arrow_box text-center">
                   <h3>Virtual Appliance</h3>
