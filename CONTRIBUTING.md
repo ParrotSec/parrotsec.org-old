@@ -7,7 +7,7 @@ distributed by the Parrot Project, You reserve all right, title, and interest in
 Your Contributions. All Contributions are subject to the following DCO + License
 terms.
 
-[DCO + Licenses](LICENSES.md)
+[DCO + Licenses](LICENSE.md)
 
 _This notice should stay as the first item in the CONTRIBUTING.md file._
 
@@ -29,7 +29,7 @@ _Please do not use the issue tracker for support questions, please post on the [
 
 ## Maintainers, response time and security issues. 
 
-**Primary:** Palinuro
+**Primary:** Palinuro <br>
 **Alternate:** s1udge
 
 You should get a response from a maintainer within **five days** for a merge request and **seven days** for everything else.
@@ -39,6 +39,6 @@ After feedback is given we expect a response within two weeks if no response is 
 _Commit access is given on a case by case basis and is at the discretion of the Core Dev Team._
 
 ### How to suggest a feature or enhancement
-Please make a post in the forum under development category. Please add why it is needed, the scope of the feature and any research you have. 
+Please make a post in the forum under the development category. Please add why it is needed, the scope of the feature and any research you have. 
 Your topic will be read and checked if the request is possible, if not you will be notified why this isn't possible. 
 If it is possible you will be asked to open an issue here.
