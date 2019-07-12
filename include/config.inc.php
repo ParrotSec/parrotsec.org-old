@@ -7,11 +7,11 @@ const CONFIG_SITE_URL = 'https://www.parrotsec.org/';
 const CONFIG_SITE_URL_STATIC_RESOURCES = 'https://www.parrotsec.org/';
 const CONFIG_SITE_AUTOR = 'Lorenzo Faletra';
 const CONFIG_SITE_LANG = 'en';
-const CONFIG_SYSTEM_VERSION = '4.6';
+const CONFIG_SYSTEM_VERSION = '4.7';
 
-const PARROT_FULL_SIZE_64 = '4GB';
+const PARROT_FULL_SIZE_64 = '~4GB';
 
-const PARROT_LITE_SIZE_64 = '2GB';
+const PARROT_LITE_SIZE_64 = '~2GB';
 
 
 ?>
