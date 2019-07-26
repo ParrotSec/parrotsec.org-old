@@ -5,9 +5,9 @@
               <h3 class="text-center wow fadeInDown"><?php echo $lang['index-1']; ?></h2>
               <h5 class="text-center wow fadeInUp"><?php echo $lang['index-2']; ?></h3>
                 <hr>
-                <a href="download.php" class="btn btn-primary btn-xl"><?php echo $lang['index-3']; ?></a> &nbsp; <a href="https://parrotsec.org/docs/intro/what-is-parrot/" class="btn btn-primary btn-xl page-scroll"><?php echo $lang['index-4']; ?></a>
+                <a href="download.php" class="btn btn-primary btn-xl"><?php echo $lang['index-3']; ?></a> &nbsp; <a href="https://docs.parrot.sh/intro/what-is-parrot/" class="btn btn-primary btn-xl page-scroll"><?php echo $lang['index-4']; ?></a>
                 <br>
-                <h3> Parrot 4.7 released! <a href="https://parrotsec.org/download.php">Try it!</a></h3>
+                <h3> Parrot 4.7 released! <a href="https://www.parrot.sh/download.php">Try it!</a></h3>
                 <h3> We have migrated to the new <strong>parrot.sh</strong> domain</h3>
             </div>
         </div>

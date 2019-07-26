@@ -35,7 +35,7 @@ download<?php require(__DIR__ . '/include/parrot.inc.php'); ?>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/parrot-core/">Core</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/parrot/">Security</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/metasploit/">Metasploit</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://nest.parrot.sh/parrot-build/docker-images/">source code</a>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://nest.parrotsec.org/parrot-build/docker-images/">source code</a>
                   </div>
                 </div>
               </div>

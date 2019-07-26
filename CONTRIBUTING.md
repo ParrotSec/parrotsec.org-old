@@ -25,7 +25,7 @@ For more information about how to contribute please see our [Technical Guideline
 
 We want to create a welcome environment for everyone who is interested in contributing. Please see our [Code of Conduct](https://nest.parrotsec.org/parrot-organization/community-team/community/blob/master/code-of-conduct.md) to learn more about our committment to an open environment.
 
-_Please do not use the issue tracker for support questions, please post on the [forum](https://community.parrotsec.org) or on Telegram._
+_Please do not use the issue tracker for support questions, please post on the [forum](https://community.parrot.sh) or on Telegram._
 
 ## Maintainers, response time and security issues. 
 
