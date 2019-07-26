@@ -2,7 +2,7 @@
 
 |    Nickname   |       Name         |              Email                |
 | ------------- | ------------------ | --------------------------------- |
-|    Byte   |     Nemo Roy       |              Email                |
+|    ByteHackr   |     Nemo Roy       |              Email                |
 Matteo Alessio Carrara 
 Jacopo Bontà 
 XDEV 

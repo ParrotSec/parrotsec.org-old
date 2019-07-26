@@ -7,372 +7,372 @@
 
 
 <url>
-  <loc>https://www.parrotsec.org/</loc>
+  <loc>https://www.parrot.sh/</loc>
   <lastmod>2019-01-20T14:41:06+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/index.php</loc>
+  <loc>https://www.parrot.sh/index.php</loc>
   <lastmod>2019-01-20T14:41:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/download.php</loc>
+  <loc>https://www.parrot.sh/download.php</loc>
   <lastmod>2019-01-20T14:41:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/download-home.php</loc>
+  <loc>https://www.parrot.sh/download-home.php</loc>
   <lastmod>2019-01-20T14:41:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/download-security.php</loc>
+  <loc>https://www.parrot.sh/download-security.php</loc>
   <lastmod>2019-01-20T14:41:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/download-other.php</loc>
+  <loc>https://www.parrot.sh/download-other.php</loc>
   <lastmod>2019-01-20T14:41:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/</loc>
+  <loc>https://blog.parrot.sh/</loc>
   <lastmod>2019-01-20T05:15:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/</loc>
+  <loc>https://docs.parrot.sh/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/community/</loc>
+  <loc>https://docs.parrot.sh/community/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/the-parrot-cdn/</loc>
+  <loc>https://blog.parrot.sh/the-parrot-cdn/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-needs-your-help-to-scale-out/</loc>
+  <loc>https://blog.parrot.sh/parrot-needs-your-help-to-scale-out/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-4-4-release-notes/</loc>
+  <loc>https://blog.parrot.sh/parrot-4-4-release-notes/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-4-3-release-notes/</loc>
+  <loc>https://blog.parrot.sh/parrot-4-3-release-notes/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-4-2-release-notes/</loc>
+  <loc>https://blog.parrot.sh/parrot-4-2-release-notes/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-4-2-beta/</loc>
+  <loc>https://blog.parrot.sh/parrot-4-2-beta/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-4-0-release-notes/</loc>
+  <loc>https://blog.parrot.sh/parrot-4-0-release-notes/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-3-11-release-notes/</loc>
+  <loc>https://blog.parrot.sh/parrot-3-11-release-notes/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/meltdown-spectre-security-patches/</loc>
+  <loc>https://blog.parrot.sh/meltdown-spectre-security-patches/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-3-10-is-out/</loc>
+  <loc>https://blog.parrot.sh/parrot-3-10-is-out/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/firefox-57-lands-on-parrot/</loc>
+  <loc>https://blog.parrot.sh/firefox-57-lands-on-parrot/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/apt-1-6-with-seccomp-support/</loc>
+  <loc>https://blog.parrot.sh/apt-1-6-with-seccomp-support/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-3-9-release-notes/</loc>
+  <loc>https://blog.parrot.sh/parrot-3-9-release-notes/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-3-9-call-for-beta-testers/</loc>
+  <loc>https://blog.parrot.sh/parrot-3-9-call-for-beta-testers/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/psa-wpa2-key-reinstallation-attack-fix-released/</loc>
+  <loc>https://blog.parrot.sh/psa-wpa2-key-reinstallation-attack-fix-released/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/linux-day-2017-palermo-and-rome-italy/</loc>
+  <loc>https://blog.parrot.sh/linux-day-2017-palermo-and-rome-italy/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-3-8-release-notes/</loc>
+  <loc>https://blog.parrot.sh/parrot-3-8-release-notes/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/vote-parrot-as-the-new-featured-project-on-sourceforge/</loc>
+  <loc>https://blog.parrot.sh/vote-parrot-as-the-new-featured-project-on-sourceforge/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-at-open-source-india-2017-13-14-october/</loc>
+  <loc>https://blog.parrot.sh/parrot-at-open-source-india-2017-13-14-october/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-now-hosting-the-rachel-archive/</loc>
+  <loc>https://blog.parrot.sh/parrot-now-hosting-the-rachel-archive/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-3-7-release-notes/</loc>
+  <loc>https://blog.parrot.sh/parrot-3-7-release-notes/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-3-7-release-date/</loc>
+  <loc>https://blog.parrot.sh/parrot-3-7-release-date/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/no-internet-connection-when-upgrading-to-parrot-3-7/</loc>
+  <loc>https://blog.parrot.sh/no-internet-connection-when-upgrading-to-parrot-3-7/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/fix-file-manager-background-color/</loc>
+  <loc>https://blog.parrot.sh/fix-file-manager-background-color/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/debian-and-devuan/</loc>
+  <loc>https://blog.parrot.sh/debian-and-devuan/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-3-6-is-here/</loc>
+  <loc>https://blog.parrot.sh/parrot-3-6-is-here/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/welcome-to-our-new-parrot-mirror-director/</loc>
+  <loc>https://blog.parrot.sh/welcome-to-our-new-parrot-mirror-director/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-security-installfest-thessaloniki-greece-april-8th-2017/</loc>
+  <loc>https://blog.parrot.sh/parrot-security-installfest-thessaloniki-greece-april-8th-2017/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-3-5-is-here/</loc>
+  <loc>https://blog.parrot.sh/parrot-3-5-is-here/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/reconfigure-mysql-mariadb-or-postgresql-passwords/</loc>
+  <loc>https://blog.parrot.sh/reconfigure-mysql-mariadb-or-postgresql-passwords/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-3-5-release-date/</loc>
+  <loc>https://blog.parrot.sh/parrot-3-5-release-date/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-3-5-call-for-betatesters/</loc>
+  <loc>https://blog.parrot.sh/parrot-3-5-call-for-betatesters/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/including-arm64-support/</loc>
+  <loc>https://blog.parrot.sh/including-arm64-support/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-3-4-released/</loc>
+  <loc>https://blog.parrot.sh/parrot-3-4-released/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-3-3-released/</loc>
+  <loc>https://blog.parrot.sh/parrot-3-3-released/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-project-constitution/</loc>
+  <loc>https://blog.parrot.sh/parrot-project-constitution/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/linux-4-8-11-released/</loc>
+  <loc>https://blog.parrot.sh/linux-4-8-11-released/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/pentesting-course-in-bari-italy-28112016/</loc>
+  <loc>https://blog.parrot.sh/pentesting-course-in-bari-italy-28112016/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/pentesting-dojo-in-bari-italy-29112016/</loc>
+  <loc>https://blog.parrot.sh/pentesting-dojo-in-bari-italy-29112016/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/community-tips-use-the-parrot-alternate-installer/</loc>
+  <loc>https://blog.parrot.sh/community-tips-use-the-parrot-alternate-installer/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/open-lab-in-rome-07112016/</loc>
+  <loc>https://blog.parrot.sh/open-lab-in-rome-07112016/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/ambassadors-program-started/</loc>
+  <loc>https://blog.parrot.sh/ambassadors-program-started/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/new-linux-4-7-6-kernel-released/</loc>
+  <loc>https://blog.parrot.sh/new-linux-4-7-6-kernel-released/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/how-to-compile-a-custom-parrot-kernel/</loc>
+  <loc>https://blog.parrot.sh/how-to-compile-a-custom-parrot-kernel/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-servers-map/</loc>
+  <loc>https://blog.parrot.sh/parrot-servers-map/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-3-2-released/</loc>
+  <loc>https://blog.parrot.sh/parrot-3-2-released/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/new-website-released/</loc>
+  <loc>https://blog.parrot.sh/new-website-released/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/pentesting-dojo-in-palermo/</loc>
+  <loc>https://blog.parrot.sh/pentesting-dojo-in-palermo/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/parrot-development-notes-0/</loc>
+  <loc>https://blog.parrot.sh/parrot-development-notes-0/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/blog/welcome-aboard/</loc>
+  <loc>https://blog.parrot.sh/welcome-aboard/</loc>
   <lastmod>2019-01-20T05:15:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/.</loc>
+  <loc>https://docs.parrot.sh/.</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/intro/what-is-parrot/</loc>
+  <loc>https://docs.parrot.sh/intro/what-is-parrot/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/intro/should-i-use-parrot/</loc>
+  <loc>https://docs.parrot.sh/intro/should-i-use-parrot/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/getting-started/download/</loc>
+  <loc>https://docs.parrot.sh/getting-started/download/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/getting-started/create-boot-device/</loc>
+  <loc>https://docs.parrot.sh/getting-started/create-boot-device/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/getting-started/what-is-live-mode/</loc>
+  <loc>https://docs.parrot.sh/getting-started/what-is-live-mode/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/getting-started/how-to-boot/</loc>
+  <loc>https://docs.parrot.sh/getting-started/how-to-boot/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/getting-started/use-parrot/</loc>
+  <loc>https://docs.parrot.sh/getting-started/use-parrot/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/getting-started/install-parrot/</loc>
+  <loc>https://docs.parrot.sh/getting-started/install-parrot/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/mirror-list/</loc>
+  <loc>https://docs.parrot.sh/mirror-list/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/team/</loc>
+  <loc>https://docs.parrot.sh/team/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/partners/</loc>
+  <loc>https://docs.parrot.sh/partners/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/warrant-canary/</loc>
+  <loc>https://docs.parrot.sh/warrant-canary/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/donate/</loc>
+  <loc>https://docs.parrot.sh/donate/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.parrotsec.org/docs/faq/</loc>
+  <loc>https://docs.parrot.sh/faq/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
