@@ -91,7 +91,7 @@ th.tabco1 {
                       <a class="page-scroll" href="https://nest.parrotsec.org" target="_blank"><?php echo $lang['nav-6']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrot.sh/community"><?php echo $lang['nav-7']; ?></a>
+                      <a class="page-scroll" href="https://community.parrot.sh"><?php echo $lang['nav-7']; ?></a>
                   </li>
                   <li>
                       <a class="page-scroll" href="https://docs.parrot.sh/partners"><?php echo $lang['nav-8']; ?></a>

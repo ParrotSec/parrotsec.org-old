@@ -50,7 +50,7 @@
                     <?php echo $lang['download-11']; ?>
                   </p>
               </div>
-              <a target="_blank" href="https://docs.parrot.sh/community#groups" class="btn btn-primary"><?php echo $lang['download-12']; ?></a>
+              <a target="_blank" href="https://community.parrot.sh#groups" class="btn btn-primary"><?php echo $lang['download-12']; ?></a>
             </div>
 <br /><br /><hr /><br /><br />
             <div class="row text-center" style="outline-offset:300px">

@@ -6,7 +6,7 @@ https://www.parrot.sh/download-security.php
 https://www.parrot.sh/download-other.php
 https://blog.parrot.sh/
 https://docs.parrot.sh/
-https://docs.parrot.sh/community/
+https://community.parrot.sh/
 https://blog.parrot.sh/the-parrot-cdn/
 https://blog.parrot.sh/parrot-needs-your-help-to-scale-out/
 https://blog.parrot.sh/parrot-4-4-release-notes/
