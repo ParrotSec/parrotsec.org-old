@@ -112,7 +112,7 @@ th.tabco1 {
                       <ul class="dropdown-menu language-navbar" aria-labelledby="languageDropdown">
                           <?php
                             foreach($languages as $key => $value) {
-                                $link = 'https://' . 'parrot.sh' . $_SERVER['REQUEST_URI'];
+                                $link = 'https://www' . 'parrot.sh' . $_SERVER['REQUEST_URI'];
                                 if(!strpos($link, "?lang="))
                                     $final_link = "$link?lang=$key";
                                 else {
