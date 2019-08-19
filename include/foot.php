@@ -6,7 +6,7 @@
                 <ul class="list-unstyled">
                   <li><a href=https://docs.parrot.sh/legal/legal-start/><?php echo $lang['foot-2']; ?></a></li>
                   <li><a href="https://docs.parrot.sh/partners"><?php echo $lang['foot-3']; ?></a></li>
-                  <li><a href="https://docs.parrot.sh/team/><?php echo $lang['foot-4']; ?></a></li>
+                  <li><a href="https://docs.parrot.sh/team/"><?php echo $lang['foot-4']; ?></a></li>
                 </ul>
             </div>
             <div class="col-xs-6 col-sm-3 column">
