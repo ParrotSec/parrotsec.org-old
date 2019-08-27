@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
 <channel>
-  <title>ROR Sitemap for https://www.parrot.sh/</title>
-  <link>https://www.parrot.sh/</link>
+  <title>ROR Sitemap for https://parrotlinux.org/</title>
+  <link>https://parrotlinux.org/</link>
 
 <item>
-     <link>https://www.parrot.sh/</link>
+     <link>https://parrotlinux.org/</link>
      <title>Parrot Linux - The best choice for security experts, developers and crypto-addicted people.</title>
      <description>Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -13,7 +13,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://www.parrot.sh/index.php</link>
+     <link>https://parrotlinux.org/index.php</link>
      <title>Parrot Linux - The best choice for security experts, developers and crypto-addicted people.</title>
      <description>Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -21,7 +21,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://www.parrot.sh/download.php</link>
+     <link>https://parrotlinux.org/download.php</link>
      <title>Parrot Linux - The best choice for security experts, developers and crypto-addicted people.</title>
      <description>Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -29,7 +29,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://www.parrot.sh/download-home.php</link>
+     <link>https://parrotlinux.org/download-home.php</link>
      <title>Parrot Linux - The best choice for security experts, developers and crypto-addicted people.</title>
      <description>Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -37,7 +37,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://www.parrot.sh/download-security.php</link>
+     <link>https://parrotlinux.org/download-security.php</link>
      <title>Parrot Linux - The best choice for security experts, developers and crypto-addicted people.</title>
      <description>Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -45,7 +45,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://www.parrot.sh/download-other.php</link>
+     <link>https://parrotlinux.org/download-other.php</link>
      <title>Parrot Linux - The best choice for security experts, developers and crypto-addicted people.</title>
      <description>Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -61,7 +61,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/</link>
+     <link>https://docs.parrotlinux.org/</link>
      <title>Parrot Documentation</title>
      <description>None</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -477,7 +477,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/.</link>
+     <link>https://docs.parrotlinux.org/.</link>
      <title>Parrot Documentation</title>
      <description>None</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -485,7 +485,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/intro/what-is-parrot/</link>
+     <link>https://docs.parrotlinux.org/intro/what-is-parrot/</link>
      <title>What is Parrot? - Parrot Documentation</title>
      <description>What is Parrot? - Parrot Documentation</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -493,7 +493,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/intro/should-i-use-parrot/</link>
+     <link>https://docs.parrotlinux.org/intro/should-i-use-parrot/</link>
      <title>Should I use Parrot? - Parrot Documentation</title>
      <description>Should I use Parrot? - Parrot Documentation</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -501,7 +501,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/getting-started/download/</link>
+     <link>https://docs.parrotlinux.org/getting-started/download/</link>
      <title>Where to Download - Parrot Documentation</title>
      <description>Where to Download - Parrot Documentation</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -509,7 +509,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/getting-started/create-boot-device/</link>
+     <link>https://docs.parrotlinux.org/getting-started/create-boot-device/</link>
      <title>Create Boot Device - Parrot Documentation</title>
      <description>Create Boot Device - Parrot Documentation</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -517,7 +517,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/getting-started/what-is-live-mode/</link>
+     <link>https://docs.parrotlinux.org/getting-started/what-is-live-mode/</link>
      <title>What is live mode - Parrot Documentation</title>
      <description>What is live mode - Parrot Documentation</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -525,7 +525,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/getting-started/how-to-boot/</link>
+     <link>https://docs.parrotlinux.org/getting-started/how-to-boot/</link>
      <title>How To Boot - Parrot Documentation</title>
      <description>How To Boot - Parrot Documentation</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -533,7 +533,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/getting-started/use-parrot/</link>
+     <link>https://docs.parrotlinux.org/getting-started/use-parrot/</link>
      <title>Use Parrot - Parrot Documentation</title>
      <description>Use Parrot - Parrot Documentation</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -541,7 +541,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/getting-started/install-parrot/</link>
+     <link>https://docs.parrotlinux.org/getting-started/install-parrot/</link>
      <title>Install Parrot - Parrot Documentation</title>
      <description>Install Parrot - Parrot Documentation</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -549,7 +549,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/mirror-list/</link>
+     <link>https://docs.parrotlinux.org/mirror-list/</link>
      <title>Mirror list - Parrot Documentation</title>
      <description>Mirror list - Parrot Documentation</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -557,7 +557,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/team/</link>
+     <link>https://docs.parrotlinux.org/team/</link>
      <title>The Parrot Team - Parrot Documentation</title>
      <description>The Parrot Team - Parrot Documentation</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -565,7 +565,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/partners/</link>
+     <link>https://docs.parrotlinux.org/partners/</link>
      <title>Project Partners - Parrot Documentation</title>
      <description>Project Partners - Parrot Documentation</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -573,7 +573,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/warrant-canary/</link>
+     <link>https://docs.parrotlinux.org/warrant-canary/</link>
      <title>Warrant Canary - Parrot Documentation</title>
      <description>Warrant Canary - Parrot Documentation</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -581,7 +581,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/donate/</link>
+     <link>https://docs.parrotlinux.org/donate/</link>
      <title>Donate - Parrot Documentation</title>
      <description>Donate - Parrot Documentation</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -589,7 +589,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://docs.parrot.sh/faq/</link>
+     <link>https://docs.parrotlinux.org/faq/</link>
      <title>F.A.Q. - Parrot Documentation</title>
      <description>F.A.Q. - Parrot Documentation</description>
      <ror:updatePeriod></ror:updatePeriod>

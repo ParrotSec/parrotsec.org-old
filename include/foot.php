@@ -4,9 +4,9 @@
             <div class="col-xs-6 col-sm-3 column">
                 <h4><?php echo $lang['foot-9']; ?></h4>
                 <ul class="list-unstyled">
-                  <li><a href=https://docs.parrot.sh/legal/legal-start/><?php echo $lang['foot-2']; ?></a></li>
-                  <li><a href="https://docs.parrot.sh/partners"><?php echo $lang['foot-3']; ?></a></li>
-                  <li><a href="https://docs.parrot.sh/team/"><?php echo $lang['foot-4']; ?></a></li>
+                  <li><a href=https://docs.parrotlinux.org/legal/legal-start/><?php echo $lang['foot-2']; ?></a></li>
+                  <li><a href="https://docs.parrotlinux.org/partners"><?php echo $lang['foot-3']; ?></a></li>
+                  <li><a href="https://docs.parrotlinux.org/team/"><?php echo $lang['foot-4']; ?></a></li>
                 </ul>
             </div>
             <div class="col-xs-6 col-sm-3 column">

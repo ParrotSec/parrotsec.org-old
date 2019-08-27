@@ -19,7 +19,7 @@ First off thank you for your interest and help!
 We take security very seriously, if you find a security vulnerability, do NOT open an issue. <br>
 Please email `security at parrotsec dot org` or send Palinuro a PM on Telegram. 
 
-You can help improve parrotsec.org by submitting merge requests (pull requests in github) to this repository.
+You can help improve parrotlinux.org by submitting merge requests (pull requests in github) to this repository.
 
 For more information about how to contribute please see our [Technical Guidelines for Contributing](https://nest.parrotsec.org/parrot-organization/community-team/community/blob/master/Tech-GL-4C.md).
 
