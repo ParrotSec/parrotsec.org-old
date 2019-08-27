@@ -2,7 +2,8 @@
 
 |    Nickname   |       Name         |              Email                |
 | ------------- | ------------------ | --------------------------------- |
-|    ByteHackr   |     Nemo Roy       |              Email                |
+|    ByteHackr   |     Nemo Roy       |                              |
+|     s1udge     |                   | s1udge@parrotsec.org |    
 Matteo Alessio Carrara 
 Jacopo Bontà 
 XDEV 
