@@ -19,7 +19,7 @@ $lang['nav-16']			= 'Мова';
 $lang['nav-17']			= 'Інші збірки';
 $lang['nav-18']			= 'Таблиця порівнянь';
 
-$lang['index-1']			= 'Відкривайте <b> Всесвіт Parrot </b> і отримайте максимальну віддачу від нашої дивовижної платформи на базі Debian.';
+$lang['index-1']			= 'Відкривайте <b> Всесвіт Parrot </b> і отримуйте максимальну віддачу від нашої дивовижної платформи на базі Debian.';
 $lang['index-2']			= 'Професійні інструменти для тестування безпеки, розробки програмного забезпечення та захисту приватного життя - все в одному місці.';
 $lang['index-3']			= 'Завантажити';
 $lang['index-4']			= 'Вивчити';
@@ -48,7 +48,7 @@ $lang['index-26']			= 'Нижнє меню та термінал';
 $lang['index-27']			= 'Інструменти терміналу';
 $lang['index-28']			= 'Faraday IDE';
 $lang['index-29']			= 'Anonsurf і\та firejail';
-$lang['index-30']			= 'Ricochet, torbrowser, zulucrypt and sirikali';
+$lang['index-30']			= 'Ricochet, torbrowser, zulucrypt і\та sirikali';
 $lang['index-31']			= 'QtCreator';
 
 $lang['foot-1']				= 'Про нас';
