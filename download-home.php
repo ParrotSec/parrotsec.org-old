@@ -79,7 +79,7 @@
     							<li class="list-group-item"><i class="icon-ok text-info"></i>For virtual machines</li>
                   <li class="list-group-item"><i class="icon-ok text-info"></i>Interface: MATE</li>
                   <li class="list-group-item"><i class="icon-ok text-info"></i>Format: OVA Open Virtualization Format</li>
-                  <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 2.9GB</li>
+                  <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 3.0GB</li>
     						</ul>
     						<div class="panel-footer">
     							<a class="btn btn-lg btn-block btn-info" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-home-<?php echo CONFIG_SYSTEM_VERSION; ?>_virtual.ova"><?php echo $lang['index-3']; ?></a>
