@@ -27,13 +27,13 @@
                  <li class="list-group-item"><i class="icon-ok text-info"></i>Size:4GB</li>
     						</ul>
     						<div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso"><?php echo $lang['index-3']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_x64.iso"><?php echo $lang['index-3']; ?></a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso.mirrorlist"><?php echo $lang['download-security-9']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_x64.iso.mirrorlist"><?php echo $lang['download-security-9']; ?></a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso.torrent"><?php echo $lang['download-security-10']; ?></a>
+    							<a class="btn btn-lg btn-block btn-info" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_x64.iso.torrent"><?php echo $lang['download-security-10']; ?></a>
     						</div>
                 <div class="panel-footer">
                   <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/signed-hashes.txt"><?php echo $lang['download-security-11']; ?></a>
@@ -55,9 +55,9 @@
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Size: 4GB</li>
                   </ul>
                   <div class="panel-footer">
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso">Download</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso.mirrorlist">Mirrors</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_amd64.iso.torrent">Torrent</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_x64.iso">Download</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_x64.iso.mirrorlist">Mirrors</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/Parrot-kde-security-<?php echo CONFIG_SYSTEM_VERSION; ?>_x64.iso.torrent">Torrent</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/<?php echo CONFIG_SYSTEM_VERSION; ?>/signed-hashes.txt">Signed Hashes</a><br>
                   </div>
                 </div>
