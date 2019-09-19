@@ -16,7 +16,7 @@ $lang['nav-14']			= 'Partner';
 $lang['nav-15']			= 'Team';
 $lang['nav-16']			= 'Lingua';
 $lang['nav-17']			= 'Other builds';
-$lang['nav-18']			= 'Comparsion page';
+$lang['nav-18']			= 'Comparison page';
 
 $lang['index-1']			= 'Esplora <b>l\'universo di Parrot</b> e prendi il meglio dal nostro fantastico ambiente Debian.';
 $lang['index-2']			= 'Strumenti professionali per test di sicurezza, sviluppo software e protezione della privacy.';

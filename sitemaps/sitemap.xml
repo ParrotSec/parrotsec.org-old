@@ -7,32 +7,32 @@
 
 
 <url>
-  <loc>https://www.parrot.sh/</loc>
+  <loc>https://parrotlinux.org/</loc>
   <lastmod>2019-01-20T14:41:06+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.parrot.sh/index.php</loc>
+  <loc>https://parrotlinux.org/index.php</loc>
   <lastmod>2019-01-20T14:41:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.parrot.sh/download.php</loc>
+  <loc>https://parrotlinux.org/download.php</loc>
   <lastmod>2019-01-20T14:41:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.parrot.sh/download-home.php</loc>
+  <loc>https://parrotlinux.org/download-home.php</loc>
   <lastmod>2019-01-20T14:41:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.parrot.sh/download-security.php</loc>
+  <loc>https://parrotlinux.org/download-security.php</loc>
   <lastmod>2019-01-20T14:41:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.parrot.sh/download-other.php</loc>
+  <loc>https://parrotlinux.org/download-other.php</loc>
   <lastmod>2019-01-20T14:41:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -42,7 +42,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/</loc>
+  <loc>https://docs.parrotlinux.org/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -302,77 +302,77 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/.</loc>
+  <loc>https://docs.parrotlinux.org/.</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/intro/what-is-parrot/</loc>
+  <loc>https://docs.parrotlinux.org/intro/what-is-parrot/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/intro/should-i-use-parrot/</loc>
+  <loc>https://docs.parrotlinux.org/intro/should-i-use-parrot/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/getting-started/download/</loc>
+  <loc>https://docs.parrotlinux.org/getting-started/download/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/getting-started/create-boot-device/</loc>
+  <loc>https://docs.parrotlinux.org/getting-started/create-boot-device/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/getting-started/what-is-live-mode/</loc>
+  <loc>https://docs.parrotlinux.org/getting-started/what-is-live-mode/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/getting-started/how-to-boot/</loc>
+  <loc>https://docs.parrotlinux.org/getting-started/how-to-boot/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/getting-started/use-parrot/</loc>
+  <loc>https://docs.parrotlinux.org/getting-started/use-parrot/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/getting-started/install-parrot/</loc>
+  <loc>https://docs.parrotlinux.org/getting-started/install-parrot/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/mirror-list/</loc>
+  <loc>https://docs.parrotlinux.org/mirror-list/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/team/</loc>
+  <loc>https://docs.parrotlinux.org/team/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/partners/</loc>
+  <loc>https://docs.parrotlinux.org/partners/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/warrant-canary/</loc>
+  <loc>https://docs.parrotlinux.org/warrant-canary/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/donate/</loc>
+  <loc>https://docs.parrotlinux.org/donate/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://docs.parrot.sh/faq/</loc>
+  <loc>https://docs.parrotlinux.org/faq/</loc>
   <lastmod>2019-01-20T05:15:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>

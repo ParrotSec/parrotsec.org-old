@@ -12,8 +12,8 @@
   <meta property="og:type"        content="article" />
   <meta property="og:title"       content="The advanced system for security experts, developers and crypto-addicted people." />
   <meta property="og:site_name"   content="Parrot Linux"/>
-  <meta property="og:url"         content="https://www.parrotlinux.com" />
-  <meta property="og:image"       content="https://www.parrotlinux.com/img/facebook-preview.png" />
+  <meta property="og:url"         content="https://parrotlinux.org" />
+  <meta property="og:image"       content="https://parrotlinux.org/img/facebook-preview.png" />
   <meta property="og:description" content="Discover our awesome cyber security GNU/Linux environment. It includes a full portable laboratory for security and digital forensics experts, but it also includes all you need to develop your own softwares or protect your privacy with anonymity and crypto tools." />
   <meta property="fb:app_id"      content="">
   <link rel="stylesheet" href="css/unified.min.css" />
@@ -82,28 +82,28 @@ th.tabco1 {
                   </ul>
                 </li>
                   <li>
-                      <a class="page-scroll" href="https://blog.parrotlinux.com"><?php echo $lang['nav-4']; ?></a>
+                      <a class="page-scroll" href="https://blog.parrotlinux.org"><?php echo $lang['nav-4']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotlinux.com"><?php echo $lang['nav-5']; ?></a>
+                      <a class="page-scroll" href="https://docs.parrotlinux.org"><?php echo $lang['nav-5']; ?></a>
                   </li>
                   <li>
                       <a class="page-scroll" href="https://nest.parrotsec.org" target="_blank"><?php echo $lang['nav-6']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotlinux.com/community"><?php echo $lang['nav-7']; ?></a>
+                      <a class="page-scroll" href="https://docs.parrotlinux.org/community"><?php echo $lang['nav-7']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotlinux.com/partners"><?php echo $lang['nav-8']; ?></a>
+                      <a class="page-scroll" href="https://docs.parrotlinux.org/partners"><?php echo $lang['nav-8']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotlinux.com/team"><?php echo $lang['nav-9']; ?></a>
+                      <a class="page-scroll" href="https://docs.parrotlinux.org/team"><?php echo $lang['nav-9']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotlinux.com/donate"><?php echo $lang['nav-10']; ?></a>
+                      <a class="page-scroll" href="https://docs.parrotlinux.org/donate"><?php echo $lang['nav-10']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotlinux.com/faq"><?php echo $lang['nav-11']; ?></a>
+                      <a class="page-scroll" href="https://docs.parrotlinux.org/faq"><?php echo $lang['nav-11']; ?></a>
                   </li>
               </ul>
               <ul class="nav navbar-nav navbar-right">
@@ -112,7 +112,7 @@ th.tabco1 {
                       <ul class="dropdown-menu language-navbar" aria-labelledby="languageDropdown">
                           <?php
                             foreach($languages as $key => $value) {
-                                $link = 'https://www.' . 'parrotlinux.com' . $_SERVER['REQUEST_URI'];
+                                $link = 'https://' . 'parrotlinux.org' . $_SERVER['REQUEST_URI'];
                                 if(!strpos($link, "?lang="))
                                     $final_link = "$link?lang=$key";
                                 else {
