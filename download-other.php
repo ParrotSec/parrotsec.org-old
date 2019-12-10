@@ -54,8 +54,8 @@ download<?php require(__DIR__ . '/include/parrot.inc.php'); ?>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Always install the latest version of the system</li>
                   </ul>
                   <div class="panel-footer">
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/4.6/Parrot-netinstall-gtk-4.6_amd64.iso">netinstall amd64</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/4.6/Parrot-netinstall-gtk-4.6_i386.iso">netinstall i386</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/4.7/Parrot-netinstall-gtk-4.7_amd64.iso">netinstall amd64</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/4.6/Parrot-netinstall-gtk-4.7_i386.iso">netinstall i386</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/dists/stable/main/installer-arm64/current/images/">netinstall arm64</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/dists/stable/main/installer-armhf/current/images/">netinstall armhf</a><br>
                   </div>
