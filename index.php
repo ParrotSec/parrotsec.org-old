@@ -2,10 +2,11 @@
 <header id="first">
         <div class="header-content">
             <div class="inner">
-              <h3 class="text-center wow fadeInDown"><?php echo $lang['index-1']; ?></h2>
-              <h5 class="text-center wow fadeInUp"><?php echo $lang['index-2']; ?></h3>
+              <h3 class="text-center wow fadeInDown"><?php echo $lang['index-1']; ?></h3>
+              <h5 class="text-center wow fadeInUp"><?php echo $lang['index-2']; ?></h5>
                 <hr>
                 <a href="download.php" class="btn btn-primary btn-xl"><?php echo $lang['index-3']; ?></a> &nbsp; <a href="https://docs.parrotlinux.org/intro/what-is-parrot/" class="btn btn-primary btn-xl page-scroll"><?php echo $lang['index-4']; ?></a>
+                <h5 class="text-center wow fadeInUp">Parrot 4.8 coming soon, <a target="_blank" href="https://download.parrot.sh/parrot/iso/">try the beta</a></h5>
                 <br>
             </div>
         </div>

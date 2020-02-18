@@ -15,6 +15,7 @@ download<?php require(__DIR__ . '/include/parrot.inc.php'); ?>
                     <p><img class="rounded mx-auto d-block float-left lazy" style="width:500px" data-src="img/arm-soc.jpg" /></p>
                 </div><br/><br/><br/>
             </div>
+            
             <div class="row">
 
 
@@ -32,10 +33,12 @@ download<?php require(__DIR__ . '/include/parrot.inc.php'); ?>
                     <li class="list-group-item"><i class="icon-ok text-info"></i>Quickly deploy and destroy parrot instances</li>
                   </ul>
                   <div class="panel-footer">
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/parrot-core/">Core</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/parrot/">Security</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/metasploit/">Metasploit</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://nest.parrotsec.org/parrot-build/docker-images/">source code</a>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/core/">Core</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/security/">Security</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/tools-metasploit/">Metasploit</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/tools-nmap/">Nmap</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/tools-dmitry/">dmitry</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://nest.parrot.sh/infra/docker-images/">Full List of containers</a>
                   </div>
                 </div>
               </div>
@@ -55,14 +58,13 @@ download<?php require(__DIR__ . '/include/parrot.inc.php'); ?>
                   </ul>
                   <div class="panel-footer">
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/4.7/Parrot-netinstall-gtk-4.7_amd64.iso">netinstall amd64</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/4.6/Parrot-netinstall-gtk-4.7_i386.iso">netinstall i386</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/dists/stable/main/installer-arm64/current/images/">netinstall arm64</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/dists/stable/main/installer-armhf/current/images/">netinstall armhf</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://download.parrot.sh/parrot/iso/4.7/Parrot-netinstall-gtk-4.7_i386.iso">netinstall i386</a><br>
                   </div>
                 </div>
               </div>
 
             </div>
+            <!--
 
 
             <div class="row">
@@ -124,6 +126,7 @@ download<?php require(__DIR__ . '/include/parrot.inc.php'); ?>
       						</div>
       					</div>
               </div>
+              -->
 
               </div>
           </div>
