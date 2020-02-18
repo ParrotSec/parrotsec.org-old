@@ -37,8 +37,9 @@ download<?php require(__DIR__ . '/include/parrot.inc.php'); ?>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/security/">Security</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/tools-metasploit/">Metasploit</a><br>
                     <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/tools-nmap/">Nmap</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/tools-dmitry/">dmitry</a><br>
-                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://nest.parrot.sh/infra/docker-images/">Full List of containers</a>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/r/parrotsec/tools-bettercap/">Bettercap</a><br>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://nest.parrot.sh/infra/docker-images/blob/master/README.md">Full List of containers + usage</a>
+                    <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://hub.docker.com/u/parrotsec">Docker Hub Page</a>
                   </div>
                 </div>
               </div>
