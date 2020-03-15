@@ -1,0 +1,11 @@
+.test: &test |
+  hugo
+
+
+test:
+  image: jojomi/hugo
+  artifacts:
+    paths:
+      - site
+  script:
+    - *test
