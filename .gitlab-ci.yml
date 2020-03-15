@@ -1,12 +1,12 @@
 .test: &test |
-  apt update && apt -y install hugo
+  find .
   hugo
 
 
 test:
-  image: parrotsec/build:rolling-amd64
+  image: parrotsec/build:web
   artifacts:
     paths:
-      - site
+      - public
   script:
     - *test
