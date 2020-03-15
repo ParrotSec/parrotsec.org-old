@@ -1,0 +1,18 @@
+{{ if .Site.Params.community.enable}}
+<section id="community" class="call-to-action section-sm bg-1 overly" style='background-image: url("{{ .Site.Params.counter.bgImage | absURL }}")'>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 text-center">
+               {{ with .Site.Params.community.title}} <h2>{{ . }}</h2> {{ end }}
+               {{ with .Site.Params.community.content }} <p>{{ . }}</p> {{ end }}
+                <a href="{{ .Site.Params.community.btnURL }}" class="btn btn-main">{{ with .Site.Params.community.btnText }} {{ . }} {{end}}</a>
+            </div>
+            <div class="col-lg-6 text-center">
+                {{ with .Site.Params.community.portalsTitle}} <h2>{{ . }}</h2> {{ end }}
+                {{ with .Site.Params.community.portalsDescription }} <p>{{ . }}</p> {{ end }}
+                 <a href="{{ .Site.Params.community.portalsURL }}" class="btn btn-main">{{ with .Site.Params.community.portalsURLtext }} {{ . }} {{end}}</a>
+             </div>
+        </div>
+    </div>
+</section>
+{{ end }}

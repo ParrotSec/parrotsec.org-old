@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+{{"<!-- Start Blog Section -->" | safeHTML}}
+<section id="blog" class="section">
+    <div class="container">
+        <div class="row">
+
+            {{ range .Data.Pages }}
+            {{"<!-- single blog post -->" | safeHTML}}
+            {{ .Render "article" }}
+            {{"<!-- /single blog post -->" | safeHTML}}
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{"<!-- /blog -->" | safeHTML}}
+
+{{ end }}

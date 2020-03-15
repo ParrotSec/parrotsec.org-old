@@ -1,0 +1,157 @@
+baseURL = "https://beta.parrot.sh"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "Parrot Project"
+theme = "meghna-hugo"
+summaryLength = 10
+
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "Project Goals"
+    URL = "/#goals"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Download"
+    URL = "/download"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Community"
+    URL = "/#community"
+    weight = 6
+
+    [[menu.nav]]
+    name = "Blog"
+    URL = "/blog"
+    weight = 8
+
+    [[menu.nav]]
+    name = "Documentation"
+    URL = "/docs"
+    weight = 10
+
+    [[menu.nav]]
+    name = "Nest"
+    URL = "https://nest.parrot.sh"
+    external = true
+    weight = 12
+
+    [[menu.nav]]
+    name = "Team"
+    URL = "/docs/team"
+    weight = 14
+
+    [[menu.nav]]
+    name = "Partners"
+    URL = "/docs/partners"
+    weight = 16
+
+    [[menu.nav]]
+    name = "Donate"
+    URL = "/docs/donate"
+    weight = 16
+
+
+# Site params
+[params]
+
+version = "4.8-beta8"
+mirror = "https://download.parrot.sh/parrot/iso/"
+
+home= "Home"
+logo = "images/logo.png"
+# Meta data
+description = "Professional tools for Pentesters and Hackers"
+author = "Parrot Security"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/macaw-poly2.jpg"
+    icon = "tf-ion-play"
+    heading = "The Parrot Project"
+    content= "All-in-one framework for Cyber Security, Software Development and Privacy Defense."
+    btn = true
+    btnText="Explore"
+    btnURL="#goals"
+
+    # call to action
+    [params.community]
+    enable = true
+    title = "Community Forum"
+    content = "An awesome community is one click away. Receive assistence, share ideas and follow the development of the project."
+    btnURL = "https://community.parrotlinux.org"
+    btnText = "Jump Aboard"
+    portalsTitle = "Community Portals"
+    portalsDescription = "From Telegram groups to IRC Channels and social pages."
+    portalsURL = "docs/community"
+    portalsURLtext = "Official Links"
+
+
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Active users"
+        icon = "tf-ion-android-happy"
+        count = "31200"
+
+        [[params.counter.counterItem]]
+        title = "Downloads every month"
+        icon = "tf-ion-archive"
+        count = "66120"
+
+        [[params.counter.counterItem]]
+        title = "Project contributors"
+        icon = "tf-ion-thumbsup"
+        count = "20"
+
+        [[params.counter.counterItem]]
+        title = "Mirror servers"
+        icon = "tf-ion-coffee"
+        count = "65"
+
+    # footer
+    [params.footer]
+        copyright = "2013-2020 Lorenzo Faletra"
+        copyrightURL = "https://palinuro.dev"
+        copyright2 = "2020 Parrot Security CIC"
+        copyright2URL = "#you-are-already-here"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "https://facebook.com/parrotsec"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "https://twitter.com/parrotsec"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-google-outline"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-youtube"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-linkedin"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-dribbble-outline"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-pinterest-outline"
+        url = "#"

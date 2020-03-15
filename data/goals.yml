@@ -1,0 +1,21 @@
+enable : true
+image : images/about/about-business-man.jpg
+title : We are the Parrot Project
+description : Parrot is a worldwide community of developers and security specialists that work together to build a shared framework of tools to make their job easier, standardized and more reliable and secure.
+description2 : Parrot OS, the flagship product of <b>Parrot Security</b> is a GNU/Linux distribution based on Debian and designed with Security and Privacy in mind. It includes a full portable laboratory for all kinds of cyber security operations, from pentesting to digital forensics and reverse engineering, but it also includes everything needed to develop your own software or keep your data secure.
+aboutItem : 
+  - icon : tf-circle-compass
+    title : Secure
+    content : Always updated, frequently released with many hardening and sandboxing options abailable. Everything is under your complete control.
+    
+  - icon : tf-hotairballoon
+    title : Free (as in freedom)
+    content : Feel free to get the system, share with anyone, read the source code and change it as you want! this system is made to respect your freedom, and it ever will be.
+
+  - icon : tf-hotairballoon
+    title : Lightweight
+    content : We care about resources consumption, and the system has proven to be extremely lightweight and run surprisingly fast even on very old hardware or with very limited resources.
+
+  - icon : tf-hotairballoon
+    title : Portable and universal
+    content : Our tools are designed to be compatible with as many devices as possible via containerization technologies like Docker or Podman. Feel free to use the Parrot tools on Windows, Mac OS or any other Linux distribution without changing your habits.

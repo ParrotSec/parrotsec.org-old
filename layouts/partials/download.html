@@ -1,0 +1,65 @@
+{{ if .Site.Data.download.enable}}
+{{"<!-- Portfolio Section -->" | safeHTML}}
+<section class="portfolio section" id="download">
+    <div class="container">
+        <div class="row ">
+            <div class="col-xl-12">
+                {{"<!-- section title -->" | safeHTML}}
+                <div class="title text-center">
+                    <h2> {{ with .Site.Data.download.heading }} {{ . }} {{ end }} <span class="color">{{ with .Site.Data.download.headingSpan }} {{ . }} {{ end }}</span></h2>
+                    <div class="border-meghna"></div>
+                </div>
+                {{"<!-- /section title -->" | safeHTML}}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="text-center portfolio-filter">
+                    {{ range .Site.Data.download.otherlinks }}
+                    {{ if .hashes }}
+                    <button type="button" ><a href="{{ $.Site.Params.mirror }}{{ $.Site.Params.version }}/signed-hashes.txt" target="_blank">{{ .text }}</a></button>
+                    {{ else }}
+                    <button type="button" ><a href="{{ .URL }}" target="_blank">{{ .text }}</a></button>
+                    {{ end }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="portfolio-filter">
+                    <button type="button" data-filter="all">All</button>
+                    {{ range .Site.Data.download.filterList }}
+                    <button type="button" data-filter="{{ .filterType }}">{{ .filterTitle }}</button>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="row filtr-container">
+            {{ range .Site.Data.download.item }}
+            <div class="col-sm-4 filtr-item" data-category="{{ .types }}" style="margin: 10px;padding: 10px;background-color:#30363D">
+                <div class="text-center">
+                    <h4>{{ .title }}</h4>
+                </div>
+                <div class="border-meghna"></div>
+                    <div style="padding: 5px"> 
+                        {{ if .URL }}
+                        <a href="{{ .URL }}" target="_blank">> Open</a>
+                        {{ end}}
+                        {{ if .object }}
+                        {{ if .extension }}
+                        <a href="{{ $.Site.Params.mirror }}{{ $.Site.Params.version }}/{{ .object }}-{{ $.Site.Params.version }}_{{ .extension }}" target="_blank">> Direct Download</a><br>
+                        <a href="{{ $.Site.Params.mirror }}{{ $.Site.Params.version }}/{{ .object }}-{{ $.Site.Params.version }}_{{ .extension }}.mirrorlist" target="_blank">> Select Server</a><br>
+                        {{ if .torrent }}
+                        <a href="{{ $.Site.Params.mirror }}{{ $.Site.Params.version }}/{{ .object }}-{{ $.Site.Params.version }}_{{ .extension }}.torrent" target="_blank">> Torrent</a><br>
+                        {{ end }}
+                        {{ end }}
+                        {{ end }}
+                        <p>{{ .description }}</p>
+                    </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
