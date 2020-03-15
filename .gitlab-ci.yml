@@ -1,9 +1,10 @@
 .test: &test |
+  apt update && apt install hugo
   hugo
 
 
 test:
-  image: jojomi/hugo
+  image: parrotsec/core:rolling
   artifacts:
     paths:
       - site
