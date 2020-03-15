@@ -1,5 +1,5 @@
 .test: &test |
-  apt update && apt install hugo
+  apt update && apt -y install hugo
   hugo
 
 
