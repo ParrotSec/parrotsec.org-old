@@ -1,4 +1,5 @@
 .test: &test |
+  git submodule update --recursive
   find .
   hugo
 
