@@ -27,14 +27,14 @@ download:
     - name : Parrot Home KDE ISO
       categories : ["home", "iso", "kde"]
       content : For Daily use.<br>No Security Tools.<br>KDE desktop.<br>Size 1.9Gb
-      base : Parrot-home-kde
+      base : Parrot-kde-home
       extension : x64.iso
       torrent : yes
 
     - name : Parrot Home OVA
       categories : ["home", "virtual", "mate"]
       content : For Virtual Machines.<br>Home Edition.<br>MATE desktop.<br>Size 3Gb
-      base : Parrot-home-kde
+      base : Parrot-home
       extension : virtual.ova
       torrent : yes
 
@@ -42,21 +42,21 @@ download:
     - name : Parrot Security MATE ISO
       categories : ["security", "iso", "mate"]
       content : For Professional Use.<br>Security Tools Included.<br>MATE desktop.<br>Size 3.9Gb
-      base : Parrot-home
+      base : Parrot-security
       extension : x64.iso
       torrent : yes
       
     - name : Parrot Security KDE ISO
       categories : ["security", "iso", "kde"]
       content : For Professional Use.<br>Security Tools Included.<br>KDE desktop.<br>Size 4Gb
-      base : Parrot-home-kde
+      base : Parrot-kde-security
       extension : x64.iso
       torrent : yes
 
     - name : Parrot Security OVA
       categories : ["security", "virtual", "mate"]
       content : For Virtual Machines.<br>Security Edition.<br>MATE desktop.<br>Size 5.5Gb
-      base : Parrot-home-kde
+      base : Parrot-security
       extension : virtual.ova
       torrent : yes
 
