@@ -3,26 +3,26 @@ heading : Parrot
 headingSpan : OS
 heading2: Project Goals
 aboutItem : 
-- icon : tf-tools
+- icon : images/about/shield.png
   title : Security
   content : A complete arsenal of security tools that can be deployed on all your devices and in the cloud.
 
-- icon : tf-strategy
+- icon : images/about/padlock.png
   title : Privacy
   content : A secure and hardened system ready to securely surf the web and privately communicate with, plus many useful zero-knowledge services where encryption is done right.
 
-- icon : tf-anchor2
+- icon : images/about/gear.png
   title : Software Development
   content : A full development stack with the best editors, languages and technologies available out of the box.
 
-- icon : tf-anchor2
+- icon : images/about/book.png
   title : Learning
   content : Many resources to learn from, in order to make your skillset stronger. The system is designed to push newbies into good habits.
 
-- icon : tf-anchor2
+- icon : 
   title : Community
   content : A vast community of experts who want to know you and help you in your cyber security journey.
 
-- icon : tf-anchor2
+- icon : images/about/server.png
   title : Infrastructure
   content : A resilient and distributed infrastructure with dedicated CDNs, worldwide mirrors and IPFS/P2P gateways to give access to software and information even to people in totalitarian regimes or in poor countries where stable internet connection to foreign countries is not an option.
