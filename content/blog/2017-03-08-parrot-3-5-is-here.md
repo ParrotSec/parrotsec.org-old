@@ -3,7 +3,7 @@ id: 99
 title: Parrot 3.5 is here
 date: 2017-03-08T12:56:37+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 Hello Parrots, Palinuro here.
 

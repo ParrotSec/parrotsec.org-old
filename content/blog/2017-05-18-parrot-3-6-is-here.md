@@ -3,7 +3,7 @@ id: 109
 title: Parrot 3.6 is here
 date: 2017-05-18T13:07:45+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 After some months of hard work we were finally able to release Parrot 3.6.
 

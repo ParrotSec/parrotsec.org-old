@@ -3,7 +3,7 @@ id: 29
 title: Parrot 3.2 released
 date: 2016-10-15T17:40:34+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 We have finished all the work on Parrot 3.2 and we are now proud to announce its official release.
 

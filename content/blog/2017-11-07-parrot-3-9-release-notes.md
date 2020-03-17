@@ -3,7 +3,7 @@ id: 167
 title: Parrot 3.9 release notes
 date: 2017-11-07T17:54:07+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 Parrot 3.9 is now ready, and it includes some important new features that were introduced to make the system more secure and reliable.
 

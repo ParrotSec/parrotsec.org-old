@@ -3,7 +3,7 @@ id: 209
 title: Parrot 4.2.2 release notes
 date: 2018-09-10T16:45:15+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 We are proud to announce the release of Parrot 4.2.
 

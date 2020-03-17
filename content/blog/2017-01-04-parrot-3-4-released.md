@@ -3,7 +3,7 @@ id: 81
 title: Parrot 3.4 released
 date: 2017-01-04T00:07:19+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 Parrot 3.4.1 was released.
 

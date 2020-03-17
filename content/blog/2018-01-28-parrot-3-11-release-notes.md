@@ -3,7 +3,7 @@ id: 188
 title: Parrot 3.11 release notes
 date: 2018-01-28T20:03:09+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 Parrot 3.11 is now available for download.
 

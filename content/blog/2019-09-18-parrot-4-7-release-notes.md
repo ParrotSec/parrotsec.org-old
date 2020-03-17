@@ -2,7 +2,7 @@
 title: Parrot 4.7 release notes
 date: 2019-09-18T09:32:40+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 
 # Parrot 4.7 development notes

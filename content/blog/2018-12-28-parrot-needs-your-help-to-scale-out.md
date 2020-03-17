@@ -3,7 +3,7 @@ id: 252
 title: Parrot OS needs your help to scale out!
 date: 2018-12-28T02:23:57+00:00
 author: palinuro
-image: images/slider/macaw-vaporwave.jpg
+image: images/backgrounds/macaw-vaporwave.jpg
 ---
 <div class="public-preview">
   <p class="line" data-line="0">

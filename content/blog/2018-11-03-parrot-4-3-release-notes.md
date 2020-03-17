@@ -3,7 +3,7 @@ id: 226
 title: Parrot 4.3 Release Notes
 date: 2018-11-03T18:32:12+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 **Parrot 4.3 is now available for download.**
 

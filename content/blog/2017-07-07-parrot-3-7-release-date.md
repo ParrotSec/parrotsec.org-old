@@ -3,7 +3,7 @@ id: 134
 title: Parrot 3.7 release date
 date: 2017-07-07T17:26:39+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 We are ready to release new updated system images for Parrot 3.7.
 

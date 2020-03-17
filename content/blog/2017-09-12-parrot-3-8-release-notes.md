@@ -3,7 +3,7 @@ id: 149
 title: Parrot 3.8 Release Notes
 date: 2017-09-12T18:13:05+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 What i personally love about this project is its little but awesome developers community, and this summer was more productive than ever.
 

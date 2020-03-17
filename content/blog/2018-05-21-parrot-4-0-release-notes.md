@@ -3,7 +3,7 @@ id: 193
 title: Parrot 4.0 release notes
 date: 2018-05-21T13:14:34+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 Parrot 4.0 is now available for download.
 

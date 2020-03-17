@@ -3,7 +3,7 @@ id: 136
 title: Parrot 3.7 Release Notes
 date: 2017-07-10T10:41:53+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 Take a Debian core and configure it to be lightweight with a classic but complete desktop environment, put a beautiful dark theme on it and modify it to have nice colors and to not stress your eyes even after many hours of work.
   

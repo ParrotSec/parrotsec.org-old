@@ -3,7 +3,7 @@ id: 257
 title: Parrot 4.6 release notes
 date: 2019-04-26T09:32:40+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 
 

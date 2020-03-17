@@ -3,7 +3,7 @@ id: 253
 title: The Parrot CDN
 date: 2019-01-03T05:20:42+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 
 

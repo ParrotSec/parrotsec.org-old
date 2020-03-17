@@ -3,7 +3,7 @@ id: 114
 title: Debian and Devuan
 date: 2017-06-13T15:31:42+00:00
 author: palinuro
-image: images/slider/macaw-vaporwave.jpg
+image: images/backgrounds/macaw-vaporwave.jpg
 ---
 <img class="alignnone wp-image-117 size-thumbnail" src="https://blog.parrotsec.org/wp-content/uploads/if-150x150.png" alt="" width="150" height="150" />
 

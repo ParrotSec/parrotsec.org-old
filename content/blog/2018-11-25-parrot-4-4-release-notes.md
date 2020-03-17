@@ -3,7 +3,7 @@ id: 234
 title: Parrot 4.4 Release Notes
 date: 2018-11-25T21:09:29+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 <img class="alignnone size-full wp-image-235" src="https://blog.parrotsec.org/wp-content/uploads/Screenshot_generic_2018-11-25_213621.png" alt="" width="640" height="480" srcset="https://blog.parrotsec.org/wp-content/uploads/Screenshot_generic_2018-11-25_213621.png 640w, https://blog.parrotsec.org/wp-content/uploads/Screenshot_generic_2018-11-25_213621-300x225.png 300w, https://blog.parrotsec.org/wp-content/uploads/Screenshot_generic_2018-11-25_213621-230x173.png 230w, https://blog.parrotsec.org/wp-content/uploads/Screenshot_generic_2018-11-25_213621-350x263.png 350w, https://blog.parrotsec.org/wp-content/uploads/Screenshot_generic_2018-11-25_213621-480x360.png 480w" sizes="(max-width: 640px) 100vw, 640px" />
 

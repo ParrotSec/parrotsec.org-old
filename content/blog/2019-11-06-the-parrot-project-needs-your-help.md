@@ -2,7 +2,7 @@
 title: The Parrot Project needs your help
 date: 2019-11-06T09:32:40+00:00
 author: marafed
-image: images/slider/macaw-vaporwave.jpg
+image: images/backgrounds/macaw-vaporwave.jpg
 ---
 
 ## The Parrot Project needs your help! 

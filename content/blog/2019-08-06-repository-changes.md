@@ -3,7 +3,7 @@ id: 258
 title: Repository Changes
 date: 2019-08-06T04:32:40+00:00
 author: marafed
-image: images/slider/macaw-vaporwave.jpg
+image: images/backgrounds/macaw-vaporwave.jpg
 ---
 
 Hey some of you may have noticed your source list URIs went from deb.parrotsec.org to deb.parrot.sh :slight_smile: this is part of the [migration from parrotsec.org to parrot.sh](https://community.parrot.sh/t/infrastructure-outage/9212). This change was put into the apt-parrot package (3.0+parrot2 precisely). Your source list `/etc/apt/sources.list.d/parrot.list` at this time should like this:

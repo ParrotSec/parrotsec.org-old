@@ -3,7 +3,7 @@ id: 256
 title: Parrot 4.5 release notes
 date: 2019-01-21T05:18:45+00:00
 author: palinuro
-image: images/slider/macaw-poly2.jpg
+image: images/backgrounds/macaw-poly2.jpg
 ---
 
 
