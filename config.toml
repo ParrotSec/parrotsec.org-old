@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://beta.parrot.sh"
+baseURL = "https://parrotsec.org"
 title = "Parrot Security"
 theme = "meghna-hugo"
 # post pagination
