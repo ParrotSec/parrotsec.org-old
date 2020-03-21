@@ -5,3 +5,7 @@ author: palinuro
 image: images/backgrounds/macaw-poly2.jpg
 description : "Parrot 4.8 is now available for download, read the release notes"
 ---
+
+
+# The Parrot 4.8 journey
+
