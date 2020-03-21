@@ -2,7 +2,7 @@ enable : true
 image : images/about/about-business-man.jpg
 title : We are the Parrot Project
 description : Parrot is a worldwide community of developers and security specialists that work together to build a shared framework of tools to make their job easier, standardized and more reliable and secure.
-description2 : Parrot OS, the flagship product of <b>Parrot Security</b> is a GNU/Linux distribution based on Debian and designed with Security and Privacy in mind. It includes a full portable laboratory for all kinds of cyber security operations, from pentesting to digital forensics and reverse engineering, but it also includes everything needed to develop your own software or keep your data secure.
+description2 : Parrot OS, the flagship product of Parrot Security is a GNU/Linux distribution based on Debian and designed with Security and Privacy in mind. It includes a full portable laboratory for all kinds of cyber security operations, from pentesting to digital forensics and reverse engineering, but it also includes everything needed to develop your own software or keep your data secure.
 aboutItem : 
   - icon : tf-circle-compass
     title : Secure
