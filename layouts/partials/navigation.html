@@ -15,7 +15,7 @@
 
 			<div class="collapse navbar-collapse" id="navigation">
 				<ul class="navbar-nav ml-auto">
-					<li class="nav-item"><a class="nav-link" href="#body">{{ .Site.Params.home }}</a></li>
+					<li class="nav-item"><a class="nav-link" href="/">{{ .Site.Params.home }}</a></li>
 					{{ if .IsHome }}
 					{{ range .Site.Menus.main }}
 					<li class="nav-item"><a class="nav-link" href="{{ .URL }}">{{ .Name }}</a></li>
@@ -24,7 +24,11 @@
 					{{ else }}
 
 					{{ range .Site.Menus.main }}
+					{{ if hasPrefix .URL "http" }}
+					<li class="nav-item"><a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+					{{ else }}
 					<li class="nav-item"><a class="nav-link" href="{{ $.Site.BaseURL | relLangURL }}{{ .URL }}">{{ .Name }}</a>
+					{{ end }}
 					</li>
 					{{ end }}
 					{{ end }}

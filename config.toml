@@ -65,7 +65,6 @@ weight = 10
 [[menu.main]]
 name = "Nest"
 URL = "https://nest.parrot.sh"
-external = true
 weight = 12
 
 [[menu.main]]

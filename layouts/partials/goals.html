@@ -1,23 +1,25 @@
-{{ if .Site.Data.goals.enable }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ if $data.goals.enable }}
 <section class="section section-bg about-2" id="goals">
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-12">
                     <div class="title text-center wow fadeIn" data-wow-duration="1500ms">
-                        <h2>{{ .Site.Data.goals2.heading}} <span class="color">{{ .Site.Data.goals2.headingSpan}}</span> </h2>
+                        <h2>{{ $data.goals2.heading}} <span class="color">{{ $data.goals2.headingSpan}}</span> </h2>
                         <div class="border-meghna"></div>
                     </div>
                 </div>
             <div class="col-lg-6 padding-0 ">
-                <img class="img-fluid" src="{{ .Site.Data.goals.image | absURL}}" alt="image">
+                <img class="img-fluid" src="{{ $data.goals.image | absURL}}" alt="image">
             </div>
             <div class="col-lg-6">
                 <div class="content-block">
-                    {{with .Site.Data.goals.title}} <h2>{{ . }}</h2> {{ end }}
-                    {{with .Site.Data.goals.description}} <p>{{ . }}</p> {{ end }}
-                    {{with .Site.Data.goals.description2}} <p>{{ . }}</p> {{ end }}
+                    {{with $data.goals.title}} <h2>{{ . }}</h2> {{ end }}
+                    {{with $data.goals.description}} <p>{{ . }}</p> {{ end }}
+                    {{with $data.goals.description2}} <p>{{ . }}</p> {{ end }}
                     <div class="row">
-                        {{ range .Site.Data.goals.aboutItem }}
+                        {{ range $data.goals.aboutItem }}
                         <div class="col-lg-6">
                             <div class="media">
                                 <div class="align-self-start mr-3">
@@ -39,12 +41,12 @@
 {{ end }}
 
 
-{{ if .Site.Data.goals2.enable}}
+{{ if $data.goals2.enable}}
 <section class="bg-one about section" id="goals2">
     <div class="container">
         <div class="row">
 
-            {{ range .Site.Data.goals2.aboutItem }}
+            {{ range $data.goals2.aboutItem }}
             <div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
                 <div class="block">
                     <div class="icon-box">
