@@ -77,7 +77,7 @@ No GUI available at the moment, but you will notice the improvements to this ico
 
 We are proud to announce the new Parrot installer based on Calamares, the same installer used by Manjaro and other GNU/Linux distributions.
 
-Manjaro is a distro-agnostic installer that is easy to use and offers not only an improved user experience, but also all the relevant advanced features expected by a quality installer, like full disk encryption complex partitioning etc.
+Calamares is a distro-agnostic installer that is easy to use and offers not only an improved user experience, but also all the relevant advanced features expected by a quality installer, like full disk encryption complex partitioning etc.
 
 Parrot still ships the Debian installer for those who need it, but now users have a new user friendly option available straight from the desktop of their live environment.
 
