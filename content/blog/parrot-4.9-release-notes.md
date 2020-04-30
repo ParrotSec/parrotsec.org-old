@@ -1,6 +1,6 @@
 ---
 title: "Parrot 4.9 Release Notes"
-date: 2020-04-30T14:51:12+02:00
+date: 2020-04-30T12:51:12+02:00
 author: palinuro
 image: images/backgrounds/macaw-poly2.jpg
 description : "Parrot 4.9 is now available for download, read the release notes"
