@@ -64,7 +64,7 @@ weight = 10
 
 [[menu.main]]
 name = "Nest"
-URL = "https://nest.parrot.sh"
+URL = "https://nest.parrotsec.org"
 weight = 12
 
 [[menu.main]]
@@ -87,7 +87,7 @@ weight = 16
 ############################# Default Parameters ##########################
 [params]
 
-version = "4.8"
+version = "4.9"
 mirror = "https://download.parrot.sh/parrot/iso/"
 
 logo = "images/logo.png"

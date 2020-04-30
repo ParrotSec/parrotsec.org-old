@@ -17,7 +17,7 @@ download:
     - text : Beta images
       URL : https://download.parrot.sh/parrot/iso/testing
   download_item :
-    - name : Parrot Home MATE ISO
+    - name : Parrot Home MATE ISO (default)
       categories : ["home", "iso", "mate"]
       content : For Daily use.<br>No Security Tools.<br>MATE desktop.<br>Size 1.8Gb
       base : Parrot-home
@@ -39,7 +39,7 @@ download:
       torrent : yes
 
 
-    - name : Parrot Security MATE ISO
+    - name : Parrot Security MATE ISO (default)
       categories : ["security", "iso", "mate"]
       content : For Professional Use.<br>Security Tools Included.<br>MATE desktop.<br>Size 3.9Gb
       base : Parrot-security
@@ -76,4 +76,4 @@ download:
     - name : Parrot Docker Containers
       categories : ["virtual"]
       content : Use Parrot OS universally on top of any other OS and in the cloud.
-      link: https://nest.parrot.sh/build/docker-images/-/blob/master/README.md
+      link: https://nest.parrotsec.org/build/docker-images/-/blob/master/README.md
