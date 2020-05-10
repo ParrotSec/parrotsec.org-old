@@ -87,7 +87,7 @@ weight = 16
 ############################# Default Parameters ##########################
 [params]
 
-version = "4.9"
+version = "4.9.1"
 mirror = "https://download.parrot.sh/parrot/iso/"
 
 logo = "images/logo.png"
