@@ -2,7 +2,7 @@
 title: "Parrot OS + HackTheBox"
 date: 2020-05-08T11:30:12+02:00
 author: palinuro
-image: images/backgrounds/macaw-vaporwave.jpg
+image: images/blog/htb-parrot.jpg
 description : "The partnership between Parrot OS and HackTheBox is now official. Read the press release"
 ---
 
