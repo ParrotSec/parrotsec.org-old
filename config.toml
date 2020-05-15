@@ -125,16 +125,28 @@ copyright2URL = "#you-are-already-here"
 
 ############################# social icons ##########################
 [[params.social]]
-icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+icon = "/images/social/facebook.png"
 link = "https://facebook.com/parrotsec"
 
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+icon = "/images/social/twitter.png"
 link = "https://twitter.com/parrotsec"
 
 [[params.social]]
-icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+icon = "/images/social/instagram.png"
 link = "https://www.instagram.com/parrotproject/"
+
+[[params.social]]
+icon = "/images/social/telegram.png"
+link = "https://t.me/parrotproject"
+
+[[params.social]]
+icon = "/images/social/wikipedia.png"
+link = "https://en.wikipedia.org/wiki/Parrot_OS"
+
+[[params.social]]
+icon = "/images/social/distrowatch.png"
+link = "https://distrowatch.com/parrot"
 
 
 ################################ English Language ########################
