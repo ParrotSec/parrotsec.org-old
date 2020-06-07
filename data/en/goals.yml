@@ -6,7 +6,7 @@ description2 : Parrot OS, the flagship product of Parrot Security is a GNU/Linux
 aboutItem : 
   - icon : tf-circle-compass
     title : Secure
-    content : Always updated, frequently released with many hardening and sandboxing options abailable. Everything is under your complete control.
+    content : Always updated, frequently released with many hardening and sandboxing options available. Everything is under your complete control.
     
   - icon : tf-hotairballoon
     title : Free (as in freedom)
