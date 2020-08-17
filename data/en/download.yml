@@ -6,8 +6,6 @@ download:
     - entry: security
     - entry: mate
     - entry: kde
-    - entry: netinstall
-    - entry: iso
     - entry: virtual
   otherlinks:
     - text : Signed Hashes
@@ -18,17 +16,17 @@ download:
       URL : https://download.parrot.sh/parrot/iso/testing
   download_item :
     - name : Parrot Home MATE ISO (default)
-      categories : ["home", "iso", "mate"]
+      categories : ["home", "mate"]
       content : For Daily use.<br>No Security Tools.<br>MATE desktop.<br>Size 1.8Gb
       base : Parrot-home
-      extension : x64.iso
+      extension : amd64.iso
       torrent : yes
       
     - name : Parrot Home KDE ISO
-      categories : ["home", "iso", "kde"]
+      categories : ["home", "kde"]
       content : For Daily use.<br>No Security Tools.<br>KDE desktop.<br>Size 1.9Gb
       base : Parrot-kde-home
-      extension : x64.iso
+      extension : amd64.iso.html
       torrent : yes
 
     - name : Parrot Home OVA
@@ -40,17 +38,17 @@ download:
 
 
     - name : Parrot Security MATE ISO (default)
-      categories : ["security", "iso", "mate"]
+      categories : ["security", "mate"]
       content : For Professional Use.<br>Security Tools Included.<br>MATE desktop.<br>Size 3.9Gb
       base : Parrot-security
-      extension : x64.iso
+      extension : amd64.iso
       torrent : yes
       
     - name : Parrot Security KDE ISO
-      categories : ["security", "iso", "kde"]
+      categories : ["security", "kde"]
       content : For Professional Use.<br>Security Tools Included.<br>KDE desktop.<br>Size 4Gb
       base : Parrot-kde-security
-      extension : x64.iso
+      extension : amd64.iso.html
       torrent : yes
 
     - name : Parrot Security OVA
@@ -59,19 +57,6 @@ download:
       base : Parrot-security
       extension : virtual.ova
       torrent : yes
-
-
-    - name : Parrot Netinstall x64
-      categories : ["netinstall"]
-      content : EXPERIMENTAL.<br>Network installer.<br>Internet Required.
-      base : Parrot-netinstall
-      extension : x64.iso
-      
-    - name : Parrot Netinstall x32
-      categories : ["netinstall"]
-      content : EXPERIMENTAL.<br>Network installer.<br>Internet Required.
-      base : Parrot-netinstall
-      extension : x32.iso
 
     - name : Parrot Docker Containers
       categories : ["virtual"]
