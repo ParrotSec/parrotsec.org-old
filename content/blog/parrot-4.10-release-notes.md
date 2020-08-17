@@ -2,11 +2,10 @@
 title: "Parrot 4.10 Release Notes"
 date: 2020-08-16T11:30:12+02:00
 author: palinuro
-image: images/backgrounds/macaw-poly2.jpg
+image: images/blog/parrot-4.10.jpg
 description : "Parrot 4.9 is now available for download, read the release notes"
 ---
 
-# Parrot 4.10
 We are proud to announce the release of Parrot OS 4.10.
 This new version includes many important updates to make the distribution more reliable and more secure.
 

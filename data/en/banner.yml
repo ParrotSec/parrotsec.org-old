@@ -3,9 +3,11 @@ banner:
   enable : true
   bg_image : "images/backgrounds/macaw-poly2.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "The Parrot Project"
+  title : "Parrot Security"
   content : "All-in-one framework for Cyber Security, Software Development and Privacy Defense."
   button:
     enable : true
-    label : "Explore Us"
+    label : "Download"
     link : "#goals"
+    label2 : "4.10 Release Notes"
+    link2 : "blog/parrot-4.10-release-notes"
