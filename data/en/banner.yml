@@ -1,6 +1,6 @@
 ############################### Banner ################################
 banner:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/macaw-poly2.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Parrot Security"

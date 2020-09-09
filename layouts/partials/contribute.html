@@ -1,0 +1,37 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section id="contribute" class="call-to-action section-sm bg-1 overly" style='top-padding: 20em;bottom-padding: 20em;background-image: url("{{ .Site.Params.contribute.background | absURL }}")'>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-lg-12 text-center">
+                <h1>{{ $data.contribute.title }}</h1>
+                <h6>{{ $data.contribute.description }}</h6>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12 col-md-6 col-lg-6">
+                <div style="background:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.5));border-radius: 2em;padding:2em;margin:1em">
+                    <h3>Management</h3>
+                    <b>·</b> <a href="https://nest.parrotsec.org/org/parrot/-/blob/master/README.md" target="_blank">Public Todo List</a><br>
+                    <b>·</b> <a href="https://nest.parrotsec.org/org/parrot/-/milestones" target="_blank">Milestones</a>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+                <div style="background:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.5));border-radius: 2em;padding:2em;margin: 1em">
+                    <h3>Development Platform</h3>
+                    <b>·</b> <a href="https://nest.parrotsec.org/explore/groups" target="_blank">NEST - Git Server</a><br>
+                    <b>·</b> <a href="https://github.com/parrotsec" target="_blank">Github - Backup Mirror</a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-lg-12 text-center">
+                <div style="background:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.5));border-radius: 2em;padding:2em;margin-top:5em">
+                    <h1>Call for contributors (coming soon)</h1>
+                    We will soon announce a new procedure for people who would like to contribute to the Parrot Project for the first time.<br>
+                    Stay tuned!
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

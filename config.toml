@@ -37,10 +37,6 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/lazy-load/lozad.min.js"
 
 ############################# Navigation ##################################
-[[menu.main]]
-name = "Project Goals"
-URL = "#goals"
-weight = 2
 
 [[menu.main]]
 name = "Download"
@@ -61,6 +57,11 @@ weight = 8
 name = "Documentation"
 URL = "docs"
 weight = 10
+
+[[menu.main]]
+name = "Get Involved"
+URL = "contribute"
+weight = 11
 
 [[menu.main]]
 name = "Nest"
@@ -105,15 +106,20 @@ preloader = "images/logo.png"
 # comunity
 [params.community]
 enable = true
-background = "images/backgrounds/MysticHorizon.jpg"
-title = "Community Forum"
+background = "images/backgrounds/world-map-poly.jpg"
+title = "Official Forum"
 content = "An awesome community is one click away. Receive assistence, share ideas and follow the development of the project."
-btnURL = "https://community.parrotlinux.org"
+btnURL = "https://community.parrotsec.org"
 btnText = "Jump Aboard"
-portalsTitle = "Community Portals"
-portalsDescription = "From Telegram groups to IRC Channels and social pages."
+portalsTitle = "Community Links"
+portalsDescription = "Telegram, Matrix, IRC, Facebook, Twitter, Instagram and more. All the official channels of our community."
 portalsURL = "docs/community"
 portalsURLtext = "Official Links"
+
+# contribute
+[params.contribute]
+enable = true
+background = "images/backgrounds/planet-poly.jpg"
 
 # footer
 [params.footer]

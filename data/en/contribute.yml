@@ -1,0 +1,18 @@
+title : Be part of something bigger
+description : Parrot Securty is developed by a friendly community of hackers, developers and enthusiasts from all over the world.
+aboutItem : 
+  - icon : tf-circle-compass
+    title : Secure
+    content : Always updated, frequently released with many hardening and sandboxing options available. Everything is under your complete control.
+    
+  - icon : tf-hotairballoon
+    title : Free (as in freedom)
+    content : Feel free to get the system, share with anyone, read the source code and change it as you want! this system is made to respect your freedom, and it ever will be.
+
+  - icon : tf-hotairballoon
+    title : Lightweight
+    content : We care about resources consumption, and the system has proven to be extremely lightweight and run surprisingly fast even on very old hardware or with very limited resources.
+
+  - icon : tf-hotairballoon
+    title : Portable and universal
+    content : Our tools are designed to be compatible with as many devices as possible via containerization technologies like Docker or Podman. Feel free to use the Parrot tools on Windows, Mac OS or any other Linux distribution without changing your habits.

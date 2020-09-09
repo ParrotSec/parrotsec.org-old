@@ -1,7 +1,7 @@
 {{ if .Site.Params.community.enable}}
 <section id="community" class="call-to-action section-sm bg-1 overly" style='top-padding: 20em;bottom-padding: 20em;background-image: url("{{ .Site.Params.community.background | absURL }}")'>
     <div class="container">
-        <div class="row">
+        <div class="row" style="background:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.5));border-radius: 2em;padding:4em">
             <div class="col-lg-6 text-center">
                {{ with .Site.Params.community.title}} <h2 style="color:#fff">{{ . }}</h2> {{ end }}
                {{ with .Site.Params.community.content }} <p style="color:#fff">{{ . }}</p> {{ end }}

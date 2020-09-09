@@ -83,7 +83,7 @@ It is important to know that this version will break retro-compatibility with pr
 
 One of the most wanted features is finally here: **end-to-end encryption** in **meterpreter backdoors**, which of course breaks retro-compatibility with older meterpreter payloads.
 
-Other awesome news include the implementation of SMBv3 client support, imprved evasive capabilities via polimorphic paload generation routines.
+Other awesome news include the implementation of SMBv3 client support, imprved evasive capabilities via polimorphic payload generation routines.
 
 if you want to read more about Metasploit 6, please read [This article](https://blog.rapid7.com/2020/08/06/metasploit-6-now-under-active-development/).
 
@@ -95,9 +95,10 @@ We now officially support the XFCE Desktop Environment. We will improve it in la
 
 you can download the XFCE image from here [https://download.parrot.sh/parrot/iso/4.10](https://download.parrot.sh/parrot/iso/4.10)
 
-## Greenbone 11 and OpenVAS 7.
+## Greenbone Vulnerability Manager 11.
 
-Parrot 4.10 now includes Greenbone Security Manager 11 and OpenVAS 7 with the new Debian packaging style.
+Parrot 4.10 now includes the Greenbone Vulnerability Management (GVM) 11 framework which was formerly known as OpenVAS.
+The GVM package now follows the new Debian packaging style.
 
 [Read the Greenbone 11 changelog](https://community.greenbone.net/t/gvm-11-release/3676)
 
