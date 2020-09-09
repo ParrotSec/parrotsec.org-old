@@ -64,11 +64,6 @@ URL = "contribute"
 weight = 11
 
 [[menu.main]]
-name = "Nest"
-URL = "https://nest.parrotsec.org"
-weight = 12
-
-[[menu.main]]
 name = "Team"
 URL = "docs/team"
 weight = 14
