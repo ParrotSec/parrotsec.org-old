@@ -1,6 +1,7 @@
 # Parrot Project Main Website
 
 This repository contains the source code of our website.
+
 Feel free to make your contribution.
 
 ## Built With
@@ -8,7 +9,7 @@ Feel free to make your contribution.
 * [Jekyll](https://jekyllrb.com/)
 * Coffee
 
-## Contributing
+## Contribution
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting merge requests (pull requests) to us.
 
