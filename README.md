@@ -7,6 +7,9 @@ Feel free to make your contribution.
 
 * [Jekyll](https://jekyllrb.com/)
 * Coffee
+* HTML
+* CSS
+* Javascript
 
 ## Contributing
 
