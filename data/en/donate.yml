@@ -1,0 +1,46 @@
+title: Donations and Gadgets
+introduction: Economical contribution is fundamental to the Parrot Project, as the number of servers needed to keep the infrastructure operational is constantly growing and is something our Core Developers could not afford without the generous assistance of our community.  Together we can continue to do the work that needs to be done!
+
+store:
+  title: Go to the store
+  url: https://parrot-security.spreadshirt.net
+  image: ../images/about/gadgets.png
+
+patreon:
+  title: Patreon
+  text: Adopt us on Patreon and become a recurring contributor
+  button: Go to Patreon
+  url: https://patreon.com/parrot
+
+paypal:
+  title: Paypal
+  text: Send us a tip on PayPal
+  button: Go to PayPal
+  url: https://www.paypal.me/palinuro
+
+crypto:
+  title: Cryptocurrencies
+  text: We believe in cryptocurrencies and we accept donations on several chains.
+  btc: 1PaRrotouWgDVeiGTaoGRdXYQdFcjoo7fw
+  btcb32: bc1qejlm4wkpgpv7hgscqj4j35q390du47zcdu6s33
+  ltc: MEEbtFkxzqqxtRZ4xGtyXGZvMYX4RuMN4B
+  ltcb32: ltc1qru05ulfajwnpy47gagcgx3rdc8lj6kjku9m337
+  xlm: GA7OVMQNTET4ZDUZSUFADOQUFENNMB3PNJCQFWQDBNW5Q2VI4FW2WYXE
+  eth: 0x2fBf674282248701ddfeCe0bb992524043572633
+  erc20: We support USDT, USDC, BAT, SAI, DAI, MKR, Link and 0x
+
+referrals:
+  title: Referral Links
+  description: Even if we host most of our infrastructure on bare metal servers, some of our nodes (CDN edge nodes etc) are hosted on famous cloud providers that provide referral programs.
+  digitalocean:
+    title: DigitalOcean
+    text: Get $100 of free credit with our DigitalOcean referral link.
+    link: https://m.do.co/c/6ad103daa403
+  linode:
+    title: Linode
+    text: Support the Parrot project by using our Linode referral link.
+    link: https://www.linode.com/?r=2b6d749d3cb301e41bdbec5fc40e50c4316f7c66
+  vultr:
+    title: Vultr
+    text: Get $100 of free credit with our Vultr referral link.
+    link: https://www.vultr.com/?ref=8443844-6G

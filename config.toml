@@ -74,8 +74,8 @@ URL = "docs/partners"
 weight = 16
 
 [[menu.main]]
-name = "Donate"
-URL = "docs/donate"
+name = "Donations & Gadgets"
+URL = "donate"
 weight = 16
 
 
@@ -115,6 +115,11 @@ portalsURLtext = "Official Links"
 [params.contribute]
 enable = true
 background = "images/backgrounds/planet-poly.jpg"
+
+# donate
+[params.donate]
+enable = true
+background = "images/backgrounds/mountains-poly.jpg"
 
 # footer
 [params.footer]

@@ -1,0 +1,84 @@
+{{ define "main" }}
+
+    {{ partial "navigation.html" . }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section id="donate-intro" class="call-to-action section-sm bg-1 overly" style='background-image: url("{{ .Site.Params.donate.background | absURL }}")'>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-lg-12 text-center">
+                <h1 style="color:black">{{ $data.donate.title }}</h1>
+                <h6 style="color:black">{{ $data.donate.description }}</h6>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-lg-12 text-center">
+                <div style="background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0,0,0,0.5));padding:2em;margin-top:5em">
+                    <h1 style="color:white">Gadgets Store</h1>
+                    <a href="{{ $data.donate.store.url }}" target="_blank">
+                        <img src="{{ $data.donate.store.image }}" width="100%" />
+                    </a>
+                    <a href="{{ $data.donate.store.url }}" target="_blank" class="btn btn-main">{{ $data.donate.store.title }}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="donate" class="call-to-action section-sm bg-1 overly">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-lg-6 text-center">
+                <div style="background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0,0,0,0.5));padding:2em;margin-top:5em">
+                    <h1>{{ $data.donate.patreon.title }}</h1>
+                    <p>{{ $data.donate.patreon.text }}</p>
+                    <a href="{{ $data.donate.patreon.url }}" target="_blank" class="btn btn-main">{{ $data.donate.patreon.button }}</a>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-lg-6 text-center">
+                <div style="background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0,0,0,0.5));padding:2em;margin-top:5em">
+                    <h1>{{ $data.donate.paypal.title }}</h1>
+                    <p>{{ $data.donate.paypal.text }}</p>
+                    <a href="{{ $data.donate.paypal.url }}" target="_blank" class="btn btn-main">{{ $data.donate.paypal.button }}</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-lg-12">
+                <div style="background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0,0,0,0.5));padding:2em;margin-top:5em">
+                    <h1 class="text-center">{{ $data.donate.crypto.title }}</h1>
+                    <p>{{ $data.donate.crypto.text }}</p>
+                    <p>BTC: <b>{{ $data.donate.crypto.btc }}</b></p>
+                    <p>BTC Bech32: <b>{{ $data.donate.crypto.btc }}</b></p>
+                    <p>LTC: <b>{{ $data.donate.crypto.ltc }}</b></p>
+                    <p>LTC Bech32: <b>{{ $data.donate.crypto.ltcb32 }}</b></p>
+                    <p>XLM: <b>{{ $data.donate.crypto.xlm }}</b></p>
+                    <p>ETH: <b>{{ $data.donate.crypto.eth }}</b></p>
+                    <p>ETH ERC20: {{ $data.donate.crypto.erc20 }}</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-lg-12 text-center">
+                <div style="background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0,0,0,0.5));padding:2em;margin-top:5em">
+                    <h1>{{ $data.donate.referrals.title }}</h1>
+                    <p>{{ $data.donate.referrals.description }}</p>
+                    <a href="{{ $data.donate.referrals.linode.link }}" target="_blank">
+                        <img width="50" alt="{{ $data.donate.referrals.linode.text }}" src="../images/misc/linode.png" />
+                    </a>
+                    <a href="{{ $data.donate.referrals.digitalocean.link }}" target="_blank">
+                        <img width="50" alt="{{ $data.donate.referrals.digitalocean.text }}" src="../images/misc/digitalocean.png" />
+                    </a>
+                    <a href="{{ $data.donate.referrals.vultr.link }}" target="_blank">
+                        <img width="50" alt="{{ $data.donate.referrals.vultr.text }}" src="../images/misc/vultr.png" />
+                    </a>
+                </div>
+            </div>
+        </div>
+        {{ .Content }}
+    </div>
+</section>
+
+{{ end }}
